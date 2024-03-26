@@ -59,7 +59,7 @@ This survey presents a detailed survey on generation and detection tasks about f
 - [Introduction](#introduction)
 - [Summary of Contents](#summary-of-contents)
 - [Methods: A Survey](#methods-a-survey)
-  - [Face Swap](#Face-Swap)
+  - [Face Swapping](#Face-Swapping)
   - [Face Reenactment](#Face-Reenactment)
   - [Talking Face Generation](#Talking-Face-Generation)
   - [Face Attribute Editing](#Face-Attribute-Editing)
@@ -71,7 +71,7 @@ This survey presents a detailed survey on generation and detection tasks about f
 
 ## Methods: A Survey
 
-### Face Swap
+### Face Swapping
 |Year|Venue|Category|Paper Title|Code|
 |:-:|:-:|:-:|-|-|
 |2020|CVPR|GANs|FaceShifter: Towards High Fidelity And Occlusion Aware Face Swapping|[Code](https://lingzhili.com/FaceShifterPage/)|
