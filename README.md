@@ -45,7 +45,7 @@ If you discover any missing work or have any suggestions, please feel free to su
 [3]  We list detailed results for the most representative works.
 
 ### ✨Survey pipeline
-<img src="https://github.com/flyingby/Deepfake-Generation-and-Detection/blob/main/structure.png" width.="1000px">
+<img src="https://github.com/flyingby/Awesome-Deepfake-Generation-and-Detection/blob/main/structure.png" width.="1000px">
 
 
 ## Introduction
@@ -53,7 +53,7 @@ If you discover any missing work or have any suggestions, please feel free to su
 This survey presents a detailed survey on generation and detection tasks about face-related generation, including **Face swap**, **Face reenactment**, **Talking Face Generation**, and **Face attribute editing**. In addition, we also introduce several related fields such as Head Swap, Face Super-resolution, Face Reconstruction, Face Inpainting, etc., and select some of them to expand.
 
 </p>
-<img src="https://github.com/flyingby/Deepfake-Generation-and-Detection/blob/main/task.png" width.="1000px">
+<img src="https://github.com/flyingby/Awesome-Deepfake-Generation-and-Detection/blob/main/task.png" width.="1000px">
 
 ## Summary of Contents
 - [Introduction](#introduction)
