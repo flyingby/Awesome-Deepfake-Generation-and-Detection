@@ -34,7 +34,7 @@ This work focuses on the aspect of facial manipulation in Deepfake, encompassing
 
 ### ✨You are welcome to provide us your work with a topic related to deepfake generation or detection!!!
 
-If you discover any missing work or have any suggestions, please feel free to submit a [pull request](https://github.com/flyingby/Deepfake-Generation-and-Detection/issues) or contact with us. We will promptly add the missing papers to this repository.
+If you discover any missing work or have any suggestions, please feel free to submit a [pull request](https://github.com/flyingby/Awesome-Deepfake-Generation-and-Detection/issues) or contact with us. We will promptly add the missing papers to this repository.
 
 ###  ✨Highlight!!!
 
