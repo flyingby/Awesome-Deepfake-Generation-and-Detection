@@ -3,7 +3,7 @@
   <p align="center">
   A Benchmark and Survey</h1>
    <p align="center">
-    <a href="https://github.com/flyingby"><strong>Gan Pei <sup>*</sup></strong></a>
+    <a href="https://scholar.google.com.hk/citations?user=1yhGS5sAAAAJ&hl=zh-CN"><strong>Gan Pei <sup>*</sup></strong></a>
     .
     <a href="https://zhangzjn.github.io/"><strong>Jiangning Zhang <sup>*</strong></a>
     .
