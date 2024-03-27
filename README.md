@@ -196,18 +196,6 @@ This survey presents a detailed survey on generation and detection tasks about f
 ### Face Attribute Editing
 |Year|Venue|Category|Paper Title|Code|
 |:-:|:-:|:-:|-|-|
-|2020|JAS|GANs|MU-GAN: Facial Attribute Editing Based on Multi-Attention Mechanism|[Code](https://github.com/SuSir1996/MU-GAN)|
-|2020|CVPR|GANs|Interpreting the Latent Space of GANs for Semantic Face Editing|[Code](https://github.com/genforce/interfacegan)|
-|2020|ACCV|GANs|MagGAN: High-Resolution Face Attribute Editing with Mask-Guided Generative Adversarial Network|-|
-|2021|ICCV|GANs |A Latent Transformer for Disentangled Face Editing in Images and Videos|[Code](https://github.com/InterDigitalInc/latent-transformer)|
-|2021|CVPR|GANs|High-Fidelity and Arbitrary Face Editing|[Code](https://github.com/hologerry/HifaFace)|
-|2022|CVPR|GANs+NeRF|FENeRF: Face Editing in Neural Radiance Fields|[Code](https://github.com/MrTornado24/FENeRF)|
-|2022|Neural Networks|GANs|GuidedStyle: Attribute Knowledge Guided Style Manipulation for Semantic Face Editing|-|
-|2022|SIGGRAPH|GANs+NeRF|FDNeRF: Few-shot Dynamic Neural Radiance Fields for Face Reconstruction and Expression Editing|[Code](https://fdnerf.github.io)|
-|2022|CVPR|GANs|AnyFace: Free-style Text-to-Face Synthesis and Manipulation|-|
-|2022|CVPR|GANs|TransEditor: Transformer-Based Dual-Space GAN for Highly Controllable Facial Editing|[Code](https://github.com/BillyXYB/TransEditor)|
-|2022|SIGGRAPH|GANs+NeRF|NeRFFaceEditing: Disentangled Face Editing in Neural Radiance Fields|-|
-|2022|TVCG|GANs +3D|Cross-Domain and Disentangled Face Manipulation With 3D Guidance|[Code](https://cassiepython.github.io/cddfm3d/index.html)|
 |2023|CVPR|Diffusion|Collaborative Diffusion for Multi-Modal Face Generation and Editing|[Code](https://github.com/ziqihuangg/Collaborative-Diffusion)|
 |2023|ICCV|GANs|Conceptual and Hierarchical Latent Space Decomposition for Face Editing|-|
 |2023|NN|GANs|IA-FaceS: A bidirectional method for semantic face editing|[Code](https://github.com/CMACH508/IA-FaceS)|
@@ -217,6 +205,20 @@ This survey presents a detailed survey on generation and detection tasks about f
 |2023|TPAMI|GANs|Image-to-Image Translation with Disentangled Latent Vectors for Face Editing|[Code](https://yusufdalva.github.io/vecgan/)|
 |2023|CVPR|GANs|DPE: Disentanglement of Pose and Expression for General Video Portrait Editing|[Code](https://github.com/Carlyx/DPE)|
 |2023|ACM MM|GANs|PixelFace+: Towards Controllable Face Generation and Manipulation with Text Descriptions and Segmentation Masks|[Code](https://github.com/qazwsx671713/PixelFace-Plus)|
+|2022|CVPR|GANs+NeRF|FENeRF: Face Editing in Neural Radiance Fields|[Code](https://github.com/MrTornado24/FENeRF)|
+|2022|Neural Networks|GANs|GuidedStyle: Attribute Knowledge Guided Style Manipulation for Semantic Face Editing|-|
+|2022|SIGGRAPH|GANs+NeRF|FDNeRF: Few-shot Dynamic Neural Radiance Fields for Face Reconstruction and Expression Editing|[Code](https://fdnerf.github.io)|
+|2022|CVPR|GANs|AnyFace: Free-style Text-to-Face Synthesis and Manipulation|-|
+|2022|CVPR|GANs|TransEditor: Transformer-Based Dual-Space GAN for Highly Controllable Facial Editing|[Code](https://github.com/BillyXYB/TransEditor)|
+|2022|SIGGRAPH|GANs+NeRF|NeRFFaceEditing: Disentangled Face Editing in Neural Radiance Fields|-|
+|2022|TVCG|GANs +3D|Cross-Domain and Disentangled Face Manipulation With 3D Guidance|[Code](https://cassiepython.github.io/cddfm3d/index.html)|
+|2021|ICCV|GANs |A Latent Transformer for Disentangled Face Editing in Images and Videos|[Code](https://github.com/InterDigitalInc/latent-transformer)|
+|2021|CVPR|GANs|High-Fidelity and Arbitrary Face Editing|[Code](https://github.com/hologerry/HifaFace)|
+|2020|JAS|GANs|MU-GAN: Facial Attribute Editing Based on Multi-Attention Mechanism|[Code](https://github.com/SuSir1996/MU-GAN)|
+|2020|CVPR|GANs|Interpreting the Latent Space of GANs for Semantic Face Editing|[Code](https://github.com/genforce/interfacegan)|
+|2020|ACCV|GANs|MagGAN: High-Resolution Face Attribute Editing with Mask-Guided Generative Adversarial Network|-|
+
+
 ### Detection Modal
 |Year|Venue|Category|Paper Title|Code|
 |:-:|:-:|:-:|-|-|
