@@ -119,34 +119,34 @@ This survey presents a detailed survey on generation and detection tasks about f
 |2020|AAAI|GANs+VAEs |Deepfakes for Medical Video De-Identification: Privacy Protection and Diagnostic Information Preservation|-|
 
 
-
-
 ### Face Reenactment
 |Year|Venue|Paper Title|Code|
 |:-:|:-:|-|-|
-|2016|CVPR|Face2Face: Real-time Face Capture and Reenactment of RGB Videos|-|
-|2018|CVPR|X2Face: A network for controlling face generation using images, audio, and pose codes|-|
-|2018|ACM TOG|Deep video portraits|-|
-|2018|NeurIPS|Video to video synthesis|[Code](https://github.com/NVIDIA/vid2vid)|
-|2019|ACM TOG|Deferred Neural Rendering: Image Synthesis using Neural Textures|-|
-|2019|ACM TOG|Neural style-preserving visual dubbing|-|
-|2019|ICCV|Few-Shot Adversarial Learning of Realistic Neural Talking Head Models|-|
-|2020|CVPR|FReeNet: Multi-Identity Face Reenactment|-|
-|2020|FG|Head2Head: Videobased neural head synthesis|-|
-|2020|ECCV|Fast bilayer neural synthesis of one-shot realistic head avatars|-|
-|2020|AAAI|MarioNETte: Few-Shot Face Reenactment Preserving Identity of Unseen Targets|-|
-|2021|ICCV|PIRenderer: Controllable Portrait Image Generation via Semantic Neural Rendering|[Code](https://github.com/RenYurui/PIRender)|
-|2021|ICCV|Headgan: One-shot neural head synthesis and editing|-|
-|2022|ECCV|Face2Faceρ: Real-Time High-Resolution One-Shot Face Reenactment|-|
-|2022|CVPR|Dual-Generator Face Reenactment|-|
+|2024|AAAI|Learning Dense Correspondence for NeRF-Based Face Reenactment|-|
+|2024|IJCV|One-shot Neural Face Reenactment via Finding Directions in GAN's Latent Space|-|
 |2023|CVPR|High-Fidelity and Freely Controllable Talking Head Video Generation|[Code](https://yuegao.me/PECHead)|
 |2023|TPAMI|Free-headgan: Neural talking head synthesis with explicit gaze control|-|
 |2023|ICCV|HyperReenact: One-Shot Reenactment via Jointly Learning to Refine and Retarget Faces|[Code](https://github.com/StelaBou/HyperReenact)|
 |2023|CVPR|MetaPortrait: Identity-Preserving Talking Head Generation with Fast Personalized Adaptation|-|
 |2023|CVPR|One-shot high-fidelity talking-head synthesis with deformable neural radiance field|[Code](https://www.waytron.net/hidenerf/)|
 |2023|FG|Stylemask: Disentangling the style space of stylegan2 for neural face reenactment|[Code](https://github.com/StelaBou/StyleMask.)|
-|2024|AAAI|Learning Dense Correspondence for NeRF-Based Face Reenactment|-|
-|2024|IJCV|One-shot Neural Face Reenactment via Finding Directions in GAN's Latent Space|-|
+|2022|ECCV|Face2Faceρ: Real-Time High-Resolution One-Shot Face Reenactment|-|
+|2022|CVPR|Dual-Generator Face Reenactment|-|
+|2021|ICCV|PIRenderer: Controllable Portrait Image Generation via Semantic Neural Rendering|[Code](https://github.com/RenYurui/PIRender)|
+|2021|ICCV|Headgan: One-shot neural head synthesis and editing|-|
+|2020|CVPR|FReeNet: Multi-Identity Face Reenactment|-|
+|2020|FG|Head2Head: Videobased neural head synthesis|-|
+|2020|ECCV|Fast bilayer neural synthesis of one-shot realistic head avatars|-|
+|2020|AAAI|MarioNETte: Few-Shot Face Reenactment Preserving Identity of Unseen Targets|-|
+|2019|ACM TOG|Deferred Neural Rendering: Image Synthesis using Neural Textures|-|
+|2019|ACM TOG|Neural style-preserving visual dubbing|-|
+|2019|ICCV|Few-Shot Adversarial Learning of Realistic Neural Talking Head Models|-|
+|2018|CVPR|X2Face: A network for controlling face generation using images, audio, and pose codes|-|
+|2018|ACM TOG|Deep video portraits|-|
+|2018|NeurIPS|Video to video synthesis|[Code](https://github.com/NVIDIA/vid2vid)|
+|2016|CVPR|Face2Face: Real-time Face Capture and Reenactment of RGB Videos|-|
+
+
 
 ### Talking Face Generation
 |Year|Venue|Category|Paper Title|Code|
