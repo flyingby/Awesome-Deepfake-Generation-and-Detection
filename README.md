@@ -307,6 +307,17 @@ This survey presents a detailed survey on generation and detection tasks about f
 ### Body Animation
 |Year|Venue|Paper Title|Code|
 |:-:|:-:|-|-|
+|2024|AAAI|PTUS: Photo-Realistic Talking Upper-Body Synthesis via 3D-Aware Motion Decomposition Warping|[Code](https://github.com/cooluoluo/PTUS)|
+|2024|CVPR|Emotional Speech-driven 3D Body Animation via Disentangled Latent Diffusion|[Code](https://amuse.is.tue.mpg.de/)|
+|2024|arXiv|Champ: Controllable and Consistent Human Image Animation with 3D Parametric Guidance|[Code](https://fudan-generative-vision.github.io/champ/#/)|
+|2023|WACV|Physically Plausible Animation of Human Upper Body From a Single Image|-|
+|2023|ICCV|Towards Multi-Layered 3D Garments Animation|[Code](www.mmlab-ntu.com/project/layersnet/index.html)|
+|2023|ICCV|Make-An-Animation: Large-Scale Text-conditional 3D Human Motion Generation|[Code](https://azadis.github.io/make-an-animation/)|
+|2023|CVPR|Learning anchor transformations for 3d garment animation|-|
+|2023|arXiv|TADA! Text to Animatable Digital Avatars|[Code](https://tada.is.tue.mpg.de/)|
+|2022|IJCAI|Text/Speech-Driven Full-Body Animation|[Code](https://github.com/YadiraF/SCARF)|
+|2022|SIGGRAPH|Capturing and Animation of Body and Clothing from Monocular Video|-|
+|2022|NeurIPS|CageNeRF: Cage-based Neural Radiance Field for Generalized 3D Deformation and Animation|[Code](https://pengyicong.github.io/CageNeRF/)|
 
 ### Makeup Transfer
 |Year|Venue|Paper Title|Code|
