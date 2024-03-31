@@ -40,7 +40,7 @@ If you discover any missing work or have any suggestions, please feel free to su
 
 [1]  A comprehensive survey for visual Deepfake, including Deepfake generation/detection.
 
-[2]  It also contains several related domains. 
+[2]  It also contains several related domains, including Heas Swapping, FaceSuper-resolution, Face Reconstruction, Face Inpainting, Body Animation, Portrait Style Transfer, Makeup Transfer and Adversarial Sample Detection. 
 
 [3]  We list detailed results for the most representative works.
 
@@ -62,8 +62,8 @@ This survey presents a detailed survey on generation and detection tasks about f
   - [Face Swapping](#Face-Swapping)
   - [Face Reenactment](#Face-Reenactment)
   - [Talking Face Generation](#Talking-Face-Generation)
-  - [Face Attribute Editing](#Face-Attribute-Editing)
-  - [Detection Modal](#Detection-Modal)
+  - [Facial Attribute Editing](#Facial-Attribute-Editing)
+  - [Foreign Detection](#Foreign-Detection)
   - [Related Domains and Beyond](#related-domains-and-beyond)
 - [Cite The Survey](#Cite-The-Survey)
 - [Contact](#contact)
@@ -193,7 +193,7 @@ This survey presents a detailed survey on generation and detection tasks about f
 
 
 
-### Face Attribute Editing
+### Facial Attribute Editing
 |Year|Venue|Category|Paper Title|Code|
 |:-:|:-:|:-:|-|-|
 |2023|CVPR|Diffusion|Collaborative Diffusion for Multi-Modal Face Generation and Editing|[Code](https://github.com/ziqihuangg/Collaborative-Diffusion)|
@@ -219,7 +219,7 @@ This survey presents a detailed survey on generation and detection tasks about f
 |2020|ACCV|GANs|MagGAN: High-Resolution Face Attribute Editing with Mask-Guided Generative Adversarial Network|-|
 
 
-### Detection Modal
+### Foreign Detection
 |Year|Venue|Category|Paper Title|Code|
 |:-:|:-:|:-:|-|-|
 |2024|arXiv|Space Domain|Diffusion Facial Forgery Detection|-|
