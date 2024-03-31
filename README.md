@@ -295,7 +295,7 @@ This survey presents a detailed survey on generation and detection tasks about f
 |2023|TMM|Exploiting Multi-Scale Parallel Self-Attention and Local Variation via Dual-Branch Transformer-CNN Structure for Face Super-Resolution|-|
 |2023|NN|Self-attention learning network for face super-resolution|-|
 |2023|PR|A Composite Network Model for Face Super-Resolution with Multi-Order Head Attention Facial Priors|-|
-|2022|CVPR|GCFSR: A Generative and Controllable Face Super Resolution Method Without Facial and GAN Priors|[Code](https: //github.com/hejingwenhejingwen/GCFSR)|
+|2022|CVPR|GCFSR: A Generative and Controllable Face Super Resolution Method Without Facial and GAN Priors|[Code](https://github.com/hejingwenhejingwen/GCFSR)|
 |2022|ECCV|From Face to Natural Image: Learning Real Degradation for Blind Image Super-Resolution|[Code](https://github.com/csxmli2016/ReDegNet)|
 |2022|TCSVT|Propagating Facial Prior Knowledge for Multitask Learning in Face Super-Resolution|[Code](https://github.com/wcy-cs/KDFSRNet)|
 |2022|NN|Multi-level landmark-guided deep network for face super-resolution|[Code](https://github.com/zhuangcheng31/MLG_Face.git/)|
