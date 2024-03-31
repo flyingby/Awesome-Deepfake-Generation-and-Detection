@@ -64,9 +64,11 @@ This survey presents a detailed survey on generation and detection tasks about f
   - [Talking Face Generation](#Talking-Face-Generation)
   - [Facial Attribute Editing](#Facial-Attribute-Editing)
   - [Foreign Detection](#Foreign-Detection) 
-- [Related Research Domains](#Relate-Research-Domains)
+- [Related Research Domains](#Related-Research-Domains)
   - [Face Super-resolution](#Face-Super-resolution) 
-  
+  - [Portrait Style Transfer](#Portrait-Style-Transfer)
+  - [Body Animation](#Body-Animation)
+  - [Makeup Transfer](#Makeup-Transfer)
 - [Cite The Survey](#Cite-The-Survey)
 - [Contact](#contact)
 
@@ -282,6 +284,17 @@ This survey presents a detailed survey on generation and detection tasks about f
 |Year|Venue|Paper Title|Code|
 |:-:|:-:|-|-|
 
+### Portrait Style Transfer
+|Year|Venue|Paper Title|Code|
+|:-:|:-:|-|-|
+
+### Body Animation
+|Year|Venue|Paper Title|Code|
+|:-:|:-:|-|-|
+
+### Makeup Transfer
+|Year|Venue|Paper Title|Code|
+|:-:|:-:|-|-|
 
 ## Cite The Survey
 If you find our survey and repository useful for your research project, please consider citing our paper:
