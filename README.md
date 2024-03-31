@@ -325,7 +325,6 @@ This survey presents a detailed survey on generation and detection tasks about f
 ### Body Animation
 |Year|Venue|Paper Title|Code|
 |:-:|:-:|-|-|
-|2024|arxiv|Stable-Makeup: When Real-World Makeup Transfer Meets Diffusion Model|-|
 |2024|AAAI|PTUS: Photo-Realistic Talking Upper-Body Synthesis via 3D-Aware Motion Decomposition Warping|[Code](https://github.com/cooluoluo/PTUS)|
 |2024|CVPR|Emotional Speech-driven 3D Body Animation via Disentangled Latent Diffusion|[Code](https://amuse.is.tue.mpg.de/)|
 |2024|arXiv|Champ: Controllable and Consistent Human Image Animation with 3D Parametric Guidance|[Code](https://fudan-generative-vision.github.io/champ/#/)|
@@ -341,6 +340,7 @@ This survey presents a detailed survey on generation and detection tasks about f
 ### Makeup Transfer
 |Year|Venue|Paper Title|Code|
 |:-:|:-:|-|-|
+|2024|arxiv|Stable-Makeup: When Real-World Makeup Transfer Meets Diffusion Model|-|
 |2024|ICASSP|Skin tone disentanglement in 2D makeup transfer with graph neural networks|-|
 |2023|TNNLS|SSAT++: A Semantic-Aware and Versatile Makeup Transfer Network With Local Color Consistency Constraint|[Code](https://gitee.com/sunzhaoyang0304/ssat-msp)|
 |2023|CVPR|BeautyREC: Robust, Efficient, and Component-Specific Makeup Transfer|[Code](https://li-chongyi.github.io/BeautyREC_files/)|
