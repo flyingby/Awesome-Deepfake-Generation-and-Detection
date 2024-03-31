@@ -40,7 +40,7 @@ If you discover any missing work or have any suggestions, please feel free to su
 
 [1]  A comprehensive survey for visual Deepfake, including Deepfake generation/detection.
 
-[2]  It also contains several related domains, including Heas Swapping, FaceSuper-resolution, Face Reconstruction, Face Inpainting, Body Animation, Portrait Style Transfer, Makeup Transfer and Adversarial Sample Detection. 
+[2]  It also contains several related domains, including Heas Swapping, Face Super-resolution, Face Reconstruction, Face Inpainting, Body Animation, Portrait Style Transfer, Makeup Transfer and Adversarial Sample Detection. 
 
 [3]  We list detailed results for the most representative works.
 
@@ -63,8 +63,10 @@ This survey presents a detailed survey on generation and detection tasks about f
   - [Face Reenactment](#Face-Reenactment)
   - [Talking Face Generation](#Talking-Face-Generation)
   - [Facial Attribute Editing](#Facial-Attribute-Editing)
-  - [Foreign Detection](#Foreign-Detection)
-  - [Related Domains and Beyond](#related-domains-and-beyond)
+  - [Foreign Detection](#Foreign-Detection) 
+- [Related Research Domains](#Relate-Research-Domains)
+  - [Face Super-resolution](#Face-Super-resolution) 
+  
 - [Cite The Survey](#Cite-The-Survey)
 - [Contact](#contact)
 
@@ -97,7 +99,7 @@ This survey presents a detailed survey on generation and detection tasks about f
 |2023|CVPR|Difussion|DiffSwap: High-Fidelity and Controllable Face Swapping via 3D-Aware Masked Diffusion|[Code](https://github.com/wl-zhao/DiffSwap)|
 |2023|arXiv|Difussion|A Generalist FaceX via Learning Unified Facial Representation|[Code](https://diffusion-facex.github.io/)|
 |2022|AAAI|GANs|MobileFaceSwap: A Lightweight Framework for Video Face Swapping|[Code](https://github.com/Seanseattle/MobileFaceSwap)|
-|2022|T-PAMI|GANs |FSGANv2: Improved Subject Agnostic Face Swapping and Reenactment|[Code](https://github.com/YuvalNirkin/fsgan)|
+|2022|T-PAMI|GANs|FSGANv2: Improved Subject Agnostic Face Swapping and Reenactment|[Code](https://github.com/YuvalNirkin/fsgan)|
 |2022|ICME|GANs|Migrating face swap to mobile devices: a lightweight framework and a supervised training solution|[Code](https://github.com/HoiM/MobileFSGAN)|
 |2022|ECCV|GANs|StyleSwap: Style-Based Generator Empowers Robust Face Swapping|[Code](https://github.com/Seanseattle/StyleSwap)|
 |2022|ECCV|GANs|Designing One Unified Framework for High-Fidelity Face Reenactment and Swapping|[Code](https://github.com/xc-csc101/UniFace)|
@@ -108,15 +110,15 @@ This survey presents a detailed survey on generation and detection tasks about f
 |2022|CVPR|GANs|High-resolution Face Swapping via Latent Semantics Disentanglement|[Code](https://github.com/cnnlstm/FSLSD_HiRes)|
 |2021|CVPR|GANs+3DMM|FaceInpainter: High Fidelity Face Adaptation to Heterogeneous Domains|-|
 |2021|CVPR|GANs|Information Bottleneck Disentanglement for Identity Swapping|-|
-|2021|CVPR|GANs |One Shot Face Swapping on Megapixels|[Code](https://github.com/zyainfal/One-Shot-Face-Swapping-on-Megapixels)|
-|2021|MMM|GANs |Deep Face Swapping via Cross-Identity Adversarial Training|-|
+|2021|CVPR|GANs|One Shot Face Swapping on Megapixels|[Code](https://github.com/zyainfal/One-Shot-Face-Swapping-on-Megapixels)|
+|2021|MMM|GANs|Deep Face Swapping via Cross-Identity Adversarial Training|-|
 |2021|Neurocomputing|GANs |Unnoticeable synthetic face replacement for image privacy protection|-|
 |2021|IJCAI|GANs+3DMM|HifiFace: 3D Shape and Semantic Prior Guided High Fidelity Face Swapping|[Code](https://github.com/johannwyh/HifiFace)|
 |2020|CVPR|GANs|FaceShifter: Towards High Fidelity And Occlusion Aware Face Swapping|[Code](https://lingzhili.com/FaceShifterPage/)|
 |2020|CVPR|GANs|DeepFaceLab: Integrated, flexible and extensible face-swapping framework|[Code](https://github.com/iperov/DeepFaceLab)|
 |2020|NeurIPS|GANs|AOT: Appearance Optimal Transport Based Identity Swapping for Forgery Detection|[Code](https://github.com/zhuhaozh/AOT)|
-|2020|ACM MM|GANs+VAEs |SimSwap: An Efficient Framework For High Fidelity Face Swapping|[Code](https://github.com/neuralchen/SimSwap)|
-|2020|AAAI|GANs+VAEs |Deepfakes for Medical Video De-Identification: Privacy Protection and Diagnostic Information Preservation|-|
+|2020|ACM MM|GANs+VAEs|SimSwap: An Efficient Framework For High Fidelity Face Swapping|[Code](https://github.com/neuralchen/SimSwap)|
+|2020|AAAI|GANs+VAEs|Deepfakes for Medical Video De-Identification: Privacy Protection and Diagnostic Information Preservation|-|
 
 
 ### Face Reenactment
@@ -273,6 +275,13 @@ This survey presents a detailed survey on generation and detection tasks about f
 |2019|ICASSP|Time Domain|Exposing deep fakes using inconsistent head poses|-|
 |2019|ICASSP|Space Domain|Capsule-forensics: Using Capsule Networks to Detect Forged Images and Videos|[Code](https://github.com/nii-yamagishilab/Capsule-Forensics)|
 |2018|WIFS|Data Driven|In Ictu Oculi: Exposing AI Generated Fake Face Videos by Detecting Eye Blinking|[Code](https://github.com/yuezunli/WIFS2018_In_Ictu_Oculi)|
+
+## Related Research Domains
+
+### Face Super-resolution
+|Year|Venue|Paper Title|Code|
+|:-:|:-:|-|-|
+
 
 ## Cite The Survey
 If you find our survey and repository useful for your research project, please consider citing our paper:
