@@ -97,7 +97,7 @@ This survey presents a detailed survey on generation and detection tasks about f
 |2023|CVPR|Difussion|DiffSwap: High-Fidelity and Controllable Face Swapping via 3D-Aware Masked Diffusion|[Code](https://github.com/wl-zhao/DiffSwap)|
 |2023|arXiv|Difussion|A Generalist FaceX via Learning Unified Facial Representation|[Code](https://diffusion-facex.github.io/)|
 |2022|AAAI|GANs|MobileFaceSwap: A Lightweight Framework for Video Face Swapping|[Code](https://github.com/Seanseattle/MobileFaceSwap)|
-|2022|PAMI|GANs |FSGANv2: Improved Subject Agnostic Face Swapping and Reenactment|[Code](https://github.com/YuvalNirkin/fsgan)|
+|2022|T-PAMI|GANs |FSGANv2: Improved Subject Agnostic Face Swapping and Reenactment|[Code](https://github.com/YuvalNirkin/fsgan)|
 |2022|ICME|GANs|Migrating face swap to mobile devices: a lightweight framework and a supervised training solution|[Code](https://github.com/HoiM/MobileFSGAN)|
 |2022|ECCV|GANs|StyleSwap: Style-Based Generator Empowers Robust Face Swapping|[Code](https://github.com/Seanseattle/StyleSwap)|
 |2022|ECCV|GANs|Designing One Unified Framework for High-Fidelity Face Reenactment and Swapping|[Code](https://github.com/xc-csc101/UniFace)|
@@ -125,7 +125,7 @@ This survey presents a detailed survey on generation and detection tasks about f
 |2024|AAAI|Learning Dense Correspondence for NeRF-Based Face Reenactment|-|
 |2024|IJCV|One-shot Neural Face Reenactment via Finding Directions in GAN's Latent Space|-|
 |2023|CVPR|High-Fidelity and Freely Controllable Talking Head Video Generation|[Code](https://yuegao.me/PECHead)|
-|2023|TPAMI|Free-headgan: Neural talking head synthesis with explicit gaze control|-|
+|2023|T-PAMI|Free-headgan: Neural talking head synthesis with explicit gaze control|-|
 |2023|ICCV|HyperReenact: One-Shot Reenactment via Jointly Learning to Refine and Retarget Faces|[Code](https://github.com/StelaBou/HyperReenact)|
 |2023|CVPR|MetaPortrait: Identity-Preserving Talking Head Generation with Fast Personalized Adaptation|-|
 |2023|CVPR|One-shot high-fidelity talking-head synthesis with deformable neural radiance field|[Code](https://www.waytron.net/hidenerf/)|
@@ -202,7 +202,7 @@ This survey presents a detailed survey on generation and detection tasks about f
 |2023|TPAMI|GANs+NeRF|CIPS-3D++: End-to-End Real-Time High-Resolution 3D-Aware GANs for GAN Inversion and Stylization|-|
 |2023|SIGGRAPH|GANs+3DMM|ClipFace: Text-guided Editing of Textured 3D Morphable Models|[Code](https://github.com/shivangi-aneja/ClipFace)|
 |2023|ICCV|GANs|Towards High-Fidelity Text-Guided 3D Face Generation and Manipulation Using only Images|-|
-|2023|TPAMI|GANs|Image-to-Image Translation with Disentangled Latent Vectors for Face Editing|[Code](https://yusufdalva.github.io/vecgan/)|
+|2023|T-PAMI|GANs|Image-to-Image Translation with Disentangled Latent Vectors for Face Editing|[Code](https://yusufdalva.github.io/vecgan/)|
 |2023|CVPR|GANs|DPE: Disentanglement of Pose and Expression for General Video Portrait Editing|[Code](https://github.com/Carlyx/DPE)|
 |2023|ACM MM|GANs|PixelFace+: Towards Controllable Face Generation and Manipulation with Text Descriptions and Segmentation Masks|[Code](https://github.com/qazwsx671713/PixelFace-Plus)|
 |2022|CVPR|GANs+NeRF|FENeRF: Face Editing in Neural Radiance Fields|[Code](https://github.com/MrTornado24/FENeRF)|
@@ -251,7 +251,7 @@ This survey presents a detailed survey on generation and detection tasks about f
 |2022|CVPR|Time Domain|Leveraging Real Talking Faces via Self-Supervision for Robust Forgery Detection|[Code](https://github.com/ahaliassos/RealForensics)|
 |2022|AAAI|Data Driven|FInfer: Frame Inference-Based Deepfake Detection for High-Visual-Quality Videos|-|
 |2021|CVPR|Space Domain|Multi-attentional Deepfake Detection|[Code](https://github.com/yoctta/multiple-attention)|
-|2021|TPAMI|Space Domain|DeepFake Detection Based on Discrepancies Between Faces and their Context|-|
+|2021|T-PAMI|Space Domain|DeepFake Detection Based on Discrepancies Between Faces and their Context|-|
 |2021|ICCV|Data Driven|Learning Self-Consistency for Deepfake Detection|-|
 |2021|CVPR|Space Domain|Frequency-aware Discriminative Feature Learning Supervised by Single-Center Loss for Face Forgery Detection|-|
 |2021|ICCV|Time Domain|Exploring Temporal Coherence for More General Video Face Forgery Detection|[Code](https://github.com/yinglinzheng/FTCN)|
