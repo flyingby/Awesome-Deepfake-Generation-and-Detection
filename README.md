@@ -340,6 +340,7 @@ This survey presents a detailed survey on generation and detection tasks about f
 ### Makeup Transfer
 |Year|Venue|Paper Title|Code|
 |:-:|:-:|-|-|
+|2024|CVPR|Makeup Prior Models for 3D Facial Makeup Estimation and Applications|[Code](https://yangxingchao.github.io/makeup-priors-page/)|
 |2024|arxiv|Stable-Makeup: When Real-World Makeup Transfer Meets Diffusion Model|-|
 |2024|ICASSP|Skin tone disentanglement in 2D makeup transfer with graph neural networks|-|
 |2023|TNNLS|SSAT++: A Semantic-Aware and Versatile Makeup Transfer Network With Local Color Consistency Constraint|[Code](https://gitee.com/sunzhaoyang0304/ssat-msp)|
