@@ -295,6 +295,24 @@ This survey presents a detailed survey on generation and detection tasks about f
 ### Makeup Transfer
 |Year|Venue|Paper Title|Code|
 |:-:|:-:|-|-|
+|2024|ICASSP|Skin tone disentanglement in 2D makeup transfer with graph neural networks|-|
+|2023|TNNLS|SSAT++: A Semantic-Aware and Versatile Makeup Transfer Network With Local Color Consistency Constraint|[Code](https://gitee.com/sunzhaoyang0304/ssat-msp)|
+|2023|CVPR|BeautyREC: Robust, Efficient, and Component-Specific Makeup Transfer|[Code](https://li-chongyi.github.io/BeautyREC_files/)|
+|2023|TCSVT|Hybrid Transformers with Attention-guided Spatial Embeddings for Makeup Transfer and Removal|-|
+|2023|arXiv|SARA: Controllable Makeup Transfer with Spatial Alignment and Region-Adaptive Normalization|-|
+|2022|ICCV|EleGANt: Exquisite and Locally Editable GAN for Makeup Transfer|[Code](https://github.com/Chenyu-Yang-2000/EleGANt)|
+|2022|AAAI|SSAT: A Symmetric Semantic-Aware Transformer Network for Makeup Transfer and Removal|[Code](https://gitee.com/sunzhaoyang0304/ssat-msp)|
+|2022|Knowledge-Based Systems|TSEV-GAN: Generative Adversarial Networks with Target-aware Style Encoding and Verification for facial makeup transfer|-|
+|2022|Knowledge-Based Systems|CUMTGAN: An instance-level controllable U-Net GAN for facial makeup transfer|-|
+|2021|CVPR|Lipstick ain’t enough: beyond color matching for in-the-wild makeup|[Code](https://github.com/VinAIResearch/CPM)|
+|2021|T-PAMI|Psgan++: Robust detail-preserving makeup transfer and removal|[Code](https://github.com/wtjiang98/PSGAN)|
+|2020|CVPR|PSGAN: Pose and Expression Robust Spatial-Aware GAN for Customizable Makeup Transfer|[Code](https://github.com/wtjiang98/PSGAN)|
+|2019|CVPR|Beautyglow : On-demand makeup transfer framework with reversible generative network|[Code](https://github.com/BeautyGlow/BeautyGlow.github.io)|
+|2019|ICCV|Ladn: Local adversarial disentangling network for facial makeup and de-makeup|[Code](https://georgegu1997.github.io/LADN-projectpage)|
+|2018|ACM MM|BeautyGAN: Instance-level Facial Makeup Transfer with Deep Generative Adversarial Network|[Code](http://liusi-group.com/projects/BeautyGAN )|
+|2018|CVPR|Pairedcyclegan: Asymmetric style transfer for applying and removing makeup|-|
+|2017|AAAI|Examples-rules guided deep neural network for makeup recommendation|-|
+
 
 ## Cite The Survey
 If you find our survey and repository useful for your research project, please consider citing our paper:
