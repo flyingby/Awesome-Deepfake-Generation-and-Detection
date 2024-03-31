@@ -283,6 +283,22 @@ This survey presents a detailed survey on generation and detection tasks about f
 ### Face Super-resolution
 |Year|Venue|Paper Title|Code|
 |:-:|:-:|-|-|
+|2024|AAAI|Low-Light Face Super-resolution via Illumination, Structure, and Texture Associated Representation|[Code](https://github.com/wcy-cs/IC-FSRDENet)|
+|2024|AAAI|SkipDiff: Adaptive Skip Diffusion Model for High-Fidelity Perceptual Image Super-resolution|-|
+|2024|WACV|Arbitrary-Resolution and Arbitrary-Scale Face Super-Resolution With Implicit Representation Networks|-|
+|2024|arXiv|PFStorer: Personalized Face Restoration and Super-Resolution|-|
+|2024|ICASSP|Adaptive Super Resolution for One-Shot Talking-Head Generation|[Code](https://github.com/Songluchuan/AdaSR-TalkingHead/)|
+|2023|CVPR|Spatial-Frequency Mutual Learning for Face Super-Resolution|[Code](https://github.com/wcy-cs/SFMNet)|
+|2023|TIP|CTCNet: A CNN-Transformer Cooperation Network for Face Image Super-Resolution|[Code](https://github.com/IVIPLab/CTCNet)|
+|2023|TIP|Semi-Cycled Generative Adversarial Networks for Real-World Face Super-Resolution|[Code](https://github.com/HaoHou-98/SCGAN)|
+|2023|TMM|An Efficient Latent Style Guided Transformer-CNN Framework for Face Super-Resolution|[Code](https://github.com/FVL2020/ELSFace)|
+|2023|TMM|Exploiting Multi-Scale Parallel Self-Attention and Local Variation via Dual-Branch Transformer-CNN Structure for Face Super-Resolution|-|
+|2023|NN|Self-attention learning network for face super-resolution|-|
+|2023|PR|A Composite Network Model for Face Super-Resolution with Multi-Order Head Attention Facial Priors|-|
+|2022|CVPR|GCFSR: A Generative and Controllable Face Super Resolution Method Without Facial and GAN Priors|[Code](https: //github.com/hejingwenhejingwen/GCFSR)|
+|2022|ECCV|From Face to Natural Image: Learning Real Degradation for Blind Image Super-Resolution|[Code](https://github.com/csxmli2016/ReDegNet)|
+|2022|TCSVT|Propagating Facial Prior Knowledge for Multitask Learning in Face Super-Resolution|[Code](https://github.com/wcy-cs/KDFSRNet)|
+|2022|NN|Multi-level landmark-guided deep network for face super-resolution|[Code](https://github.com/zhuangcheng31/MLG_Face.git/)|
 
 ### Portrait Style Transfer
 |Year|Venue|Paper Title|Code|
