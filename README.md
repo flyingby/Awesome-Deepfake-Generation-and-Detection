@@ -211,6 +211,10 @@ This survey presents a detailed survey on generation and detection tasks about f
 ### Facial Attribute Editing
 |Year|Venue|Category|Paper Title|Code|
 |:-:|:-:|:-:|-|-|
+|2024|arXiv|Diffusion|DiffFAE: Advancing High-fidelity One-shot Facial Appearance Editing with Space-sensitive Customization and Semantic Preservation|-|
+|2024|arXiv|Diffusion|DreamSalon: A Staged Diffusion Framework for Preserving Identity-Context in Editable Face Generation|-|
+|2024|ICASSP|GANs|Semantic Latent Decomposition with Normalizing Flows for Face Editing|[Code](https://github.com/phil329/SDFlow)|
+|2024|AAAI|GANs|SDGAN: Disentangling Semantic Manipulation for Facial Attribute Editing|-|
 |2023|CVPR|Diffusion|Collaborative Diffusion for Multi-Modal Face Generation and Editing|[Code](https://github.com/ziqihuangg/Collaborative-Diffusion)|
 |2023|ICCV|GANs|Conceptual and Hierarchical Latent Space Decomposition for Face Editing|-|
 |2023|NN|GANs|IA-FaceS: A bidirectional method for semantic face editing|[Code](https://github.com/CMACH508/IA-FaceS)|
