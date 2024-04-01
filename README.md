@@ -319,11 +319,11 @@ This survey presents a detailed survey on generation and detection tasks about f
 ### Portrait Style Transfer
 |Year|Venue|Paper Title|Code|
 |:-:|:-:|-|-|
-|2024|arXiv|ToonAging: Face Re-Aging upon Artistic Portrait Style Transfer|[-|
+|2024|arXiv|ToonAging: Face Re-Aging upon Artistic Portrait Style Transfer|-|
 |2024|ICASSP|A Framework for Portrait Stylization with Skin-Tone Awareness and Nudity Identification|-|
 |2024|ICASSP|Learning Discriminative Style Representations for Unsupervised and Few-Shot Artistic Portrait Drawing Generation|[Code](https://github.com/AiArt-HDU/Co-GAN)|
 |2024|TMM|FaceRefiner: High-Fidelity Facial Texture Refinement with Differentiable Rendering-based Style Transfer|-|
-|2024|AAAI|MagiCapture: High-Resolution Multi-Concept Portrait Customization|[-|
+|2024|AAAI|MagiCapture: High-Resolution Multi-Concept Portrait Customization|-|
 |2024|TNNLS|Few-Shot Face Stylization via GAN Prior Distillation|-|
 |2023|TNNLS|Unpaired Artistic Portrait Style Transfer via Asymmetric Double-Stream GAN|-|
 |2023|arXiv|PP-GAN : Style Transfer from Korean Portraits to ID Photos Using Landmark Extractor with GAN|-|
