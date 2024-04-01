@@ -348,6 +348,9 @@ This survey presents a detailed survey on generation and detection tasks about f
 |:-:|:-:|-|-|
 |2024|AAAI|PTUS: Photo-Realistic Talking Upper-Body Synthesis via 3D-Aware Motion Decomposition Warping|[Code](https://github.com/cooluoluo/PTUS)|
 |2024|CVPR|Emotional Speech-driven 3D Body Animation via Disentangled Latent Diffusion|[Code](https://amuse.is.tue.mpg.de/)|
+|2024|CVPR|DISCO: Disentangled Control for Realistic Human Dance Generation|[Code](https://disco-dance.github.io/)|
+|2024|CVPR|MagicAnimate: Temporally Consistent Human Image Animation using Diffusion Model|[Code](https://showlab.github.io/magicanimate)|
+|2024|CVPR|GaussianAvatar: Towards Realistic Human Avatar Modeling from a Single Video via Animatable 3D Gaussians|[Code](https://huliangxiao.github.io/GaussianAvatar)|
 |2024|arXiv|Champ: Controllable and Consistent Human Image Animation with 3D Parametric Guidance|[Code](https://fudan-generative-vision.github.io/champ/#/)|
 |2023|WACV|Physically Plausible Animation of Human Upper Body From a Single Image|-|
 |2023|ICCV|Towards Multi-Layered 3D Garments Animation|[Code](www.mmlab-ntu.com/project/layersnet/index.html)|
