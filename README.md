@@ -303,6 +303,7 @@ This survey presents a detailed survey on generation and detection tasks about f
 ### Face Super-resolution
 |Year|Venue|Paper Title|Code|
 |:-:|:-:|-|-|
+|2024|AAAI|ResDiff: Combining CNN and Diffusion Model for Image Super-Resolution|-|
 |2024|AAAI|Low-Light Face Super-resolution via Illumination, Structure, and Texture Associated Representation|[Code](https://github.com/wcy-cs/IC-FSRDENet)|
 |2024|AAAI|SkipDiff: Adaptive Skip Diffusion Model for High-Fidelity Perceptual Image Super-resolution|-|
 |2024|WACV|Arbitrary-Resolution and Arbitrary-Scale Face Super-Resolution With Implicit Representation Networks|-|
@@ -328,6 +329,7 @@ This survey presents a detailed survey on generation and detection tasks about f
 |2024|ICASSP|Learning Discriminative Style Representations for Unsupervised and Few-Shot Artistic Portrait Drawing Generation|[Code](https://github.com/AiArt-HDU/Co-GAN)|
 |2024|TMM|FaceRefiner: High-Fidelity Facial Texture Refinement with Differentiable Rendering-based Style Transfer|-|
 |2024|AAAI|MagiCapture: High-Resolution Multi-Concept Portrait Customization|-|
+|2024|AAAI|ArtBank: Artistic Style Transfer with Pre-trained Diffusion Model and Implicit Style Prompt Bank|[Code](https://github.com/Jamie-Cheung/ArtBank)|
 |2024|TNNLS|Few-Shot Face Stylization via GAN Prior Distillation|-|
 |2023|TNNLS|Unpaired Artistic Portrait Style Transfer via Asymmetric Double-Stream GAN|-|
 |2023|arXiv|PP-GAN : Style Transfer from Korean Portraits to ID Photos Using Landmark Extractor with GAN|-|
