@@ -238,6 +238,13 @@ This survey presents a detailed survey on generation and detection tasks about f
 |Year|Venue|Category|Paper Title|Code|
 |:-:|:-:|:-:|-|-|
 |2024|arXiv|Space Domain|Diffusion Facial Forgery Detection|-|
+|2024|arXiv|Masked Conditional Diffusion Model for Enhancing Deepfake Detection|-|
+|2024|CVPR|Exploiting Style Latent Flows for Generalizing Deepfake Detection Video Detection|[Code](https://openaccess.thecvf.com/)|
+|2024|ICASSP|Selective Domain-Invariant Feature for Generalizable Deepfake Detection|-|
+|2024|AAAI|Frequency-Aware Deepfake Detection: Improving Generalizability through Frequency Space Domain Learning|[Code](https://github.com/chuangchuangtan/FreqNet-DeepfakeDetection)|
+|2024|AAAI|Exposing the Deception: Uncovering More Forgery Clues for Deepfake Detection|[Code](https://github.com/QingyuLiu/Exposing-the-Deception)|
+|2024|AAAI|What to Remember: Self-Adaptive Continual Learning for Audio Deepfake Detection|-|
+|2024|WACV|Improving Fairness in Deepfake Detection|[Code](https://github.com/littlejuyan/DF_Fairness)|
 |2024|WACV|Space Domain|Deepfake Detection by Exploiting Surface Anomalies: The SurFake Approach|-|
 |2023|CVPR|Data Driven|Implicit Identity Driven Deepfake Face Swapping Detection|-|
 |2023|TMM|Data Driven|Narrowing Domain Gaps with Bridging Samples for Generalized Face Forgery Detection|-|
