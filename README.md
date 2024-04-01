@@ -78,6 +78,8 @@ This survey presents a detailed survey on generation and detection tasks about f
 ### Face Swapping
 |Year|Venue|Category|Paper Title|Code|
 |:-:|:-:|:-:|-|-|
+|2024|arXiv|3DGS|ImplicitDeepfake: Plausible Face-Swapping through Implicit Deepfake Generation using NeRF and Gaussian Splatting|[Code](https://github.com/quereste/implicit-deepfake)|
+|2024|arXiv|GANs|LatentSwap: An Efficient Latent Code Mapping Framework for Face Swapping|-|
 |2024|ICASSP|GANs+3D|Attribute-Aware Head Swapping Guided by 3d Modeling|-|
 |2024|arXiv|Difussion|Towards a Simultaneous and Granular Identity-Expression Control in Personalized Face Generation|[Code](https://diffsfsr.github.io/)|
 |2024|TMM|Other|An Efficient Attribute-Preserving Framework for Face Swapping|-|
