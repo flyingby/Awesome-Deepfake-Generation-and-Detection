@@ -129,6 +129,8 @@ This survey presents a detailed survey on generation and detection tasks about f
 ### Face Reenactment
 |Year|Venue|Paper Title|Code|
 |:-:|:-:|-|-|
+|2024|arXiv|DiffusionAct: Controllable Diffusion Autoencoder for One-shot Face Reenactment|[Code](https://stelabou.github.io/diffusionact/)|
+|2024|ICASSP|Expression Domain Translation Network for Cross-Domain Head Reenactment|-|
 |2024|AAAI|Learning Dense Correspondence for NeRF-Based Face Reenactment|-|
 |2024|IJCV|One-shot Neural Face Reenactment via Finding Directions in GAN's Latent Space|-|
 |2023|CVPR|High-Fidelity and Freely Controllable Talking Head Video Generation|[Code](https://yuegao.me/PECHead)|
