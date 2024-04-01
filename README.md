@@ -328,6 +328,7 @@ This survey presents a detailed survey on generation and detection tasks about f
 |2024|ICASSP|A Framework for Portrait Stylization with Skin-Tone Awareness and Nudity Identification|-|
 |2024|ICASSP|Learning Discriminative Style Representations for Unsupervised and Few-Shot Artistic Portrait Drawing Generation|[Code](https://github.com/AiArt-HDU/Co-GAN)|
 |2024|TMM|FaceRefiner: High-Fidelity Facial Texture Refinement with Differentiable Rendering-based Style Transfer|-|
+|2024|CVPR|Deformable One-shot Face Stylization via DINO Semantic Guidancen|[Code](https://github.com/zichongc/DoesFS)|
 |2024|AAAI|MagiCapture: High-Resolution Multi-Concept Portrait Customization|-|
 |2024|AAAI|ArtBank: Artistic Style Transfer with Pre-trained Diffusion Model and Implicit Style Prompt Bank|[Code](https://github.com/Jamie-Cheung/ArtBank)|
 |2024|TNNLS|Few-Shot Face Stylization via GAN Prior Distillation|-|
