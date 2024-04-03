@@ -81,6 +81,9 @@ This survey presents a detailed survey on generation and detection tasks about f
 |2024|arXiv|3DGS|ImplicitDeepfake: Plausible Face-Swapping through Implicit Deepfake Generation using NeRF and Gaussian Splatting|[Code](https://github.com/quereste/implicit-deepfake)|
 |2024|arXiv|GANs|LatentSwap: An Efficient Latent Code Mapping Framework for Face Swapping|-|
 |2024|arXiv|Difussion|Towards a Simultaneous and Granular Identity-Expression Control in Personalized Face Generation|[Code](https://diffsfsr.github.io/)|
+|2024|arXiv|GANs|E4S: Fine-grained Face Swapping via Editing With Regional GAN Inversion|[Code](https://e4s2024.github.io/)|
+|2024|ICIP|Graphic|RID-TWIN: An end-to-end pipeline for automatic face de-identification in videos|[Code](https://github.com/AnirbanMukherjeeXD/RID-Twin)|
+|2024|TCSVT|VAE|Identity-Aware Variational Autoencoder for Face Swapping|-|
 |2024|ICASSP|GANs+3D|Attribute-Aware Head Swapping Guided by 3d Modeling|-|
 |2024|TMM|Other|An Efficient Attribute-Preserving Framework for Face Swapping|-|
 |2024|TMM|GANs+3D|StableSwap: Stable Face Swapping in a Shared and Controllable Latent Space|-|
@@ -97,7 +100,6 @@ This survey presents a detailed survey on generation and detection tasks about f
 |2023|AAAI|GANs+3DMM|FlowFace: Semantic Flow-Guided Shape-Aware Face Swapping|-|
 |2023|CVPR|Transformers|Face Transformer: Towards High Fidelity and Accurate Face Swapping|-|
 |2023|ACM MM|GANs+3D|High Fidelity Face Swapping via Semantics Disentanglement and Structure Enhancement|-|
-|2023|arXiv|GANs|High-Fidelity Face Swapping with Style Blending|-|
 |2023|arXiv|GANs|End-to-end Face-swapping via Adaptive Latent Representation Learning|-|
 |2023|FG|Transformers|TransFS: Face Swapping Using Transformer|-|
 |2023|arXiv|Cycle triplets|ReliableSwap: Boosting General Face Swapping Via Reliable Supervision|[Code](https://github.com/ygtxr1997/ReliableSwap)|
@@ -161,6 +163,7 @@ This survey presents a detailed survey on generation and detection tasks about f
 ### Talking Face Generation
 |Year|Venue|Category|Paper Title|Code|
 |:-:|:-:|:-:|-|-|
+|2024|arXiv|Audio|Talk3D: High-Fidelity Talking Portrait Synthesis via Personalized 3D Generative Prior|[Code](https://ku-cvlab.github.io/Talk3D/)|
 |2024|arXiv|Diffusion|MoDiTalker: Motion-Disentangled Diffusion Model for High-Fidelity Talking Head Generation|-|
 |2024|arXiv|Audio|ReliTalk: Relightable Talking Portrait Generation from a Single Video|[Code](https://github.com/arthur-qiu/ReliTalk)|
 |2024|IJCV|Multimodal|FlowVQTalker: High-Quality Emotional Talking Face Generation through Normalizing Flow and Quantization|-|
