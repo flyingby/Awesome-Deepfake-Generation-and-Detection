@@ -120,7 +120,6 @@ This survey presents a detailed survey on generation and detection tasks about f
 |2021|CVPR|GANs|Information Bottleneck Disentanglement for Identity Swapping|-|
 |2021|CVPR|GANs|One Shot Face Swapping on Megapixels|[Code](https://github.com/zyainfal/One-Shot-Face-Swapping-on-Megapixels)|
 |2021|MMM|GANs|Deep Face Swapping via Cross-Identity Adversarial Training|-|
-|2021|Neurocomputing|GANs |Unnoticeable synthetic face replacement for image privacy protection|-|
 |2021|IJCAI|GANs+3DMM|HifiFace: 3D Shape and Semantic Prior Guided High Fidelity Face Swapping|[Code](https://github.com/johannwyh/HifiFace)|
 |2020|CVPR|GANs|FaceShifter: Towards High Fidelity And Occlusion Aware Face Swapping|[Code](https://lingzhili.com/FaceShifterPage/)|
 |2020|CVPR|GANs|DeepFaceLab: Integrated, flexible and extensible face-swapping framework|[Code](https://github.com/iperov/DeepFaceLab)|
