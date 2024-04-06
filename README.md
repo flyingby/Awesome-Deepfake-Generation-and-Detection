@@ -1,5 +1,6 @@
 <p align="center">
-  <h1 align="center">Deepfake Generation and Detection: 
+ <img src="https://github.com/flyingby/Awesome-Deepfake-Generation-and-Detection/blob/main/proj%20logo.png" style="width: 15%; display: inline-block; margin-bottom: -10000px; vertical-align: middle;">
+  <h1 align="center"> Deepfake Generation and Detection: 
   <p align="center">
   A Benchmark and Survey</h1>
    <p align="center">
