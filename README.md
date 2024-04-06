@@ -1,8 +1,5 @@
 <p align="center">
- <img src="https://github.com/flyingby/Awesome-Deepfake-Generation-and-Detection/blob/main/proj%20logo.png" style="width: 15%; display: inline-block; margin-bottom: -10000px; vertical-align: middle;">
-  <h1 align="center"> Deepfake Generation and Detection: 
-  <p align="center">
-  A Benchmark and Survey</h1>
+<img width="743" alt="image" src="https://github.com/flyingby/Awesome-Deepfake-Generation-and-Detection/blob/main/Title.png">
    <p align="center">
     <a href="https://scholar.google.com.hk/citations?user=1yhGS5sAAAAJ&hl=zh-CN"><strong>Gan Pei <sup>*</sup></strong></a>
     .
