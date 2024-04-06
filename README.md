@@ -1,6 +1,6 @@
 <p align="center">
      <a href="https://arxiv.org/abs/2403.17881">
-<img width="800" alt="image" src="https://github.com/flyingby/Awesome-Deepfake-Generation-and-Detection/blob/main/Title.png">
+<img width="743" alt="image" src="https://github.com/flyingby/Awesome-Deepfake-Generation-and-Detection/blob/main/Title.png">
      </a>
    <p align="center">
     <a href="https://scholar.google.com.hk/citations?user=1yhGS5sAAAAJ&hl=zh-CN"><strong>Gan Pei <sup>*</sup></strong></a>
