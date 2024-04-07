@@ -47,7 +47,7 @@ If you discover any missing work or have any suggestions, please feel free to su
 [3]  We list detailed results for the most representative works.
 
 ### ✨Survey pipeline
-<img src="https://github.com/flyingby/Awesome-Deepfake-Generation-and-Detection/blob/main/structure.png" width.="1000px">
+<img src="https://github.com/flyingby/Awesome-Deepfake-Generation-and-Detection/blob/main/pipeline.png" width.="1000px">
 
 
 ## Introduction
