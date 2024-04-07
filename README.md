@@ -262,7 +262,7 @@ This survey presents a detailed survey on generation and detection tasks about f
 |2024|NAACL|Time Domain|Heterogeneity over Homogeneity: Investigating Multilingual Speech Pre-Trained Models for Detecting Audio Deepfake|-|
 |2024|CVPR|Time Domain|Exploiting Style Latent Flows for Generalizing Deepfake Detection Video Detection|[Code](https://openaccess.thecvf.com/)|
 |2024|ICASSP|Space Domain|Selective Domain-Invariant Feature for Generalizable Deepfake Detection|-|
-|2024|AAAI|Space Domain|Frequency-Aware Deepfake Detection: Improving Generalizability through Frequency Space Domain Learning|[Code](https://github.com/chuangchuangtan/FreqNet-DeepfakeDetection)|
+|2024|AAAI|Frequency Domain|Frequency-Aware Deepfake Detection: Improving Generalizability through Frequency Space Domain Learning|[Code](https://github.com/chuangchuangtan/FreqNet-DeepfakeDetection)|
 |2024|AAAI|Space Domain|Exposing the Deception: Uncovering More Forgery Clues for Deepfake Detection|[Code](https://github.com/QingyuLiu/Exposing-the-Deception)|
 |2024|WACV|Space Domain|Deepfake Detection by Exploiting Surface Anomalies: The SurFake Approach|-|
 |2023|CVPR|Data Driven|Implicit Identity Driven Deepfake Face Swapping Detection|-|
@@ -271,7 +271,7 @@ This survey presents a detailed survey on generation and detection tasks about f
 |2023|CVPR|Time Domain|Learning on Gradients: Generalized Artifacts Representation for GAN-Generated Images Detection|[Code](https://github.com/chuangchuangtan/lgrad)|
 |2023|ICCV|Data Driven|Towards Generic Image Manipulation Detection with Weakly-Supervised Self-Consistency Learning|-|
 |2023|ICCV|Data Driven|Quality-Agnostic Deepfake Detection with Intra-model Collaborative Learning|-|
-|2023|TIFS|Space Domain|Constructing New Backbone Networks via Space-Frequency Interactive Convolution for Deepfake Detection|[Code](https://github.com/EricGzq/SFIConv)|
+|2023|TIFS|Frequency Domain|Constructing New Backbone Networks via Space-Frequency Interactive Convolution for Deepfake Detection|[Code](https://github.com/EricGzq/SFIConv)|
 |2023|ICCV|Data Driven|Controllable Guide-Space for Generalizable Face Forgery Detection|-|
 |2023|AAAI|Space Domain|Noise Based Deepfake Detection via Multi-Head Relative-Interaction|-|
 |2023|TIFS|Time Domain|Dynamic Difference Learning With Spatio–Temporal Correlation for Deepfake Video Detection|-|
@@ -286,7 +286,7 @@ This survey presents a detailed survey on generation and detection tasks about f
 |2022|CVPR|Space Domain|Detecting Deepfakes with Self-Blended Images|[Code](https://github.com/mapooon/SelfBlendedImages)|
 |2022|CVPR|Space Domain|End-to-End Reconstruction-Classification Learning for Face Forgery Detection|[Code](https://github.com/VISION-SJTU/RECCE)|
 |2022|ECCV|Space Domain|Explaining Deepfake Detection by Analysing Image Matching|-|
-|2022|TIFS|Space Domain|Hierarchical Frequency-Assisted Interactive Networks for Face Manipulation Detection|-|
+|2022|TIFS|Frequency Domain|Hierarchical Frequency-Assisted Interactive Networks for Face Manipulation Detection|-|
 |2022|ICMR|Time Domain|M2TR: Multi-modal Multi-scale Transformers for Deepfake Detection|[Code](https://github.com/wangjk666/M2TR-Multi-modal-Multi-scale-Transformers-for-Deepfake-Detection)|
 |2022|AAAI|Time Domain|Delving into the Local: Dynamic Inconsistency Learning for DeepFake Video Detection|-|
 |2022|CVPR|Time Domain|Leveraging Real Talking Faces via Self-Supervision for Robust Forgery Detection|[Code](https://github.com/ahaliassos/RealForensics)|
@@ -294,7 +294,7 @@ This survey presents a detailed survey on generation and detection tasks about f
 |2021|CVPR|Space Domain|Multi-attentional Deepfake Detection|[Code](https://github.com/yoctta/multiple-attention)|
 |2021|T-PAMI|Space Domain|DeepFake Detection Based on Discrepancies Between Faces and their Context|-|
 |2021|ICCV|Data Driven|Learning Self-Consistency for Deepfake Detection|-|
-|2021|CVPR|Space Domain|Frequency-aware Discriminative Feature Learning Supervised by Single-Center Loss for Face Forgery Detection|-|
+|2021|CVPR|Frequency Domain|Frequency-aware Discriminative Feature Learning Supervised by Single-Center Loss for Face Forgery Detection|-|
 |2021|ICCV|Time Domain|Exploring Temporal Coherence for More General Video Face Forgery Detection|[Code](https://github.com/yinglinzheng/FTCN)|
 |2021|CVPR|Time Domain|Lips Don’t Lie: A Generalisable and Robust Approach to Face Forgery Detection|[Code](https://github.com/ahaliassos/LipForensics)|
 |2021|CVPR|Time Domain|Detecting Deep-Fake Videos from Aural and Oral Dynamics|-|
@@ -304,8 +304,8 @@ This survey presents a detailed survey on generation and detection tasks about f
 |2020|Signal Processing|Space Domain|Identification of Deep Network Generated Images Using Disparities in Color Components|[Code](https://github.com/lihaod/GAN_image_detection)|
 |2020|CVPR|Space Domain|Face X-ray for More General Face Forgery Detection|-|
 |2020|ICML|Space Domain|Leveraging Frequency Analysis for Deep Fake Image Recognition|[Code](https://github.com/RUB-SysSec/GANDCTAnalysis)|
-|2020|ECCV|Space Domain|Thinking in Frequency: Face Forgery Detection by Mining Frequency-aware Clues|-|
-|2020|ECCV|Space Domain|Two-Branch Recurrent Network for Isolating Deepfakes in Videos|-|
+|2020|ECCV|Frequency Domain|Thinking in Frequency: Face Forgery Detection by Mining Frequency-aware Clues|-|
+|2020|ECCV|Frequency Domain|Two-Branch Recurrent Network for Isolating Deepfakes in Videos|-|
 |2020|ECCV|Space Domain|What makes fake images detectable? Understanding properties that generalize|[Code](https://github.com/chail/patch-forensics)|
 |2019|ICIP|Space Domain|Detection of Fake Images Via The Ensemble of Deep Representations from Multi Color Spaces|-|
 |2019|ICIP|Space Domain|Detecting GAN-Generated Imagery Using Saturation Cues|[Code](https://github.com/yuezunli/CVPRW2019_Face_Artifacts)|
