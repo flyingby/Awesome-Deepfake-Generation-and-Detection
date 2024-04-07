@@ -15,6 +15,8 @@
     .
     <a href="https://scholar.google.com.hk/citations?hl=zh-CN&user=4daxK2AAAAAJ"><strong>Zhenyu Zhang</strong></a>.
     <p align="center">
+     <a href="https://github.com/flyingby/Awesome-Deepfake-Generation-and-Detection/edit/main/README.md"><strong>Yunsheng Wu</strong></a>
+    .
     <a href="https://scholar.google.com.hk/citations?hl=zh-CN&user=6CIDtZQAAAAJ"><strong>Jian Yang</strong></a>
     .
     <a href="https://scholar.google.com.hk/citations?user=Ljk2BvIAAAAJ&hl=zh-CN&oi=ao"><strong>Chunhua Shen</strong></a> 
