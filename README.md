@@ -303,7 +303,7 @@ This survey presents a detailed survey on generation and detection tasks about f
 |2020|CVPR|Data Driven|On the Detection of Digital Face Manipulation|[Code](https://cvlab.cse.msu.edu/project-ffd.html)|
 |2020|Signal Processing|Space Domain|Identification of Deep Network Generated Images Using Disparities in Color Components|[Code](https://github.com/lihaod/GAN_image_detection)|
 |2020|CVPR|Space Domain|Face X-ray for More General Face Forgery Detection|-|
-|2020|ICML|Space Domain|Leveraging Frequency Analysis for Deep Fake Image Recognition|[Code](https://github.com/RUB-SysSec/GANDCTAnalysis)|
+|2020|ICML|Frequency Domain|Leveraging Frequency Analysis for Deep Fake Image Recognition|[Code](https://github.com/RUB-SysSec/GANDCTAnalysis)|
 |2020|ECCV|Frequency Domain|Thinking in Frequency: Face Forgery Detection by Mining Frequency-aware Clues|-|
 |2020|ECCV|Frequency Domain|Two-Branch Recurrent Network for Isolating Deepfakes in Videos|-|
 |2020|ECCV|Space Domain|What makes fake images detectable? Understanding properties that generalize|[Code](https://github.com/chail/patch-forensics)|
