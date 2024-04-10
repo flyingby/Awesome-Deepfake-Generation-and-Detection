@@ -232,17 +232,23 @@ This survey presents a detailed survey on generation and detection tasks about f
 |2020|ACM TOG|Audio|MakeItTalk: Speaker-Aware Talking-Head Animation|[Code](https://github.com/adobe-research/MakeItTalk)|
 
 
-
-
 ### Facial Attribute Editing
 |Year|Venue|Category|Paper Title|Code|
 |:-:|:-:|:-:|-|-|
 |2024|arXiv|GANs|Reference-Based 3D-Aware Image Editing with Triplane|[Code](https://three-bee.github.io/triplane_edit)|
 |2024|arXiv|GANs|3D-aware Image Generation and Editing with Multi-modal Conditions|-|
+|2024|arXiv|3DGS|View-Consistent 3D Editing with Gaussian Splatting|-|
+|2024|arXiv|GANs|Reference-Based 3D-Aware Image Editing with Triplane|-|
+|2024|arXiv|GANs|SeFFeC: Semantic Facial Feature Control for Fine-grained Face Editing|-|
+|2024|arXiv|NeRF|GeneAvatar: Generic Expression-Aware Volumetric Head Avatar Editing from a Single Image|[Code](https://zju3dv.github.io/geneavatar/)|
+|2024|arXiv|GANs|Skull-to-Face: Anatomy-Guided 3D Facial Reconstruction and Editing|[Code](https://xmlyqing00.github.io/skull-to-face-page/)|
 |2024|arXiv|Diffusion|DiffFAE: Advancing High-fidelity One-shot Facial Appearance Editing with Space-sensitive Customization and Semantic Preservation|-|
 |2024|arXiv|Diffusion|DreamSalon: A Staged Diffusion Framework for Preserving Identity-Context in Editable Face Generation|-|
+|2024|ICIGP|GANs|A novel method for facial attribute editing by integrating semantic segmentation and color rendering|-|
 |2024|ICASSP|GANs|Semantic Latent Decomposition with Normalizing Flows for Face Editing|[Code](https://github.com/phil329/SDFlow)|
 |2024|AAAI|GANs|SDGAN: Disentangling Semantic Manipulation for Facial Attribute Editing|-|
+|2024|WACV|Diffusion|Personalized Face Inpainting With Diffusion Models by Parallel Visual Attention|-|
+|2024|NeurIPS|NeRF|FaceDNeRF: Semantics-Driven Face Reconstruction, Prompt Editing and Relighting with Diffusion Models|[Code](https://github.com/BillyXYB/FaceDNeRF)|
 |2023|CVPR|Diffusion|Collaborative Diffusion for Multi-Modal Face Generation and Editing|[Code](https://github.com/ziqihuangg/Collaborative-Diffusion)|
 |2023|ICCV|GANs|Conceptual and Hierarchical Latent Space Decomposition for Face Editing|-|
 |2023|NN|GANs|IA-FaceS: A bidirectional method for semantic face editing|[Code](https://github.com/CMACH508/IA-FaceS)|
