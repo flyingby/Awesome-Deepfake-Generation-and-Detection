@@ -82,6 +82,7 @@ This survey presents a detailed survey on generation and detection tasks about f
 |:-:|:-:|:-:|-|-|
 |2024|arXiv|3DGS|ImplicitDeepfake: Plausible Face-Swapping through Implicit Deepfake Generation using NeRF and Gaussian Splatting|[Code](https://github.com/quereste/implicit-deepfake)|
 |2024|arXiv|GANs|LatentSwap: An Efficient Latent Code Mapping Framework for Face Swapping|-|
+|2024|arXiv|VAEs|SelfSwapper: Self-Supervised Face Swapping via Shape Agnostic Masked AutoEncoder|-|
 |2024|arXiv|Difussion|Face Swap via Diffusion Model|-|
 |2024|arXiv|Difussion|Towards a Simultaneous and Granular Identity-Expression Control in Personalized Face Generation|[Code](https://diffsfsr.github.io/)|
 |2024|arXiv|GANs|E4S: Fine-grained Face Swapping via Editing With Regional GAN Inversion|[Code](https://e4s2024.github.io/)|
@@ -91,6 +92,7 @@ This survey presents a detailed survey on generation and detection tasks about f
 |2024|TMM|Other|An Efficient Attribute-Preserving Framework for Face Swapping|-|
 |2024|TMM|GANs+3D|StableSwap: Stable Face Swapping in a Shared and Controllable Latent Space|-|
 |2023|arXiv|GANs|FlowFace++: Explicit Semantic Flow-supervised End-to-End Face Swapping|-|
+|2023|WACV|VAEs|FaceOff: A Video-to-Video Face Swapping System|-|
 |2023|CVPR|GANs+3DMM|StyleIPSB: Identity-Preserving Semantic Basis of StyleGAN for High Fidelity Face Swapping|[Code](https://github.com/a686432/StyleIPSB)|
 |2023|CVPR|GANs+3DMM|3D-Aware Face Swapping|[Code](https://lyx0208.github.io/3dSwap/)|
 |2023|CVPR|GANs|Fine-Grained Face Swapping via Regional GAN Inversion|[Code](https://github.com/e4s2022/e4s)|
