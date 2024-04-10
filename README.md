@@ -141,10 +141,14 @@ This survey presents a detailed survey on generation and detection tasks about f
 |2024|AAAI|Learning Dense Correspondence for NeRF-Based Face Reenactment|-|
 |2024|AAAI|FG-EmoTalk: Talking Head Video Generation with Fine-Grained Controllable Facial Expressions |-|
 |2024|IJCV|One-shot Neural Face Reenactment via Finding Directions in GAN's Latent Space|-|
+|2023|arXiv|MaskRenderer: 3D-Infused Multi-Mask Realistic Face Reenactment|-|
+|2023|T-PAMI|Free-headgan: Neural talking head synthesis with explicit gaze control|-|
 |2023|CVPR|High-Fidelity and Freely Controllable Talking Head Video Generation|[Code](https://yuegao.me/PECHead)|
 |2023|T-PAMI|Free-headgan: Neural talking head synthesis with explicit gaze control|-|
+|2023|ICCV|ToonTalker: Cross-Domain Face Reenactment|-|
 |2023|ICCV|HyperReenact: One-Shot Reenactment via Jointly Learning to Refine and Retarget Faces|[Code](https://github.com/StelaBou/HyperReenact)|
 |2023|CVPR|MetaPortrait: Identity-Preserving Talking Head Generation with Fast Personalized Adaptation|-|
+|2023|CVPR|Parametric Implicit Face Representation for Audio-Driven Facial Reenactment|-|
 |2023|CVPR|One-shot high-fidelity talking-head synthesis with deformable neural radiance field|[Code](https://www.waytron.net/hidenerf/)|
 |2023|FG|Stylemask: Disentangling the style space of stylegan2 for neural face reenactment|[Code](https://github.com/StelaBou/StyleMask.)|
 |2022|ECCV|Face2Faceρ: Real-Time High-Resolution One-Shot Face Reenactment|-|
@@ -172,9 +176,12 @@ This survey presents a detailed survey on generation and detection tasks about f
 |2024|arXiv|Audio|FlowVQTalker: High-Quality Emotional Talking Face Generation through Normalizing Flow and Quantization|-|
 |2024|arXiv|Audio|Talk3D: High-Fidelity Talking Portrait Synthesis via Personalized 3D Generative Prior|[Code](https://ku-cvlab.github.io/Talk3D/)|
 |2024|arXiv|Diffusion|MoDiTalker: Motion-Disentangled Diffusion Model for High-Fidelity Talking Head Generation|-|
+|2024|arXiv|Audio|FaceChain-ImagineID: Freely Crafting High-Fidelity Diverse Talking Faces from Disentangled Audio|[Code](https://github.com/modelscope/facechain)|
+|2024|arXiv|Audio|EmoSpeaker: One-shot Fine-grained Emotion-Controlled Talking Face Generation|[Code](https://peterfanfan.github.io/EmoSpeaker/)|
 |2024|arXiv|Audio|ReliTalk: Relightable Talking Portrait Generation from a Single Video|[Code](https://github.com/arthur-qiu/ReliTalk)|
 |2024|ICLR|3D Model|Real3D-Portrait: One-shot Realistic 3D Talking Portrait Synthesis|[Code](https://real3dportrait.github.io/)|
 |2024|IJCV|Multimodal|FlowVQTalker: High-Quality Emotional Talking Face Generation through Normalizing Flow and Quantization|-|
+|2024|T-PAMI|StyleTalk++: A Unified Framework for Controlling the Speaking Styles of Talking Heads|-|
 |2024|ICASSP|Text|Text-Driven Talking Face Synthesis by Reprogramming Audio-Driven Models|-|
 |2024|ICASSP|Audio|Speech-Driven Emotional 3d Talking Face Animation Using Emotional Embeddings|-|
 |2024|ICASSP|Audio|Exploring Phonetic Context-Aware Lip-Sync for Talking Face Generation|-|
@@ -185,10 +192,13 @@ This survey presents a detailed survey on generation and detection tasks about f
 |2024|WACV|Diffusion|Diffused Heads: Diffusion Models Beat GANs on Talking-Face Generation|[Code](https://mstypulkowski.github.io/diffusedheads/)|
 |2024|WACV|Audio|DR2: Disentangled Recurrent Representation Learning for Data-Efficient Speech Video Synthesis|-|
 |2024|WACV|Audio|RADIO: Reference-Agnostic Dubbing Video Synthesis|-|
+|2024|WACV|Audio|Diff2Lip: Audio Conditioned Diffusion Models for Lip-Synchronization|[Code](https://soumik-kanad.github.io/diff2lip)|
 |2024|CVPR|3D Model|SyncTalk: The Devil is in the Synchronization for Talking Head Synthesis|[Code](https://github.com/ZiqiaoPeng/SyncTalk)|
 |2024|AAAI|3D Model|AE-NeRF: Audio Enhanced Neural Radiance Field for Few Shot Talking Head Synthesis|-|
 |2024|AAAI|3D Model|Mimic: Speaking Style Disentanglement for Speech-Driven 3D Facial Animation |[Code](https://github.com/huifu99/Mimic)|
 |2024|AAAI|Audio|Style2Talker: High-Resolution Talking Head Generation with Emotion Style and Art Style |-|
+|2024|AAAI|Audio|AudioGPT: Understanding and Generating Speech, Music, Sound, and Talking Head|-|
+|2024|AAAI|Audio|Say Anything with Any Style|-|
 |2023|CVPR|Multimodal|High-Fidelity Generalized Emotional Talking Face Generation With Multi-Modal Emotion Space Learning|-|
 |2023|CVPR|Multimodal|LipFormer: High-fidelity and Generalizable Talking Face Generation with A Pre-learned Facial Codebook|-|
 |2023|CVPR|Audio|Sadtalker: Learning realistic 3d motion coefficients for stylized audio-driven single image talking face animation|[Code](https://sadtalker.github.io/)|
