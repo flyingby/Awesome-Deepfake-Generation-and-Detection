@@ -144,7 +144,6 @@ This survey presents a detailed survey on generation and detection tasks about f
 |2023|arXiv|MaskRenderer: 3D-Infused Multi-Mask Realistic Face Reenactment|-|
 |2023|T-PAMI|Free-headgan: Neural talking head synthesis with explicit gaze control|-|
 |2023|CVPR|High-Fidelity and Freely Controllable Talking Head Video Generation|[Code](https://yuegao.me/PECHead)|
-|2023|T-PAMI|Free-headgan: Neural talking head synthesis with explicit gaze control|-|
 |2023|ICCV|ToonTalker: Cross-Domain Face Reenactment|-|
 |2023|ICCV|HyperReenact: One-Shot Reenactment via Jointly Learning to Refine and Retarget Faces|[Code](https://github.com/StelaBou/HyperReenact)|
 |2023|CVPR|MetaPortrait: Identity-Preserving Talking Head Generation with Fast Personalized Adaptation|-|
