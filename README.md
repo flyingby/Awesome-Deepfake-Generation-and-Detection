@@ -280,7 +280,7 @@ This survey presents a detailed survey on generation and detection tasks about f
 |2024|arXiv|Space Domain|Masked Conditional Diffusion Model for Enhancing Deepfake Detection|-|
 |2024|IJCV|Time Domain|Learning Spatiotemporal Inconsistency via Thumbnail Layout for Face Deepfake Detection|[Code](https://github.com/rainy-xu/TALL4Deepfake)|
 |2024|NAACL|Time Domain|Heterogeneity over Homogeneity: Investigating Multilingual Speech Pre-Trained Models for Detecting Audio Deepfake|-|
-|2024|CVPR|Time Domain|Exploiting Style Latent Flows for Generalizing Deepfake Detection Video Detection|[Code](https://openaccess.thecvf.com/)|
+|2024|CVPR|Time Domain|Exploiting Style Latent Flows for Generalizing Deepfake Detection Video Detection|-|
 |2024|ICASSP|Space Domain|Selective Domain-Invariant Feature for Generalizable Deepfake Detection|-|
 |2024|AAAI|Frequency Domain|Frequency-Aware Deepfake Detection: Improving Generalizability through Frequency Space Domain Learning|[Code](https://github.com/chuangchuangtan/FreqNet-DeepfakeDetection)|
 |2024|AAAI|Space Domain|Exposing the Deception: Uncovering More Forgery Clues for Deepfake Detection|[Code](https://github.com/QingyuLiu/Exposing-the-Deception)|
