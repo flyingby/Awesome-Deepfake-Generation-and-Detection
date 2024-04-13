@@ -348,7 +348,6 @@ This survey presents a detailed survey on generation and detection tasks about f
 |2024|AAAI|SkipDiff: Adaptive Skip Diffusion Model for High-Fidelity Perceptual Image Super-resolution|-|
 |2024|WACV|Arbitrary-Resolution and Arbitrary-Scale Face Super-Resolution With Implicit Representation Networks|-|
 |2024|ICASSP|Adaptive Super Resolution for One-Shot Talking-Head Generation|[Code](https://github.com/Songluchuan/AdaSR-TalkingHead/)|
-
 |2023|CVPR|Spatial-Frequency Mutual Learning for Face Super-Resolution|[Code](https://github.com/wcy-cs/SFMNet)|
 |2023|TIP|CTCNet: A CNN-Transformer Cooperation Network for Face Image Super-Resolution|[Code](https://github.com/IVIPLab/CTCNet)|
 |2023|TIP|Semi-Cycled Generative Adversarial Networks for Real-World Face Super-Resolution|[Code](https://github.com/HaoHou-98/SCGAN)|
