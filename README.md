@@ -146,7 +146,7 @@ This survey presents a detailed survey on generation and detection tasks about f
 |2023|CVPR|High-Fidelity and Freely Controllable Talking Head Video Generation|[Code](https://yuegao.me/PECHead)|
 |2023|ICCV|ToonTalker: Cross-Domain Face Reenactment|-|
 |2023|ICCV|HyperReenact: One-Shot Reenactment via Jointly Learning to Refine and Retarget Faces|[Code](https://github.com/StelaBou/HyperReenact)|
-|2023|CVPR|MetaPortrait: Identity-Preserving Talking Head Generation with Fast Personalized Adaptation|-|
+|2023|CVPR|MetaPortrait: Identity-Preserving Talking Head Generation with Fast Personalized Adaptation|[Code](https://github.com/Meta-Portrait/MetaPortrait)|
 |2023|CVPR|Parametric Implicit Face Representation for Audio-Driven Facial Reenactment|-|
 |2023|CVPR|One-shot high-fidelity talking-head synthesis with deformable neural radiance field|[Code](https://www.waytron.net/hidenerf/)|
 |2023|FG|Stylemask: Disentangling the style space of stylegan2 for neural face reenactment|[Code](https://github.com/StelaBou/StyleMask.)|
