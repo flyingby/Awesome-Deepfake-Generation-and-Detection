@@ -172,6 +172,8 @@ This survey presents a detailed survey on generation and detection tasks about f
 ### Talking Face Generation
 |Year|Venue|Category|Paper Title|Code|
 |:-:|:-:|:-:|-|-|
+|2024|arXiv|Audio|Emote Portrait Alive: Generating Expressive Portrait Videos with Audio2Video Diffusion Model under Weak Conditions|[Code](https://github.com/HumanAIGC/EMO)|
+|2024|arXiv|Audio|AniPortrait: Audio-Driven Synthesis of Photorealistic Portrait Animations|[Code](https://github.com/Zejun-Yang/AniPortrait)|
 |2024|arXiv|Audio|EDTalk: Efficient Disentanglement for Emotional Talking Head Synthesis|[Code](https://tanshuai0219.github.io/EDTalk/)|
 |2024|arXiv|Audio|FlowVQTalker: High-Quality Emotional Talking Face Generation through Normalizing Flow and Quantization|-|
 |2024|arXiv|Audio|Talk3D: High-Fidelity Talking Portrait Synthesis via Personalized 3D Generative Prior|[Code](https://ku-cvlab.github.io/Talk3D/)|
