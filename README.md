@@ -181,6 +181,8 @@ This survey presents a detailed survey on generation and detection tasks about f
 |2024|arXiv|Audio|FlowVQTalker: High-Quality Emotional Talking Face Generation through Normalizing Flow and Quantization|-|
 |2024|arXiv|Audio|Talk3D: High-Fidelity Talking Portrait Synthesis via Personalized 3D Generative Prior|[Code](https://ku-cvlab.github.io/Talk3D/)|
 |2024|arXiv|Diffusion|MoDiTalker: Motion-Disentangled Diffusion Model for High-Fidelity Talking Head Generation|-|
+|2024|arXiv|Audio|EmoVOCA: Speech-Driven Emotional 3D Talking Heads|-|
+|2024|arXiv|Diffusion|Context-aware Talking Face Video Generation|-|
 |2024|arXiv|Audio|FaceChain-ImagineID: Freely Crafting High-Fidelity Diverse Talking Faces from Disentangled Audio|[Code](https://github.com/modelscope/facechain)|
 |2024|arXiv|Audio|EmoSpeaker: One-shot Fine-grained Emotion-Controlled Talking Face Generation|[Code](https://peterfanfan.github.io/EmoSpeaker/)|
 |2024|arXiv|Audio|ReliTalk: Relightable Talking Portrait Generation from a Single Video|[Code](https://github.com/arthur-qiu/ReliTalk)|
@@ -191,6 +193,7 @@ This survey presents a detailed survey on generation and detection tasks about f
 |2024|ICASSP|Audio|Speech-Driven Emotional 3d Talking Face Animation Using Emotional Embeddings|-|
 |2024|ICASSP|Audio|Exploring Phonetic Context-Aware Lip-Sync for Talking Face Generation|-|
 |2024|ICASSP|Audio|Talking Face Generation for Impression Conversion Considering Speech Semantics|-|
+|2024|ICASSP|3D Model|NeRF-AD: Neural Radiance Field with Attention-based Disentanglement for Talking Face Synthesis|[Code](https://xiaoxingliu02.github.io/NeRF-AD)|
 |2024|ICASSP|3D Model|DT-NeRF: Decomposed Triplane-Hash Neural Radiance Fields For High-Fidelity Talking Portrait Synthesis|-|
 |2024|ICASSP|Multimodal|Talking Face Generation for Impression Conversion Considering Speech Semantics|-|
 |2024|ICAART|Diffusion|DiT-Head: High-Resolution Talking Head Synthesis using Diffusion Transformers|-|
@@ -285,6 +288,7 @@ This survey presents a detailed survey on generation and detection tasks about f
 |2024|arXiv|Space Domain|Diffusion Facial Forgery Detection|-|
 |2024|arXiv|Space Domain|Masked Conditional Diffusion Model for Enhancing Deepfake Detection|-|
 |2024|T-PAMI|Multi-Modal|Detecting and Grounding Multi-Modal Media Manipulation and Beyond|-|
+|2024|TIFS|Space Domain|Learning to Discover Forgery Cues for FaceForgery Detection|-|
 |2024|IJCV|Time Domain|Learning Spatiotemporal Inconsistency via Thumbnail Layout for Face Deepfake Detection|[Code](https://github.com/rainy-xu/TALL4Deepfake)|
 |2024|NAACL|Time Domain|Heterogeneity over Homogeneity: Investigating Multilingual Speech Pre-Trained Models for Detecting Audio Deepfake|-|
 |2024|CVPR|Time Domain|Exploiting Style Latent Flows for Generalizing Deepfake Detection Video Detection|-|
@@ -292,6 +296,7 @@ This survey presents a detailed survey on generation and detection tasks about f
 |2024|AAAI|Frequency Domain|Frequency-Aware Deepfake Detection: Improving Generalizability through Frequency Space Domain Learning|[Code](https://github.com/chuangchuangtan/FreqNet-DeepfakeDetection)|
 |2024|AAAI|Space Domain|Exposing the Deception: Uncovering More Forgery Clues for Deepfake Detection|[Code](https://github.com/QingyuLiu/Exposing-the-Deception)|
 |2024|WACV|Space Domain|Deepfake Detection by Exploiting Surface Anomalies: The SurFake Approach|-|
+|2024|WACV|Time Domain|VideoFACT: Detecting Video Forgeries Using Attention, Scene Context, and Forensic Traces|[Code](https://github.com/ductai199x/videofact-wacv-2024)|
 |2023|CVPR|Data Driven|Implicit Identity Driven Deepfake Face Swapping Detection|-|
 |2023|TMM|Data Driven|Narrowing Domain Gaps with Bridging Samples for Generalized Face Forgery Detection|-|
 |2023|CVPR|Data Driven|Hierarchical Fine-Grained Image Forgery Detection and Localization|[Code](https://github.com/CHELSEA234/HiFi_IFDL)|
