@@ -135,8 +135,10 @@ This survey presents a detailed survey on generation and detection tasks about f
 ### Face Reenactment
 |Year|Venue|Paper Title|Code|
 |:-:|:-:|-|-|
+|2024|arXiv|Learning to Generate Conditional Tri-plane for 3D-aware Expression Controllable Portrait Animation|[Code](https://export3d.github.io/)|
 |2024|arXiv|Superior and Pragmatic Talking Face Generation with Teacher-Student Framework|[Code](https://superfacelink.github.io/)|
 |2024|arXiv|DiffusionAct: Controllable Diffusion Autoencoder for One-shot Face Reenactment|[Code](https://stelabou.github.io/diffusionact/)|
+|2024|WACV|CVTHead: One-shot Controllable Head Avatar with Vertex-feature Transformer|[Code](https://github.com/HowieMa/CVTHead)|
 |2024|ICASSP|Expression Domain Translation Network for Cross-Domain Head Reenactment|-|
 |2024|AAAI|Learning Dense Correspondence for NeRF-Based Face Reenactment|-|
 |2024|AAAI|FG-EmoTalk: Talking Head Video Generation with Fine-Grained Controllable Facial Expressions |-|
@@ -144,6 +146,7 @@ This survey presents a detailed survey on generation and detection tasks about f
 |2023|arXiv|MaskRenderer: 3D-Infused Multi-Mask Realistic Face Reenactment|-|
 |2023|T-PAMI|Free-headgan: Neural talking head synthesis with explicit gaze control|-|
 |2023|CVPR|High-Fidelity and Freely Controllable Talking Head Video Generation|[Code](https://yuegao.me/PECHead)|
+|2023|NeurIPS|Learning Motion Refinement for Unsupervised Face Animation|[Code](https://github.com/JialeTao/MRFA/)|
 |2023|ICCV|ToonTalker: Cross-Domain Face Reenactment|-|
 |2023|ICCV|HyperReenact: One-Shot Reenactment via Jointly Learning to Refine and Retarget Faces|[Code](https://github.com/StelaBou/HyperReenact)|
 |2023|CVPR|MetaPortrait: Identity-Preserving Talking Head Generation with Fast Personalized Adaptation|[Code](https://github.com/Meta-Portrait/MetaPortrait)|
@@ -172,6 +175,7 @@ This survey presents a detailed survey on generation and detection tasks about f
 |Year|Venue|Category|Paper Title|Code|
 |:-:|:-:|:-:|-|-|
 |2024|arXiv|Audio|Emote Portrait Alive: Generating Expressive Portrait Videos with Audio2Video Diffusion Model under Weak Conditions|[Code](https://github.com/HumanAIGC/EMO)|
+|2024|arXiv|Audio|VLOGGER: Multimodal Diffusion for Embodied Avatar Synthesis|[Code](https://enriccorona.github.io/vlogger/)|
 |2024|arXiv|Audio|AniPortrait: Audio-Driven Synthesis of Photorealistic Portrait Animations|[Code](https://github.com/Zejun-Yang/AniPortrait)|
 |2024|arXiv|Audio|EDTalk: Efficient Disentanglement for Emotional Talking Head Synthesis|[Code](https://tanshuai0219.github.io/EDTalk/)|
 |2024|arXiv|Audio|FlowVQTalker: High-Quality Emotional Talking Face Generation through Normalizing Flow and Quantization|-|
@@ -195,6 +199,7 @@ This survey presents a detailed survey on generation and detection tasks about f
 |2024|WACV|Audio|RADIO: Reference-Agnostic Dubbing Video Synthesis|-|
 |2024|WACV|Audio|Diff2Lip: Audio Conditioned Diffusion Models for Lip-Synchronization|[Code](https://soumik-kanad.github.io/diff2lip)|
 |2024|CVPR|3D Model|SyncTalk: The Devil is in the Synchronization for Talking Head Synthesis|[Code](https://github.com/ZiqiaoPeng/SyncTalk)|
+|2024|CVPR|3D Model|Learning Dynamic Tetrahedra for High-Quality Talking Head Synthesis|[Code](https://github.com/zhangzc21/DynTet)|
 |2024|AAAI|3D Model|AE-NeRF: Audio Enhanced Neural Radiance Field for Few Shot Talking Head Synthesis|-|
 |2024|AAAI|3D Model|Mimic: Speaking Style Disentanglement for Speech-Driven 3D Facial Animation |[Code](https://github.com/huifu99/Mimic)|
 |2024|AAAI|Audio|Style2Talker: High-Resolution Talking Head Generation with Emotion Style and Art Style |-|
@@ -279,6 +284,7 @@ This survey presents a detailed survey on generation and detection tasks about f
 |2024|arXiv|Other|Real, fake and synthetic faces -- does the coin have three sides?|-|
 |2024|arXiv|Space Domain|Diffusion Facial Forgery Detection|-|
 |2024|arXiv|Space Domain|Masked Conditional Diffusion Model for Enhancing Deepfake Detection|-|
+|2024|T-PAMI|Multi-Modal|Detecting and Grounding Multi-Modal Media Manipulation and Beyond|-|
 |2024|IJCV|Time Domain|Learning Spatiotemporal Inconsistency via Thumbnail Layout for Face Deepfake Detection|[Code](https://github.com/rainy-xu/TALL4Deepfake)|
 |2024|NAACL|Time Domain|Heterogeneity over Homogeneity: Investigating Multilingual Speech Pre-Trained Models for Detecting Audio Deepfake|-|
 |2024|CVPR|Time Domain|Exploiting Style Latent Flows for Generalizing Deepfake Detection Video Detection|-|
