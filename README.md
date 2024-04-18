@@ -174,6 +174,7 @@ This survey presents a detailed survey on generation and detection tasks about f
 ### Talking Face Generation
 |Year|Venue|Category|Paper Title|Code|
 |:-:|:-:|:-:|-|-|
+|2024|arXiv|Audio|VASA-1: Lifelike Audio-Driven Talking Faces Generated in Real Time|[Code](https://www.microsoft.com/en-us/research/project/vasa-1/)|
 |2024|arXiv|Audio|Emote Portrait Alive: Generating Expressive Portrait Videos with Audio2Video Diffusion Model under Weak Conditions|[Code](https://github.com/HumanAIGC/EMO)|
 |2024|arXiv|Audio|VLOGGER: Multimodal Diffusion for Embodied Avatar Synthesis|[Code](https://enriccorona.github.io/vlogger/)|
 |2024|arXiv|Audio|AniPortrait: Audio-Driven Synthesis of Photorealistic Portrait Animations|[Code](https://github.com/Zejun-Yang/AniPortrait)|
