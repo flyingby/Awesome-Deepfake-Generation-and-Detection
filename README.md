@@ -292,7 +292,7 @@ This survey presents a detailed survey on generation and detection tasks about f
 |2024|arXiv|Other|Real, fake and synthetic faces -- does the coin have three sides?|-|
 |2024|arXiv|Space Domain|Diffusion Facial Forgery Detection|-|
 |2024|arXiv|Space Domain|Masked Conditional Diffusion Model for Enhancing Deepfake Detection|-|
-|2024|T-PAMI|Multi-Modal|Detecting and Grounding Multi-Modal Media Manipulation and Beyond|[code](https://github.com/rshaojimmy/MultiModal-DeepFake)|
+|2024|T-PAMI|Multi-Modal|Detecting and Grounding Multi-Modal Media Manipulation and Beyond|[Code](https://github.com/rshaojimmy/MultiModal-DeepFake)|
 |2024|MMM|Space Domain|Face Forgery Detection via Texture and Saliency Enhancement|-|
 |2024|MMM|Space Domain|Adapting Pretrained Large-Scale Vision Models for Face Forgery Detection|-|
 |2024|TIFS|Space Domain|Learning to Discover Forgery Cues for FaceForgery Detection|-|
