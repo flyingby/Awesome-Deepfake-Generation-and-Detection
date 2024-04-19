@@ -32,7 +32,7 @@
 
 # We research Deepfake Generation and Detection
 
-This work focuses on the aspect of facial manipulation in Deepfake, encompassing **Face swapping**, **Face reenactment**,  **Talking Face Generation**, **Face attribute editing** and **Foreign Detection**. We believe this will be the most comprehensive survey to date on facial manipulation and detection technologies. Please stay tuned!😉😉😉
+This work focuses on the aspect of facial manipulation in Deepfake, encompassing **Face swapping**, **Face reenactment**,  **Talking Face Generation**, **Face attribute editing** and **Forgery Detection**. We believe this will be the most comprehensive survey to date on facial manipulation and detection technologies. Please stay tuned!😉😉😉
 
 ### ✨You are welcome to provide us your work with a topic related to deepfake generation or detection!!!
 
@@ -65,7 +65,7 @@ This survey presents a detailed survey on generation and detection tasks about f
   - [Face Reenactment](#Face-Reenactment)
   - [Talking Face Generation](#Talking-Face-Generation)
   - [Facial Attribute Editing](#Facial-Attribute-Editing)
-  - [Foreign Detection](#Foreign-Detection) 
+  - [Forgery Detection](#Forgery-Detection) 
 - [Related Research Domains](#Related-Research-Domains)
   - [Face Super-resolution](#Face-Super-resolution) 
   - [Portrait Style Transfer](#Portrait-Style-Transfer)
@@ -282,18 +282,23 @@ This survey presents a detailed survey on generation and detection tasks about f
 |2020|ACCV|GANs|MagGAN: High-Resolution Face Attribute Editing with Mask-Guided Generative Adversarial Network|-|
 
 
-### Foreign Detection
+### Forgery Detection
 |Year|Venue|Category|Paper Title|Code|
 |:-:|:-:|:-:|-|-|
+|2024|arXiv|Space Domain|Band-Attention Modulated RetNet for Face Forgery Detection|-|
 |2024|arXiv|Other|Real, fake and synthetic faces -- does the coin have three sides?|-|
 |2024|arXiv|Space Domain|Diffusion Facial Forgery Detection|-|
 |2024|arXiv|Space Domain|Masked Conditional Diffusion Model for Enhancing Deepfake Detection|-|
 |2024|T-PAMI|Multi-Modal|Detecting and Grounding Multi-Modal Media Manipulation and Beyond|-|
+|2024|MMM|Space Domain|Face Forgery Detection via Texture and Saliency Enhancement|-|
+|2024|MMM|Space Domain|Adapting Pretrained Large-Scale Vision Models for Face Forgery Detection|-|
 |2024|TIFS|Space Domain|Learning to Discover Forgery Cues for FaceForgery Detection|-|
+|2024|TIFS|Time Domain|Where Deepfakes Gaze at? Spatial-Temporal Gaze Inconsistency Analysis for Video Face Forgery Detection|[Code](https://github.com/ziminMIAO/DFGaze)|
 |2024|IJCV|Time Domain|Learning Spatiotemporal Inconsistency via Thumbnail Layout for Face Deepfake Detection|[Code](https://github.com/rainy-xu/TALL4Deepfake)|
 |2024|NAACL|Time Domain|Heterogeneity over Homogeneity: Investigating Multilingual Speech Pre-Trained Models for Detecting Audio Deepfake|-|
 |2024|CVPR|Time Domain|Exploiting Style Latent Flows for Generalizing Deepfake Detection Video Detection|-|
 |2024|ICASSP|Space Domain|Selective Domain-Invariant Feature for Generalizable Deepfake Detection|-|
+|2024|ICASSP|Data Driven|Adapter-Based Incremental Learning for Face Forgery Detection|-|
 |2024|AAAI|Frequency Domain|Frequency-Aware Deepfake Detection: Improving Generalizability through Frequency Space Domain Learning|[Code](https://github.com/chuangchuangtan/FreqNet-DeepfakeDetection)|
 |2024|AAAI|Space Domain|Exposing the Deception: Uncovering More Forgery Clues for Deepfake Detection|[Code](https://github.com/QingyuLiu/Exposing-the-Deception)|
 |2024|WACV|Space Domain|Deepfake Detection by Exploiting Surface Anomalies: The SurFake Approach|-|
