@@ -245,6 +245,8 @@ This survey presents a detailed survey on generation and detection tasks about f
 ### Facial Attribute Editing
 |Year|Venue|Category|Paper Title|Code|
 |:-:|:-:|:-:|-|-|
+|2024|arXiv|Diffusion|DreamSalon: A Staged Diffusion Framework for Preserving Identity-Context in Editable Face Generation|-|
+|2024|arXiv|GANs|S3Editor: A Sparse Semantic-Disentangled Self-Training Framework for Face Video Editing|-|
 |2024|arXiv|GANs|Reference-Based 3D-Aware Image Editing with Triplane|[Code](https://three-bee.github.io/triplane_edit)|
 |2024|arXiv|GANs|3D-aware Image Generation and Editing with Multi-modal Conditions|-|
 |2024|arXiv|3DGS|View-Consistent 3D Editing with Gaussian Splatting|-|
