@@ -189,7 +189,7 @@ This survey presents a detailed survey on generation and detection tasks about f
 |2024|arXiv|Audio|ReliTalk: Relightable Talking Portrait Generation from a Single Video|[Code](https://github.com/arthur-qiu/ReliTalk)|
 |2024|ICLR|3D Model|Real3D-Portrait: One-shot Realistic 3D Talking Portrait Synthesis|[Code](https://real3dportrait.github.io/)|
 |2024|IJCV|Multimodal|FlowVQTalker: High-Quality Emotional Talking Face Generation through Normalizing Flow and Quantization|-|
-|2024|T-PAMI|Audio|StyleTalk++: A Unified Framework for Controlling the Speaking Styles of Talking Heads|-|
+|2024|T-PAMI|Multimodal|StyleTalk++: A Unified Framework for Controlling the Speaking Styles of Talking Heads|-|
 |2024|ICASSP|Text|Text-Driven Talking Face Synthesis by Reprogramming Audio-Driven Models|-|
 |2024|ICASSP|Audio|Speech-Driven Emotional 3d Talking Face Animation Using Emotional Embeddings|-|
 |2024|ICASSP|Audio|Exploring Phonetic Context-Aware Lip-Sync for Talking Face Generation|-|
