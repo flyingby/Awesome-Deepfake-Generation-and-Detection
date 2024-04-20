@@ -244,6 +244,7 @@ This survey presents a detailed survey on generation and detection tasks about f
 ### Facial Attribute Editing
 |Year|Venue|Category|Paper Title|Code|
 |:-:|:-:|:-:|-|-|
+|2024|arXiv|NeRF|Fast Text-to-3D-Aware Face Generation and Manipulation via Direct Cross-modal Mapping and Geometric Regularization|[Code](https://github.com/Aria-Zhangjl/E3-FaceNet)|
 |2024|arXiv|Diffusion|DreamSalon: A Staged Diffusion Framework for Preserving Identity-Context in Editable Face Generation|-|
 |2024|arXiv|GANs|S3Editor: A Sparse Semantic-Disentangled Self-Training Framework for Face Video Editing|-|
 |2024|arXiv|GANs|Reference-Based 3D-Aware Image Editing with Triplane|[Code](https://three-bee.github.io/triplane_edit)|
@@ -296,7 +297,7 @@ This survey presents a detailed survey on generation and detection tasks about f
 |2024|T-PAMI|Multi-Modal|Detecting and Grounding Multi-Modal Media Manipulation and Beyond|[Code](https://github.com/rshaojimmy/MultiModal-DeepFake)|
 |2024|MMM|Space Domain|Face Forgery Detection via Texture and Saliency Enhancement|-|
 |2024|MMM|Space Domain|Adapting Pretrained Large-Scale Vision Models for Face Forgery Detection|-|
-|2024|TIFS|Space Domain|Learning to Discover Forgery Cues for FaceForgery Detection|-|
+|2024|TIFS|Space Domain|Learning to Discover Forgery Cues for Face Forgery Detection|-|
 |2024|TIFS|Time Domain|Where Deepfakes Gaze at? Spatial-Temporal Gaze Inconsistency Analysis for Video Face Forgery Detection|[Code](https://github.com/ziminMIAO/DFGaze)|
 |2024|IJCV|Time Domain|Learning Spatiotemporal Inconsistency via Thumbnail Layout for Face Deepfake Detection|[Code](https://github.com/rainy-xu/TALL4Deepfake)|
 |2024|NAACL|Time Domain|Heterogeneity over Homogeneity: Investigating Multilingual Speech Pre-Trained Models for Detecting Audio Deepfake|-|
