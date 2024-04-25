@@ -139,10 +139,12 @@ This survey presents a detailed survey on generation and detection tasks about f
 |2024|arXiv|Superior and Pragmatic Talking Face Generation with Teacher-Student Framework|[Code](https://superfacelink.github.io/)|
 |2024|arXiv|DiffusionAct: Controllable Diffusion Autoencoder for One-shot Face Reenactment|[Code](https://stelabou.github.io/diffusionact/)|
 |2024|WACV|CVTHead: One-shot Controllable Head Avatar with Vertex-feature Transformer|[Code](https://github.com/HowieMa/CVTHead)|
+|2024|CVPR|FSRT: Facial Scene Representation Transformer for Face Reenactment from Factorized Appearance, Head-pose, and Facial Expression Features|[Code](https://andrerochow.github.io/fsrt)|
 |2024|ICASSP|Expression Domain Translation Network for Cross-Domain Head Reenactment|-|
 |2024|AAAI|Learning Dense Correspondence for NeRF-Based Face Reenactment|-|
 |2024|AAAI|FG-EmoTalk: Talking Head Video Generation with Fine-Grained Controllable Facial Expressions |-|
 |2024|IJCV|One-shot Neural Face Reenactment via Finding Directions in GAN's Latent Space|-|
+|2023|arXiv|One-Shot Face Video Re-enactment using Hybrid Latent Spaces of StyleGAN2|[Code](https://trevineoorloff.github.io/FaceVideoReenactment_HybridLatents.io/)|
 |2023|arXiv|MaskRenderer: 3D-Infused Multi-Mask Realistic Face Reenactment|-|
 |2023|T-PAMI|Free-headgan: Neural talking head synthesis with explicit gaze control|-|
 |2023|CVPR|High-Fidelity and Freely Controllable Talking Head Video Generation|[Code](https://yuegao.me/PECHead)|
@@ -169,11 +171,13 @@ This survey presents a detailed survey on generation and detection tasks about f
 |2018|NeurIPS|Video to video synthesis|[Code](https://github.com/NVIDIA/vid2vid)|
 |2016|CVPR|Face2Face: Real-time Face Capture and Reenactment of RGB Videos|-|
 
-
-
 ### Talking Face Generation
 |Year|Venue|Category|Paper Title|Code|
 |:-:|:-:|:-:|-|-|
+|2024|arXiv|3D Model|GaussianTalker: Real-Time High-Fidelity Talking Head Synthesis with Audio-Driven 3D Gaussian Splatting|[Code](https://ku-cvlab.github.io/GaussianTalker)|
+|2024|arXiv|3D Model|Learn2Talk: 3D Talking Face Learns from 2D Talking Face|[Code](https://lkjkjoiuiu.github.io/Learn2Talk/)|
+|2024|arXiv|3D Model|TalkingGaussian: Structure-Persistent 3D Talking Head Synthesis via Gaussian Splatting|[Code](https://github.com/Fictionarry/TalkingGaussian)|
+|2024|arXiv|3D Model|GaussianTalker: Speaker-specific Talking Head Synthesis via 3D Gaussian Splatting|-|
 |2024|arXiv|Audio|VASA-1: Lifelike Audio-Driven Talking Faces Generated in Real Time|[Code](https://www.microsoft.com/en-us/research/project/vasa-1/)|
 |2024|arXiv|Audio|Emote Portrait Alive: Generating Expressive Portrait Videos with Audio2Video Diffusion Model under Weak Conditions|[Code](https://github.com/HumanAIGC/EMO)|
 |2024|arXiv|Audio|VLOGGER: Multimodal Diffusion for Embodied Avatar Synthesis|[Code](https://enriccorona.github.io/vlogger/)|
@@ -245,6 +249,7 @@ This survey presents a detailed survey on generation and detection tasks about f
 |Year|Venue|Category|Paper Title|Code|
 |:-:|:-:|:-:|-|-|
 |2024|arXiv|NeRF|Fast Text-to-3D-Aware Face Generation and Manipulation via Direct Cross-modal Mapping and Geometric Regularization|[Code](https://github.com/Aria-Zhangjl/E3-FaceNet)|
+2024|arXiv|GANs|GANTASTIC: GAN-based Transfer of Interpretable Directions for Disentangled Image Editing in Text-to-Image Diffusion Models|[Code](https://gantastic.github.io/)|
 |2024|arXiv|Diffusion|DreamSalon: A Staged Diffusion Framework for Preserving Identity-Context in Editable Face Generation|-|
 |2024|arXiv|GANs|S3Editor: A Sparse Semantic-Disentangled Self-Training Framework for Face Video Editing|-|
 |2024|arXiv|GANs|Reference-Based 3D-Aware Image Editing with Triplane|[Code](https://three-bee.github.io/triplane_edit)|
@@ -257,6 +262,7 @@ This survey presents a detailed survey on generation and detection tasks about f
 |2024|arXiv|Diffusion|DiffFAE: Advancing High-fidelity One-shot Facial Appearance Editing with Space-sensitive Customization and Semantic Preservation|-|
 |2024|arXiv|Diffusion|DreamSalon: A Staged Diffusion Framework for Preserving Identity-Context in Editable Face Generation|-|
 |2024|ICIGP|GANs|A novel method for facial attribute editing by integrating semantic segmentation and color rendering|-|
+|2024|Information Sciences|GANs|ICGNet: An intensity-controllable generation network based on covering learning for face attribute synthesis|[Code](https://github.com/kllaodong/-ICGNet)|
 |2024|ICASSP|GANs|Semantic Latent Decomposition with Normalizing Flows for Face Editing|[Code](https://github.com/phil329/SDFlow)|
 |2024|AAAI|GANs|SDGAN: Disentangling Semantic Manipulation for Facial Attribute Editing|-|
 |2024|WACV|Diffusion|Personalized Face Inpainting With Diffusion Models by Parallel Visual Attention|-|
