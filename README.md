@@ -293,7 +293,7 @@ This survey presents a detailed survey on generation and detection tasks about f
 ### Forgery Detection
 |Year|Venue|Category|Paper Title|Code|
 |:-:|:-:|:-:|-|-|
-|2024|arXiv|Space Domain|MoE-FFD: Mixture of Experts for Generalized and Parameter-Efficient Face Forgery Detection|-|
+|2024|arXiv|Space Domain| n|-|
 |2024|arXiv|Multi-Modal|Towards More General Video-based Deepfake Detection through Facial Feature Guided Adaptation for Foundation Model|-|
 |2024|arXiv|Data Driven|D3: Scaling Up Deepfake Detection by Learning from Discrepancy|-|
 |2024|arXiv|Space Domain|Band-Attention Modulated RetNet for Face Forgery Detection|-|
@@ -301,6 +301,9 @@ This survey presents a detailed survey on generation and detection tasks about f
 |2024|arXiv|Space Domain|Diffusion Facial Forgery Detection|-|
 |2024|arXiv|Space Domain|Masked Conditional Diffusion Model for Enhancing Deepfake Detection|-|
 |2024|T-PAMI|Multi-Modal|Detecting and Grounding Multi-Modal Media Manipulation and Beyond|[Code](https://github.com/rshaojimmy/MultiModal-DeepFake)|
+|2024|ICASSP|Multi-Modal|Exploiting Modality-Specific Features for Multi-Modal Manipulation Detection and Grounding|-|
+|2024|ICASSP|Space Domain|Selective Domain-Invariant Feature for Generalizable Deepfake Detection|-|
+|2024|ICASSP|Data Driven|Adapter-Based Incremental Learning for Face Forgery Detection|-|
 |2024|MMM|Space Domain|Face Forgery Detection via Texture and Saliency Enhancement|-|
 |2024|MMM|Space Domain|Adapting Pretrained Large-Scale Vision Models for Face Forgery Detection|-|
 |2024|TIFS|Space Domain|Learning to Discover Forgery Cues for Face Forgery Detection|-|
@@ -308,8 +311,6 @@ This survey presents a detailed survey on generation and detection tasks about f
 |2024|IJCV|Time Domain|Learning Spatiotemporal Inconsistency via Thumbnail Layout for Face Deepfake Detection|[Code](https://github.com/rainy-xu/TALL4Deepfake)|
 |2024|NAACL|Time Domain|Heterogeneity over Homogeneity: Investigating Multilingual Speech Pre-Trained Models for Detecting Audio Deepfake|-|
 |2024|CVPR|Time Domain|Exploiting Style Latent Flows for Generalizing Deepfake Detection Video Detection|-|
-|2024|ICASSP|Space Domain|Selective Domain-Invariant Feature for Generalizable Deepfake Detection|-|
-|2024|ICASSP|Data Driven|Adapter-Based Incremental Learning for Face Forgery Detection|-|
 |2024|AAAI|Frequency Domain|Frequency-Aware Deepfake Detection: Improving Generalizability through Frequency Space Domain Learning|[Code](https://github.com/chuangchuangtan/FreqNet-DeepfakeDetection)|
 |2024|AAAI|Space Domain|Exposing the Deception: Uncovering More Forgery Clues for Deepfake Detection|[Code](https://github.com/QingyuLiu/Exposing-the-Deception)|
 |2024|WACV|Space Domain|Deepfake Detection by Exploiting Surface Anomalies: The SurFake Approach|-|
@@ -330,6 +331,7 @@ This survey presents a detailed survey on generation and detection tasks about f
 |2023|Applied Soft Computing|Time Domain|AVFakeNet: A unified end-to-end Dense Swin Transformer deep learning model for audio–visual​ deepfakes detection|-|
 |2023|TCSVT|Time Domain|PVASS-MDD: Predictive Visual-audio Alignment Self-supervision for Multimodal Deepfake Detection|-|
 |2023|TIFS|Time Domain|AVoiD-DF: Audio-Visual Joint Learning for Detecting Deepfake|-|
+|2023|TIFS|Space Domain|Beyond the Prior Forgery Knowledge: Mining Critical Clues for General Face Forgery Detection|[Code](https://github.com/LoveSiameseCat/CFM )|
 |2023|arXiv|Time Domain|AV-Lip-Sync+: Leveraging AV-HuBERT to Exploit Multimodal Inconsistency for Video Deepfake Detection|-|
 |2022|TIFS|Space Domain|FakeLocator: Robust Localization of GAN-Based Face Manipulations|-|
 |2022|CVPR|Space Domain|Detecting Deepfakes with Self-Blended Images|[Code](https://github.com/mapooon/SelfBlendedImages)|
@@ -369,10 +371,10 @@ This survey presents a detailed survey on generation and detection tasks about f
 ### Face Super-resolution
 |Year|Venue|Paper Title|Code|
 |:-:|:-:|-|-|
-|2024|arXiv|Efficient Diffusion Model for Image Restoration by Residual Shifting|-|
+|2024|arXiv|Efficient Diffusion Model for Image Restoration by Residual Shifting|[Code](https://github.com/zsyOAOA/ResShift)|
 |2024|arXiv|PFStorer: Personalized Face Restoration and Super-Resolution|-|
 |2024|arXiv|DiffBIR: Towards Blind Image Restoration with Generative Diffusion Prior|[Code](https://github.com/XPixelGroup/DiffBIR)|
-|2024|AAAI|ResDiff: Combining CNN and Diffusion Model for Image Super-Resolution|-|
+|2024|AAAI|ResDiff: Combining CNN and Diffusion Model for Image Super-Resolution|[Code](https://github.com/LYL1015/ResDiff)|
 |2024|AAAI|Low-Light Face Super-resolution via Illumination, Structure, and Texture Associated Representation|[Code](https://github.com/wcy-cs/IC-FSRDENet)|
 |2024|AAAI|SkipDiff: Adaptive Skip Diffusion Model for High-Fidelity Perceptual Image Super-resolution|-|
 |2024|WACV|Arbitrary-Resolution and Arbitrary-Scale Face Super-Resolution With Implicit Representation Networks|-|
@@ -393,6 +395,8 @@ This survey presents a detailed survey on generation and detection tasks about f
 |Year|Venue|Paper Title|Code|
 |:-:|:-:|-|-|
 |2024|arXiv|ToonAging: Face Re-Aging upon Artistic Portrait Style Transfer|-|
+|2024|arXiv|CtlGAN: Few-shot Artistic Portraits Generation with Contrastive Transfer Learning|-|
+|2024|Displays|HiStyle: Reinventing historic portraits via 3D generative model|-|
 |2024|ICASSP|A Framework for Portrait Stylization with Skin-Tone Awareness and Nudity Identification|-|
 |2024|ICASSP|Learning Discriminative Style Representations for Unsupervised and Few-Shot Artistic Portrait Drawing Generation|[Code](https://github.com/AiArt-HDU/Co-GAN)|
 |2024|TMM|FaceRefiner: High-Fidelity Facial Texture Refinement with Differentiable Rendering-based Style Transfer|-|
@@ -435,10 +439,14 @@ This survey presents a detailed survey on generation and detection tasks about f
 ### Makeup Transfer
 |Year|Venue|Paper Title|Code|
 |:-:|:-:|-|-|
+|2024|arXiv|Gorgeous: Create Your Desired Character Facial Makeup from Any Ideas|[Code](https://github.com/JiaWeiSii/gorgeous/)|
+|2024|arXiv|Toward Tiny and High-quality Facial Makeup with Data Amplify Learning|[Code](https://tinybeauty.github.io/TinyBeauty/)|
 |2024|arXiv|Stable-Makeup: When Real-World Makeup Transfer Meets Diffusion Model|-|
-|2024|arXiv|Toward Tiny and High-quality Facial Makeup with Data Amplify Learning|-|
 |2024|CVPR|Makeup Prior Models for 3D Facial Makeup Estimation and Applications|[Code](https://yangxingchao.github.io/makeup-priors-page/)|
+|2024|ESWA|ISFB-GAN: Interpretable semantic face beautification with generative adversarial network|-|
+|2024|TVCG|MuNeRF: Robust Makeup Transfer in Neural Radiance Fields|-|
 |2024|ICASSP|Skin tone disentanglement in 2D makeup transfer with graph neural networks|-|
+|2024|WACV|LipAT: Beyond Style Transfer for Controllable Neural Simulation of Lipstick Using Cosmetic Attributes|-|
 |2023|TNNLS|SSAT++: A Semantic-Aware and Versatile Makeup Transfer Network With Local Color Consistency Constraint|[Code](https://gitee.com/sunzhaoyang0304/ssat-msp)|
 |2023|CVPR|BeautyREC: Robust, Efficient, and Component-Specific Makeup Transfer|[Code](https://li-chongyi.github.io/BeautyREC_files/)|
 |2023|TCSVT|Hybrid Transformers with Attention-guided Spatial Embeddings for Makeup Transfer and Removal|-|
