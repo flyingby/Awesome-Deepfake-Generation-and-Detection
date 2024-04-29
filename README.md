@@ -293,7 +293,8 @@ This survey presents a detailed survey on generation and detection tasks about f
 ### Forgery Detection
 |Year|Venue|Category|Paper Title|Code|
 |:-:|:-:|:-:|-|-|
-|2024|arXiv|Space Domain| n|-|
+|2024|arXiv|Frequency Domain|FreqBlender: Enhancing DeepFake Detection by Blending Frequency Knowledge|-|
+|2024|arXiv|Space Domain|MoE-FFD: Mixture of Experts for Generalized and Parameter-Efficient Face Forgery Detection|-|
 |2024|arXiv|Multi-Modal|Towards More General Video-based Deepfake Detection through Facial Feature Guided Adaptation for Foundation Model|-|
 |2024|arXiv|Data Driven|D3: Scaling Up Deepfake Detection by Learning from Discrepancy|-|
 |2024|arXiv|Space Domain|Band-Attention Modulated RetNet for Face Forgery Detection|-|
