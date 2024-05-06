@@ -146,11 +146,11 @@ This survey presents a detailed survey on generation and detection tasks about f
 |2024|AAAI|Learning Dense Correspondence for NeRF-Based Face Reenactment|-|
 |2024|AAAI|FG-EmoTalk: Talking Head Video Generation with Fine-Grained Controllable Facial Expressions |-|
 |2024|IJCV|One-shot Neural Face Reenactment via Finding Directions in GAN's Latent Space|-|
-|2023|arXiv|One-Shot Face Video Re-enactment using Hybrid Latent Spaces of StyleGAN2|[Code](https://trevineoorloff.github.io/FaceVideoReenactment_HybridLatents.io/)|
 |2023|arXiv|MaskRenderer: 3D-Infused Multi-Mask Realistic Face Reenactment|-|
 |2023|T-PAMI|Free-headgan: Neural talking head synthesis with explicit gaze control|-|
 |2023|CVPR|High-Fidelity and Freely Controllable Talking Head Video Generation|[Code](https://yuegao.me/PECHead)|
 |2023|NeurIPS|Learning Motion Refinement for Unsupervised Face Animation|[Code](https://github.com/JialeTao/MRFA/)|
+|2023|ICCV|Robust One-Shot Face Video Re-enactment using Hybrid Latent Spaces of StyleGAN2|[Code](https://trevineoorloff.github.io/FaceVideoReenactment_HybridLatents.io/)|
 |2023|ICCV|ToonTalker: Cross-Domain Face Reenactment|-|
 |2023|ICCV|HyperReenact: One-Shot Reenactment via Jointly Learning to Refine and Retarget Faces|[Code](https://github.com/StelaBou/HyperReenact)|
 |2023|CVPR|MetaPortrait: Identity-Preserving Talking Head Generation with Fast Personalized Adaptation|[Code](https://github.com/Meta-Portrait/MetaPortrait)|
