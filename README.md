@@ -219,6 +219,10 @@ This survey presents a detailed survey on generation and detection tasks about f
 |2024|AAAI|Audio|Style2Talker: High-Resolution Talking Head Generation with Emotion Style and Art Style |-|
 |2024|AAAI|Audio|AudioGPT: Understanding and Generating Speech, Music, Sound, and Talking Head|-|
 |2024|AAAI|Audio|Say Anything with Any Style|-|
+|2023|arXiv|Audio|GMTalker: Gaussian Mixture based Emotional talking video Portraits|[Code](https://bob35buaa.github.io/GMTalker)|
+|2023|arXiv|Diffusion|DREAM-Talk: Diffusion-based Realistic Emotional Audio-driven Method for Single Image Talking Face Generation|[Code](https://magic-research.github.io/dream-talk/)|
+|2023|arXiv|Diffusion|DreamTalk: When Expressive Talking Head Generation Meets Diffusion Probabilistic Models|[Code](https://dreamtalk-project.github.io/)|
+|2023|arXiv|Text|TalkCLIP: Talking Head Generation with Text-Guided Expressive Speaking Styles|-|
 |2023|CVPR|Multimodal|High-Fidelity Generalized Emotional Talking Face Generation With Multi-Modal Emotion Space Learning|-|
 |2023|CVPR|Multimodal|LipFormer: High-fidelity and Generalizable Talking Face Generation with A Pre-learned Facial Codebook|-|
 |2023|CVPR|Audio|Sadtalker: Learning realistic 3d motion coefficients for stylized audio-driven single image talking face animation|[Code](https://sadtalker.github.io/)|
@@ -230,15 +234,11 @@ This survey presents a detailed survey on generation and detection tasks about f
 |2023|CVPR|Audio|Identity-Preserving Talking Face Generation with Landmark and Appearance Priors|[Code](https://github.com/Weizhi-Zhong/IP_LAP)|
 |2023|TCSVT|Audio|Stochastic Latent Talking Face Generation Towards Emotional Expressions and Head Poses|-|
 |2023|ICCV|Audio|Efficient Emotional Adaptation for Audio-Driven Talking-Head Generation|[Code](https://github.com/yuangan/EAT_code)|
-|2023|arXiv|Audio|GMTalker: Gaussian Mixture based Emotional talking video Portraits|[Code](https://bob35buaa.github.io/GMTalker)|
 |2023|Displays|Audio|Talking face generation driven by time–frequency domain features of speech audio|-|
-|2023|arXiv|Diffusion|DreamTalk: When Expressive Talking Head Generation Meets Diffusion Probabilistic Models|[Code](https://dreamtalk-project.github.io/)|
 |2023|ICCV|Diffusion|Talking Head Generation with Probabilistic Audio-to-Visual Diffusion Priors|[Code](https://github.com/zxYin/TH-PAD)|
-|2023|arXiv|Diffusion|DREAM-Talk: Diffusion-based Realistic Emotional Audio-driven Method for Single Image Talking Face Generation|[Code](https://magic-research.github.io/dream-talk/)|
 |2023|ICCV|Audio|SPACE : Speech-driven Portrait Animation with Controllable Expression|[Code](https://research.nvidia.com/labs/dir/space/)|
-|2023|Displays|Multimodal|Flow2Flow: Audio-visual cross-modality generation for talking face videos with rhythmic head|[Code](-)|
 |2023|ICCV|3D Model|EmoTalk: Speech-Driven Emotional Disentanglement for 3D Face Animation|[Code](https://github.com/psyai-net/EmoTalk_release)|
-|2023|arXiv|Text|TalkCLIP: Talking Head Generation with Text-Guided Expressive Speaking Styles|-|
+|2023|Displays|Multimodal|Flow2Flow: Audio-visual cross-modality generation for talking face videos with rhythmic head|[Code](-)|
 |2023|ACM MM|Diffusion|DAE-Talker: High Fidelity Speech-Driven Talking Face Generation with Diffusion Autoencoder|[Code](https://daetalker.github.io/)|
 |2022|CVPR|Multimodal|Expressive Talking Head Generation with Granular Audio-Visual Control|-|
 |2022|TMM|Multimodal|Multimodal Learning for Temporally Coherent Talking Face Generation With Articulator Synergy|[Code](http://imcc.ustc.edu.cn/project/tfgen/.)|
