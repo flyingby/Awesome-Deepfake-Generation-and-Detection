@@ -92,6 +92,8 @@ This survey presents a detailed survey on generation and detection tasks about f
 |2024|TMM|Other|An Efficient Attribute-Preserving Framework for Face Swapping|-|
 |2024|TMM|GANs+3D|StableSwap: Stable Face Swapping in a Shared and Controllable Latent Space|-|
 |2023|arXiv|GANs|FlowFace++: Explicit Semantic Flow-supervised End-to-End Face Swapping|-|
+|2023|arXiv|GANs|End-to-end Face-swapping via Adaptive Latent Representation Learning|-|
+|2023|arXiv|Difussion|A Generalist FaceX via Learning Unified Facial Representation|[Code](https://diffusion-facex.github.io/)|
 |2023|WACV|VAEs|FaceOff: A Video-to-Video Face Swapping System|-|
 |2023|CVPR|GANs+3DMM|StyleIPSB: Identity-Preserving Semantic Basis of StyleGAN for High Fidelity Face Swapping|[Code](https://github.com/a686432/StyleIPSB)|
 |2023|CVPR|GANs+3DMM|3D-Aware Face Swapping|[Code](https://lyx0208.github.io/3dSwap/)|
@@ -105,11 +107,10 @@ This survey presents a detailed survey on generation and detection tasks about f
 |2023|AAAI|GANs+3DMM|FlowFace: Semantic Flow-Guided Shape-Aware Face Swapping|-|
 |2023|CVPR|Transformers|Face Transformer: Towards High Fidelity and Accurate Face Swapping|-|
 |2023|ACM MM|GANs+3D|High Fidelity Face Swapping via Semantics Disentanglement and Structure Enhancement|-|
-|2023|arXiv|GANs|End-to-end Face-swapping via Adaptive Latent Representation Learning|-|
 |2023|FG|Transformers|TransFS: Face Swapping Using Transformer|-|
 |2023|arXiv|Cycle triplets|ReliableSwap: Boosting General Face Swapping Via Reliable Supervision|[Code](https://github.com/ygtxr1997/ReliableSwap)|
 |2023|CVPR|Difussion|DiffSwap: High-Fidelity and Controllable Face Swapping via 3D-Aware Masked Diffusion|[Code](https://github.com/wl-zhao/DiffSwap)|
-|2023|arXiv|Difussion|A Generalist FaceX via Learning Unified Facial Representation|[Code](https://diffusion-facex.github.io/)|
+|2022|arXiv|Difussion|DiffFace: Diffusion-based Face Swapping with Facial Guidance|[Code](https://hxngiee.github.io/DiffFace/)|
 |2022|AAAI|GANs|MobileFaceSwap: A Lightweight Framework for Video Face Swapping|[Code](https://github.com/Seanseattle/MobileFaceSwap)|
 |2022|T-PAMI|GANs|FSGANv2: Improved Subject Agnostic Face Swapping and Reenactment|[Code](https://github.com/YuvalNirkin/fsgan)|
 |2022|ICME|GANs|Migrating face swap to mobile devices: a lightweight framework and a supervised training solution|[Code](https://github.com/HoiM/MobileFSGAN)|
@@ -118,7 +119,6 @@ This survey presents a detailed survey on generation and detection tasks about f
 |2022|ECCV|GANs+3DMM|MFIM: Megapixel Facial Identity Manipulation|-|
 |2022|CVPR|GANs|Region-Aware Face Swapping|[Code](https://github.com/xc-csc101/RAFSwap)|
 |2022|CVPR|Difussion|Smooth-Swap: A Simple Enhancement for Face-Swapping with Smoothness|-|
-|2022|arXiv|Difussion|DiffFace: Diffusion-based Face Swapping with Facial Guidance|[Code](https://hxngiee.github.io/DiffFace/)|
 |2022|CVPR|GANs|High-resolution Face Swapping via Latent Semantics Disentanglement|[Code](https://github.com/cnnlstm/FSLSD_HiRes)|
 |2021|CVPR|GANs+3DMM|FaceInpainter: High Fidelity Face Adaptation to Heterogeneous Domains|-|
 |2021|CVPR|GANs|Information Bottleneck Disentanglement for Identity Swapping|-|
@@ -332,6 +332,7 @@ This survey presents a detailed survey on generation and detection tasks about f
 |2024|AAAI|Space Domain|Exposing the Deception: Uncovering More Forgery Clues for Deepfake Detection|[Code](https://github.com/QingyuLiu/Exposing-the-Deception)|
 |2024|WACV|Space Domain|Deepfake Detection by Exploiting Surface Anomalies: The SurFake Approach|-|
 |2024|WACV|Time Domain|VideoFACT: Detecting Video Forgeries Using Attention, Scene Context, and Forensic Traces|[Code](https://github.com/ductai199x/videofact-wacv-2024)|
+|2023|arXiv|Time Domain|AV-Lip-Sync+: Leveraging AV-HuBERT to Exploit Multimodal Inconsistency for Video Deepfake Detection|-|
 |2023|CVPR|Data Driven|Implicit Identity Driven Deepfake Face Swapping Detection|-|
 |2023|TMM|Data Driven|Narrowing Domain Gaps with Bridging Samples for Generalized Face Forgery Detection|-|
 |2023|CVPR|Data Driven|Hierarchical Fine-Grained Image Forgery Detection and Localization|[Code](https://github.com/CHELSEA234/HiFi_IFDL)|
@@ -349,7 +350,6 @@ This survey presents a detailed survey on generation and detection tasks about f
 |2023|TCSVT|Time Domain|PVASS-MDD: Predictive Visual-audio Alignment Self-supervision for Multimodal Deepfake Detection|-|
 |2023|TIFS|Time Domain|AVoiD-DF: Audio-Visual Joint Learning for Detecting Deepfake|-|
 |2023|TIFS|Space Domain|Beyond the Prior Forgery Knowledge: Mining Critical Clues for General Face Forgery Detection|[Code](https://github.com/LoveSiameseCat/CFM )|
-|2023|arXiv|Time Domain|AV-Lip-Sync+: Leveraging AV-HuBERT to Exploit Multimodal Inconsistency for Video Deepfake Detection|-|
 |2022|TIFS|Space Domain|FakeLocator: Robust Localization of GAN-Based Face Manipulations|-|
 |2022|CVPR|Space Domain|Detecting Deepfakes with Self-Blended Images|[Code](https://github.com/mapooon/SelfBlendedImages)|
 |2022|CVPR|Space Domain|End-to-End Reconstruction-Classification Learning for Face Forgery Detection|[Code](https://github.com/VISION-SJTU/RECCE)|
@@ -423,8 +423,8 @@ This survey presents a detailed survey on generation and detection tasks about f
 |2024|AAAI|MagiCapture: High-Resolution Multi-Concept Portrait Customization|-|
 |2024|AAAI|ArtBank: Artistic Style Transfer with Pre-trained Diffusion Model and Implicit Style Prompt Bank|[Code](https://github.com/Jamie-Cheung/ArtBank)|
 |2024|TNNLS|Few-Shot Face Stylization via GAN Prior Distillation|-|
-|2023|TNNLS|Unpaired Artistic Portrait Style Transfer via Asymmetric Double-Stream GAN|-|
 |2023|arXiv|PP-GAN : Style Transfer from Korean Portraits to ID Photos Using Landmark Extractor with GAN|-|
+|2023|TNNLS|Unpaired Artistic Portrait Style Transfer via Asymmetric Double-Stream GAN|-|
 |2023|CVPR|Inversion-Based Style Transfer With Diffusion Models|[Code](https://github.com/zyxElsa/InST)|
 |2023|ICCV|General Image-to-Image Translation with One-Shot Image Guidance|[Code](https://github.com/CrystalNeuro/visual-concept-translator)|
 |2023|ACM TOG|A Unified Arbitrary Style Transfer Framework via Adaptive Contrastive Learning|[Code](https://github.com/zyxElsa/CAST_pytorch)|
@@ -440,17 +440,17 @@ This survey presents a detailed survey on generation and detection tasks about f
 |:-:|:-:|-|-|
 |2024|arXiv|Large Motion Model for Unified Multi-Modal Motion Generation|[Code](https://mingyuan-zhang.github.io/projects/LMM.html)|
 |2024|arXiv|Champ: Controllable and Consistent Human Image Animation with 3D Parametric Guidance|[Code](https://fudan-generative-vision.github.io/champ)|
+|2024|arXiv|Champ: Controllable and Consistent Human Image Animation with 3D Parametric Guidance|[Code](https://fudan-generative-vision.github.io/champ/#/)|
 |2024|AAAI|PTUS: Photo-Realistic Talking Upper-Body Synthesis via 3D-Aware Motion Decomposition Warping|[Code](https://github.com/cooluoluo/PTUS)|
 |2024|CVPR|Emotional Speech-driven 3D Body Animation via Disentangled Latent Diffusion|[Code](https://amuse.is.tue.mpg.de/)|
 |2024|CVPR|DISCO: Disentangled Control for Realistic Human Dance Generation|[Code](https://disco-dance.github.io/)|
 |2024|CVPR|MagicAnimate: Temporally Consistent Human Image Animation using Diffusion Model|[Code](https://showlab.github.io/magicanimate)|
 |2024|CVPR|GaussianAvatar: Towards Realistic Human Avatar Modeling from a Single Video via Animatable 3D Gaussians|[Code](https://huliangxiao.github.io/GaussianAvatar)|
-|2024|arXiv|Champ: Controllable and Consistent Human Image Animation with 3D Parametric Guidance|[Code](https://fudan-generative-vision.github.io/champ/#/)|
+|2023|arXiv|TADA! Text to Animatable Digital Avatars|[Code](https://tada.is.tue.mpg.de/)|
 |2023|WACV|Physically Plausible Animation of Human Upper Body From a Single Image|-|
 |2023|ICCV|Towards Multi-Layered 3D Garments Animation|[Code](www.mmlab-ntu.com/project/layersnet/index.html)|
 |2023|ICCV|Make-An-Animation: Large-Scale Text-conditional 3D Human Motion Generation|[Code](https://azadis.github.io/make-an-animation/)|
 |2023|CVPR|Learning anchor transformations for 3d garment animation|-|
-|2023|arXiv|TADA! Text to Animatable Digital Avatars|[Code](https://tada.is.tue.mpg.de/)|
 |2022|IJCAI|Text/Speech-Driven Full-Body Animation|[Code](https://github.com/YadiraF/SCARF)|
 |2022|SIGGRAPH|Capturing and Animation of Body and Clothing from Monocular Video|-|
 |2022|NeurIPS|CageNeRF: Cage-based Neural Radiance Field for Generalized 3D Deformation and Animation|[Code](https://pengyicong.github.io/CageNeRF/)|
@@ -466,10 +466,10 @@ This survey presents a detailed survey on generation and detection tasks about f
 |2024|TVCG|MuNeRF: Robust Makeup Transfer in Neural Radiance Fields|-|
 |2024|ICASSP|Skin tone disentanglement in 2D makeup transfer with graph neural networks|-|
 |2024|WACV|LipAT: Beyond Style Transfer for Controllable Neural Simulation of Lipstick Using Cosmetic Attributes|-|
+|2023|arXiv|SARA: Controllable Makeup Transfer with Spatial Alignment and Region-Adaptive Normalization|-|
 |2023|TNNLS|SSAT++: A Semantic-Aware and Versatile Makeup Transfer Network With Local Color Consistency Constraint|[Code](https://gitee.com/sunzhaoyang0304/ssat-msp)|
 |2023|CVPR|BeautyREC: Robust, Efficient, and Component-Specific Makeup Transfer|[Code](https://li-chongyi.github.io/BeautyREC_files/)|
 |2023|TCSVT|Hybrid Transformers with Attention-guided Spatial Embeddings for Makeup Transfer and Removal|-|
-|2023|arXiv|SARA: Controllable Makeup Transfer with Spatial Alignment and Region-Adaptive Normalization|-|
 |2022|ICCV|EleGANt: Exquisite and Locally Editable GAN for Makeup Transfer|[Code](https://github.com/Chenyu-Yang-2000/EleGANt)|
 |2022|AAAI|SSAT: A Symmetric Semantic-Aware Transformer Network for Makeup Transfer and Removal|[Code](https://gitee.com/sunzhaoyang0304/ssat-msp)|
 |2022|Knowledge-Based Systems|TSEV-GAN: Generative Adversarial Networks with Target-aware Style Encoding and Verification for facial makeup transfer|-|
