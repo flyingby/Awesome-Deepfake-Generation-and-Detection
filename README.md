@@ -135,6 +135,8 @@ This survey presents a detailed survey on generation and detection tasks about f
 ### Face Reenactment
 |Year|Venue|Paper Title|Code|
 |:-:|:-:|-|-|
+|2024|arXiv|3DFlowRenderer: One-shot Face Re-enactment via Dense 3D Facial Flow Estimation|[Code](https://export3d.github.io/)|
+|2024|arXiv|Export3D: Learning to Generate Conditional Tri-plane for 3D-aware Expression-Controllable Portrait Animation|[Code](https://export3d.github.io/)|
 |2024|arXiv|Learning to Generate Conditional Tri-plane for 3D-aware Expression Controllable Portrait Animation|[Code](https://export3d.github.io/)|
 |2024|arXiv|Superior and Pragmatic Talking Face Generation with Teacher-Student Framework|[Code](https://superfacelink.github.io/)|
 |2024|arXiv|DiffusionAct: Controllable Diffusion Autoencoder for One-shot Face Reenactment|[Code](https://stelabou.github.io/diffusionact/)|
@@ -174,10 +176,12 @@ This survey presents a detailed survey on generation and detection tasks about f
 ### Talking Face Generation
 |Year|Venue|Category|Paper Title|Code|
 |:-:|:-:|:-:|-|-|
+|2024|arXiv|3D Model|GSTalker: Real-time Audio-Driven Talking Face Generation via Deformable Gaussian Splatting|-|
+|2024|arXiv|3D Model|Embedded Representation Learning Network for Animating Styled Video Portrait|-|
 |2024|arXiv|3D Model|GaussianTalker: Real-Time High-Fidelity Talking Head Synthesis with Audio-Driven 3D Gaussian Splatting|[Code](https://ku-cvlab.github.io/GaussianTalker)|
 |2024|arXiv|3D Model|Learn2Talk: 3D Talking Face Learns from 2D Talking Face|[Code](https://lkjkjoiuiu.github.io/Learn2Talk/)|
 |2024|arXiv|3D Model|TalkingGaussian: Structure-Persistent 3D Talking Head Synthesis via Gaussian Splatting|[Code](https://github.com/Fictionarry/TalkingGaussian)|
-|2024|arXiv|3D Model|GaussianTalker: Speaker-specific Talking Head Synthesis via 3D Gaussian Splatting|-|
+|2024|arXiv|3D Model|GaussianTalker: Speaker-specific Talking Head Synthesis via 3D Gaussian Splatting|[Code](https://yuhongyun777.github.io/GaussianTalker/)|
 |2024|arXiv|Audio|VASA-1: Lifelike Audio-Driven Talking Faces Generated in Real Time|[Code](https://www.microsoft.com/en-us/research/project/vasa-1/)|
 |2024|arXiv|Audio|Emote Portrait Alive: Generating Expressive Portrait Videos with Audio2Video Diffusion Model under Weak Conditions|[Code](https://github.com/HumanAIGC/EMO)|
 |2024|arXiv|Audio|VLOGGER: Multimodal Diffusion for Embodied Avatar Synthesis|[Code](https://enriccorona.github.io/vlogger/)|
@@ -194,6 +198,7 @@ This survey presents a detailed survey on generation and detection tasks about f
 |2024|ICLR|3D Model|Real3D-Portrait: One-shot Realistic 3D Talking Portrait Synthesis|[Code](https://real3dportrait.github.io/)|
 |2024|ICLR|Diffusion|GAIA: ZERO-SHOT TALKING AVATAR GENERATION|[Code](https://microsoft.github.io/GAIA)|
 |2024|T-PAMI|Multimodal|StyleTalk++: A Unified Framework for Controlling the Speaking Styles of Talking Heads|-|
+|2024|ICASSP|Diffusion|EmoTalker: Emotionally Editable Talking Face Generation via Diffusion Model|-|
 |2024|ICASSP|Text|Text-Driven Talking Face Synthesis by Reprogramming Audio-Driven Models|-|
 |2024|ICASSP|Audio|Speech-Driven Emotional 3d Talking Face Animation Using Emotional Embeddings|-|
 |2024|ICASSP|Audio|Exploring Phonetic Context-Aware Lip-Sync for Talking Face Generation|-|
@@ -202,6 +207,7 @@ This survey presents a detailed survey on generation and detection tasks about f
 |2024|ICASSP|3D Model|DT-NeRF: Decomposed Triplane-Hash Neural Radiance Fields For High-Fidelity Talking Portrait Synthesis|-|
 |2024|ICASSP|Multimodal|Talking Face Generation for Impression Conversion Considering Speech Semantics|-|
 |2024|ICAART|Diffusion|DiT-Head: High-Resolution Talking Head Synthesis using Diffusion Transformers|-|
+|2024|WACV|Audio|THInImg: Cross-Modal Steganography for Presenting Talking Heads in Images|-|
 |2024|WACV|Diffusion|Diffused Heads: Diffusion Models Beat GANs on Talking-Face Generation|[Code](https://mstypulkowski.github.io/diffusedheads/)|
 |2024|WACV|Audio|DR2: Disentangled Recurrent Representation Learning for Data-Efficient Speech Video Synthesis|-|
 |2024|WACV|Audio|RADIO: Reference-Agnostic Dubbing Video Synthesis|-|
@@ -249,8 +255,10 @@ This survey presents a detailed survey on generation and detection tasks about f
 ### Facial Attribute Editing
 |Year|Venue|Category|Paper Title|Code|
 |:-:|:-:|:-:|-|-|
+|2024|arXiv|Diffusion|Face2Face: Label-driven Facial Retouching Restoration|-|
+|2024|arXiv|Diffusion|FlashFace: Human Image Personalization with High-fidelity Identity Preservation|[Code](https://jshilong.github.io/flashface-page)|
 |2024|arXiv|NeRF|Fast Text-to-3D-Aware Face Generation and Manipulation via Direct Cross-modal Mapping and Geometric Regularization|[Code](https://github.com/Aria-Zhangjl/E3-FaceNet)|
-2024|arXiv|GANs|GANTASTIC: GAN-based Transfer of Interpretable Directions for Disentangled Image Editing in Text-to-Image Diffusion Models|[Code](https://gantastic.github.io/)|
+|2024|arXiv|GANs|GANTASTIC: GAN-based Transfer of Interpretable Directions for Disentangled Image Editing in Text-to-Image Diffusion Models|[Code](https://gantastic.github.io/)|
 |2024|arXiv|Diffusion|DreamSalon: A Staged Diffusion Framework for Preserving Identity-Context in Editable Face Generation|-|
 |2024|arXiv|GANs|S3Editor: A Sparse Semantic-Disentangled Self-Training Framework for Face Video Editing|-|
 |2024|arXiv|GANs|Reference-Based 3D-Aware Image Editing with Triplane|[Code](https://three-bee.github.io/triplane_edit)|
@@ -262,11 +270,14 @@ This survey presents a detailed survey on generation and detection tasks about f
 |2024|arXiv|GANs|Skull-to-Face: Anatomy-Guided 3D Facial Reconstruction and Editing|[Code](https://xmlyqing00.github.io/skull-to-face-page/)|
 |2024|arXiv|Diffusion|DiffFAE: Advancing High-fidelity One-shot Facial Appearance Editing with Space-sensitive Customization and Semantic Preservation|-|
 |2024|arXiv|Diffusion|DreamSalon: A Staged Diffusion Framework for Preserving Identity-Context in Editable Face Generation|-|
+|2024|T-CSVT|GANs|Interactive Generative Adversarial Networks with High-Frequency Compensation for Facial Attribute Editing|-|
 |2024|ICIGP|GANs|A novel method for facial attribute editing by integrating semantic segmentation and color rendering|-|
 |2024|Information Sciences|GANs|ICGNet: An intensity-controllable generation network based on covering learning for face attribute synthesis|[Code](https://github.com/kllaodong/-ICGNet)|
 |2024|ICASSP|GANs|Semantic Latent Decomposition with Normalizing Flows for Face Editing|[Code](https://github.com/phil329/SDFlow)|
 |2024|AAAI|GANs|SDGAN: Disentangling Semantic Manipulation for Facial Attribute Editing|-|
+|2024|WACV|GANs|EmoStyle: One-Shot Facial Expression Editing Using Continuous Emotion Parameters|[Code](https://bihamta.github.io/emostyle/)|
 |2024|WACV|Diffusion|Personalized Face Inpainting With Diffusion Models by Parallel Visual Attention|-|
+|2024|WACV|GANs|Face Identity-Aware Disentanglement in StyleGAN|-|
 |2024|NeurIPS|Diffusion+NeRF|FaceDNeRF: Semantics-Driven Face Reconstruction, Prompt Editing and Relighting with Diffusion Models|[Code](https://github.com/BillyXYB/FaceDNeRF)|
 |2023|CVPR|Diffusion|Collaborative Diffusion for Multi-Modal Face Generation and Editing|[Code](https://github.com/ziqihuangg/Collaborative-Diffusion)|
 |2023|ICCV|GANs|Conceptual and Hierarchical Latent Space Decomposition for Face Editing|-|
@@ -294,6 +305,8 @@ This survey presents a detailed survey on generation and detection tasks about f
 ### Forgery Detection
 |Year|Venue|Category|Paper Title|Code|
 |:-:|:-:|:-:|-|-|
+|2024|arXiv|Space Domain|In Anticipation of Perfect Deepfake: Identity-anchored Artifact-agnostic Detection under Rebalanced Deepfake Detection Protocol|[Code](https://github.com/AaronComo/LipFD)|
+|2024|arXiv|Time Domain|Lips Are Lying: Spotting the Temporal Inconsistency between Audio and Visual in Lip-Syncing DeepFakes|[Code](https://github.com/AaronComo/LipFD)|
 |2024|arXiv|Frequency Domain|FreqBlender: Enhancing DeepFake Detection by Blending Frequency Knowledge|-|
 |2024|arXiv|Space Domain|MoE-FFD: Mixture of Experts for Generalized and Parameter-Efficient Face Forgery Detection|-|
 |2024|arXiv|Multi-Modal|Towards More General Video-based Deepfake Detection through Facial Feature Guided Adaptation for Foundation Model|-|
@@ -302,12 +315,14 @@ This survey presents a detailed survey on generation and detection tasks about f
 |2024|arXiv|Other|Real, fake and synthetic faces -- does the coin have three sides?|-|
 |2024|arXiv|Space Domain|Diffusion Facial Forgery Detection|-|
 |2024|arXiv|Space Domain|Masked Conditional Diffusion Model for Enhancing Deepfake Detection|-|
+|2024|ICME|Space Domain|Counterfactual Explanations for Face Forgery Detection via Adversarial Removal of Artifacts|[Code](https://github.com/yangli-lab/Artifact-Eraser/)|
 |2024|T-PAMI|Multi-Modal|Detecting and Grounding Multi-Modal Media Manipulation and Beyond|[Code](https://github.com/rshaojimmy/MultiModal-DeepFake)|
 |2024|ICASSP|Multi-Modal|Exploiting Modality-Specific Features for Multi-Modal Manipulation Detection and Grounding|-|
 |2024|ICASSP|Space Domain|Selective Domain-Invariant Feature for Generalizable Deepfake Detection|-|
 |2024|ICASSP|Data Driven|Adapter-Based Incremental Learning for Face Forgery Detection|-|
 |2024|MMM|Space Domain|Face Forgery Detection via Texture and Saliency Enhancement|-|
 |2024|MMM|Space Domain|Adapting Pretrained Large-Scale Vision Models for Face Forgery Detection|-|
+|2024|TIFS|Other|Improving Generalization of Deepfake Detectors by Imposing Gradient Regularization|-|
 |2024|TIFS|Space Domain|Learning to Discover Forgery Cues for Face Forgery Detection|-|
 |2024|TIFS|Time Domain|Where Deepfakes Gaze at? Spatial-Temporal Gaze Inconsistency Analysis for Video Face Forgery Detection|[Code](https://github.com/ziminMIAO/DFGaze)|
 |2024|IJCV|Time Domain|Learning Spatiotemporal Inconsistency via Thumbnail Layout for Face Deepfake Detection|[Code](https://github.com/rainy-xu/TALL4Deepfake)|
@@ -373,6 +388,7 @@ This survey presents a detailed survey on generation and detection tasks about f
 ### Face Super-resolution
 |Year|Venue|Paper Title|Code|
 |:-:|:-:|-|-|
+|2024|arXiv|Towards Real-world Video Face Restoration: A New Benchmark|[Code](https://ziyannchen.github.io/projects/VFRxBenchmark/)|
 |2024|arXiv|Efficient Diffusion Model for Image Restoration by Residual Shifting|[Code](https://github.com/zsyOAOA/ResShift)|
 |2024|arXiv|PFStorer: Personalized Face Restoration and Super-Resolution|-|
 |2024|arXiv|DiffBIR: Towards Blind Image Restoration with Generative Diffusion Prior|[Code](https://github.com/XPixelGroup/DiffBIR)|
@@ -401,6 +417,7 @@ This survey presents a detailed survey on generation and detection tasks about f
 |2024|Displays|HiStyle: Reinventing historic portraits via 3D generative model|-|
 |2024|ICASSP|A Framework for Portrait Stylization with Skin-Tone Awareness and Nudity Identification|-|
 |2024|ICASSP|Learning Discriminative Style Representations for Unsupervised and Few-Shot Artistic Portrait Drawing Generation|[Code](https://github.com/AiArt-HDU/Co-GAN)|
+|2024|TMM|Towards High-Quality Photorealistic Image Style Transfer|-|
 |2024|TMM|FaceRefiner: High-Fidelity Facial Texture Refinement with Differentiable Rendering-based Style Transfer|-|
 |2024|CVPR|Deformable One-shot Face Stylization via DINO Semantic Guidancen|[Code](https://github.com/zichongc/DoesFS)|
 |2024|AAAI|MagiCapture: High-Resolution Multi-Concept Portrait Customization|-|
