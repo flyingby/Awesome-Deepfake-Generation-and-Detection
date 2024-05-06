@@ -94,6 +94,7 @@ This survey presents a detailed survey on generation and detection tasks about f
 |2023|arXiv|GANs|FlowFace++: Explicit Semantic Flow-supervised End-to-End Face Swapping|-|
 |2023|arXiv|GANs|End-to-end Face-swapping via Adaptive Latent Representation Learning|-|
 |2023|arXiv|Difussion|A Generalist FaceX via Learning Unified Facial Representation|[Code](https://diffusion-facex.github.io/)|
+|2023|arXiv|Cycle triplets|ReliableSwap: Boosting General Face Swapping Via Reliable Supervision|[Code](https://github.com/ygtxr1997/ReliableSwap)|
 |2023|WACV|VAEs|FaceOff: A Video-to-Video Face Swapping System|-|
 |2023|CVPR|GANs+3DMM|StyleIPSB: Identity-Preserving Semantic Basis of StyleGAN for High Fidelity Face Swapping|[Code](https://github.com/a686432/StyleIPSB)|
 |2023|CVPR|GANs+3DMM|3D-Aware Face Swapping|[Code](https://lyx0208.github.io/3dSwap/)|
@@ -108,7 +109,6 @@ This survey presents a detailed survey on generation and detection tasks about f
 |2023|CVPR|Transformers|Face Transformer: Towards High Fidelity and Accurate Face Swapping|-|
 |2023|ACM MM|GANs+3D|High Fidelity Face Swapping via Semantics Disentanglement and Structure Enhancement|-|
 |2023|FG|Transformers|TransFS: Face Swapping Using Transformer|-|
-|2023|arXiv|Cycle triplets|ReliableSwap: Boosting General Face Swapping Via Reliable Supervision|[Code](https://github.com/ygtxr1997/ReliableSwap)|
 |2023|CVPR|Difussion|DiffSwap: High-Fidelity and Controllable Face Swapping via 3D-Aware Masked Diffusion|[Code](https://github.com/wl-zhao/DiffSwap)|
 |2022|arXiv|Difussion|DiffFace: Diffusion-based Face Swapping with Facial Guidance|[Code](https://hxngiee.github.io/DiffFace/)|
 |2022|AAAI|GANs|MobileFaceSwap: A Lightweight Framework for Video Face Swapping|[Code](https://github.com/Seanseattle/MobileFaceSwap)|
