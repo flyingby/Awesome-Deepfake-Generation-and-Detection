@@ -176,6 +176,10 @@ This survey presents a detailed survey on generation and detection tasks about f
 ### Talking Face Generation
 |Year|Venue|Category|Paper Title|Code|
 |:-:|:-:|:-:|-|-|
+|2024|arXiv|Multimodal|Listen, Disentangle, and Control: Controllable Speech-Driven Talking Head Generation|[Code](https://anonymous.4open.science/r/SPEAK-F56E)|
+|2024|arXiv|Audio|AniTalker: Animate Vivid and Diverse Talking Faces through Identity-Decoupled Facial Motion Encoding|[Code](https://github.com/X-LANCE/AniTalker)|
+|2024|arXiv|3D Model|NeRFFaceSpeech: One-shot Audio-driven 3D Talking Head Synthesis via Generative Prior|[Code](https://rlgnswk.github.io/NeRFFaceSpeech_ProjectPage/)|
+|2024|arXiv|Audio|SwapTalk: Audio-Driven Talking Face Generation with One-Shot Customization in Latent Space|[Code](http://swaptalk.cc/)|
 |2024|arXiv|3D Model|GSTalker: Real-time Audio-Driven Talking Face Generation via Deformable Gaussian Splatting|-|
 |2024|arXiv|3D Model|Embedded Representation Learning Network for Animating Styled Video Portrait|-|
 |2024|arXiv|3D Model|GaussianTalker: Real-Time High-Fidelity Talking Head Synthesis with Audio-Driven 3D Gaussian Splatting|[Code](https://ku-cvlab.github.io/GaussianTalker)|
