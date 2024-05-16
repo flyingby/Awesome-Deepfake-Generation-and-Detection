@@ -289,7 +289,7 @@ This survey presents a detailed survey on generation and detection tasks about f
 |2023|TPAMI|GANs+NeRF|[CIPS-3D++: End-to-End Real-Time High-Resolution 3D-Aware GANs for GAN Inversion and Stylization](https://ieeexplore.ieee.org/abstract/document/10149489/)|-|
 |2023|SIGGRAPH|GANs+3DMM|[ClipFace: Text-guided Editing of Textured 3D Morphable Models](https://dl.acm.org/doi/abs/10.1145/3588432.3591566)|[Code](https://github.com/shivangi-aneja/ClipFace)|
 |2023|ICCV|GANs|[Towards High-Fidelity Text-Guided 3D Face Generation and Manipulation Using only Images](http://openaccess.thecvf.com/content/ICCV2023/html/Yu_Towards_High-Fidelity_Text-Guided_3D_Face_Generation_and_Manipulation_Using_only_ICCV_2023_paper.html)|-|
-|2023|T-PAMI|GANs|[Image-to-Image Translation with Disentangled Latent Vectors for Face Editing](https://ieeexplore.ieee.org/abstract/document/10229229/)|[Code](https://yusufdalva.github.io/vecgan/)|
+|2023|TPAMI|GANs|[Image-to-Image Translation with Disentangled Latent Vectors for Face Editing](https://ieeexplore.ieee.org/abstract/document/10229229/)|[Code](https://yusufdalva.github.io/vecgan/)|
 |2023|CVPR|GANs|[DPE: Disentanglement of Pose and Expression for General Video Portrait Editing](http://openaccess.thecvf.com/content/CVPR2023/html/Pang_DPE_Disentanglement_of_Pose_and_Expression_for_General_Video_Portrait_CVPR_2023_paper.html)|[Code](https://github.com/Carlyx/DPE)|
 |2023|ACM MM|GANs|[PixelFace+: Towards Controllable Face Generation and Manipulation with Text Descriptions and Segmentation Masks](https://dl.acm.org/doi/abs/10.1145/3581783.3612067)|[Code](https://github.com/qazwsx671713/PixelFace-Plus)|
 |2022|CVPR|GANs+NeRF|[FENeRF: Face Editing in Neural Radiance Fields](http://openaccess.thecvf.com/content/CVPR2022/html/Sun_FENeRF_Face_Editing_in_Neural_Radiance_Fields_CVPR_2022_paper.html)|[Code](https://github.com/MrTornado24/FENeRF)|
@@ -309,50 +309,49 @@ This survey presents a detailed survey on generation and detection tasks about f
 ### Forgery Detection
 |Year|Venue|Category|Paper Title|Code|
 |:-:|:-:|:-:|-|-|
-|2024|arXiv|Space Domain|In Anticipation of Perfect Deepfake: Identity-anchored Artifact-agnostic Detection under Rebalanced Deepfake Detection Protocol|[Code](https://github.com/AaronComo/LipFD)|
-|2024|arXiv|Time Domain|Lips Are Lying: Spotting the Temporal Inconsistency between Audio and Visual in Lip-Syncing DeepFakes|[Code](https://github.com/AaronComo/LipFD)|
-|2024|arXiv|Frequency Domain|FreqBlender: Enhancing DeepFake Detection by Blending Frequency Knowledge|-|
-|2024|arXiv|Space Domain|MoE-FFD: Mixture of Experts for Generalized and Parameter-Efficient Face Forgery Detection|-|
-|2024|arXiv|Multi-Modal|Towards More General Video-based Deepfake Detection through Facial Feature Guided Adaptation for Foundation Model|-|
-|2024|arXiv|Data Driven|D3: Scaling Up Deepfake Detection by Learning from Discrepancy|-|
-|2024|arXiv|Space Domain|Band-Attention Modulated RetNet for Face Forgery Detection|-|
-|2024|arXiv|Other|Real, fake and synthetic faces -- does the coin have three sides?|-|
-|2024|arXiv|Space Domain|Diffusion Facial Forgery Detection|-|
-|2024|arXiv|Space Domain|Masked Conditional Diffusion Model for Enhancing Deepfake Detection|-|
-|2024|ICME|Space Domain|Counterfactual Explanations for Face Forgery Detection via Adversarial Removal of Artifacts|[Code](https://github.com/yangli-lab/Artifact-Eraser/)|
-|2024|T-PAMI|Multi-Modal|Detecting and Grounding Multi-Modal Media Manipulation and Beyond|[Code](https://github.com/rshaojimmy/MultiModal-DeepFake)|
-|2024|ICASSP|Multi-Modal|Exploiting Modality-Specific Features for Multi-Modal Manipulation Detection and Grounding|-|
-|2024|ICASSP|Space Domain|Selective Domain-Invariant Feature for Generalizable Deepfake Detection|-|
-|2024|ICASSP|Data Driven|Adapter-Based Incremental Learning for Face Forgery Detection|-|
-|2024|MMM|Space Domain|Face Forgery Detection via Texture and Saliency Enhancement|-|
-|2024|MMM|Space Domain|Adapting Pretrained Large-Scale Vision Models for Face Forgery Detection|-|
-|2024|TIFS|Other|Improving Generalization of Deepfake Detectors by Imposing Gradient Regularization|-|
-|2024|TIFS|Space Domain|Learning to Discover Forgery Cues for Face Forgery Detection|-|
-|2024|TIFS|Time Domain|Where Deepfakes Gaze at? Spatial-Temporal Gaze Inconsistency Analysis for Video Face Forgery Detection|[Code](https://github.com/ziminMIAO/DFGaze)|
-|2024|IJCV|Time Domain|Learning Spatiotemporal Inconsistency via Thumbnail Layout for Face Deepfake Detection|[Code](https://github.com/rainy-xu/TALL4Deepfake)|
-|2024|NAACL|Time Domain|Heterogeneity over Homogeneity: Investigating Multilingual Speech Pre-Trained Models for Detecting Audio Deepfake|-|
-|2024|CVPR|Time Domain|Exploiting Style Latent Flows for Generalizing Deepfake Detection Video Detection|-|
-|2024|AAAI|Frequency Domain|Frequency-Aware Deepfake Detection: Improving Generalizability through Frequency Space Domain Learning|[Code](https://github.com/chuangchuangtan/FreqNet-DeepfakeDetection)|
-|2024|AAAI|Space Domain|Exposing the Deception: Uncovering More Forgery Clues for Deepfake Detection|[Code](https://github.com/QingyuLiu/Exposing-the-Deception)|
-|2024|WACV|Space Domain|Deepfake Detection by Exploiting Surface Anomalies: The SurFake Approach|-|
-|2024|WACV|Time Domain|VideoFACT: Detecting Video Forgeries Using Attention, Scene Context, and Forensic Traces|[Code](https://github.com/ductai199x/videofact-wacv-2024)|
-|2023|arXiv|Time Domain|AV-Lip-Sync+: Leveraging AV-HuBERT to Exploit Multimodal Inconsistency for Video Deepfake Detection|-|
-|2023|CVPR|Data Driven|Implicit Identity Driven Deepfake Face Swapping Detection|-|
-|2023|TMM|Data Driven|Narrowing Domain Gaps with Bridging Samples for Generalized Face Forgery Detection|-|
-|2023|CVPR|Data Driven|Hierarchical Fine-Grained Image Forgery Detection and Localization|[Code](https://github.com/CHELSEA234/HiFi_IFDL)|
-|2023|CVPR|Time Domain|Learning on Gradients: Generalized Artifacts Representation for GAN-Generated Images Detection|[Code](https://github.com/chuangchuangtan/lgrad)|
-|2023|ICCV|Data Driven|Towards Generic Image Manipulation Detection with Weakly-Supervised Self-Consistency Learning|-|
-|2023|ICCV|Data Driven|Quality-Agnostic Deepfake Detection with Intra-model Collaborative Learning|-|
-|2023|TIFS|Frequency Domain|Constructing New Backbone Networks via Space-Frequency Interactive Convolution for Deepfake Detection|[Code](https://github.com/EricGzq/SFIConv)|
-|2023|ICCV|Data Driven|Controllable Guide-Space for Generalizable Face Forgery Detection|-|
-|2023|AAAI|Space Domain|Noise Based Deepfake Detection via Multi-Head Relative-Interaction|-|
-|2023|TIFS|Time Domain|Dynamic Difference Learning With Spatio–Temporal Correlation for Deepfake Video Detection|-|
-|2023|TIFS|Time Domain|Masked Relation Learning for DeepFake Detection|[Code](https://github.com/zimyang/MaskRelation)|
-|2023|CVPR|Time Domain|Audio-Visual Person-of-Interest DeepFake Detection|[Code](https://github.com/gripunina/poi-forensics.)|
-|2023|CVPR|Time Domain|Self-Supervised Video Forensics by Audio-Visual Anomaly Detection|[Code](https://cfeng16.github.io/audio-visual-forensics/)|
-|2023|Applied Soft Computing|Time Domain|AVFakeNet: A unified end-to-end Dense Swin Transformer deep learning model for audio–visual​ deepfakes detection|-|
-|2023|TCSVT|Time Domain|PVASS-MDD: Predictive Visual-audio Alignment Self-supervision for Multimodal Deepfake Detection|-|
-|2023|TIFS|Time Domain|AVoiD-DF: Audio-Visual Joint Learning for Detecting Deepfake|-|
+|2024|arXiv|Space Domain|[In Anticipation of Perfect Deepfake: Identity-anchored Artifact-agnostic Detection under Rebalanced Deepfake Detection Protocol](https://arxiv.org/abs/2405.00483)|[Code](https://github.com/AaronComo/LipFD)|
+|2024|arXiv|Time Domain|[Lips Are Lying: Spotting the Temporal Inconsistency between Audio and Visual in Lip-Syncing DeepFakes](https://arxiv.org/abs/2401.15668)|[Code](https://github.com/AaronComo/LipFD)|
+|2024|arXiv|Frequency Domain|[FreqBlender: Enhancing DeepFake Detection by Blending Frequency Knowledge](https://arxiv.org/abs/2404.13872)|-|
+|2024|arXiv|Space Domain|[MoE-FFD: Mixture of Experts for Generalized and Parameter-Efficient Face Forgery Detection](https://arxiv.org/abs/2404.08452)|-|
+|2024|arXiv|Multi-Modal|[Towards More General Video-based Deepfake Detection through Facial Feature Guided Adaptation for Foundation Model](https://arxiv.org/abs/2404.05583)|-|
+|2024|arXiv|Data Driven|[D3: Scaling Up Deepfake Detection by Learning from Discrepancy](https://arxiv.org/abs/2404.04584)|-|
+|2024|arXiv|Space Domain|[Band-Attention Modulated RetNet for Face Forgery Detection](https://arxiv.org/abs/2404.06022)|-|
+|2024|arXiv|Space Domain|[Diffusion Facial Forgery Detection](https://arxiv.org/abs/2401.15859)|-|
+|2024|arXiv|Space Domain|[Masked Conditional Diffusion Model for Enhancing Deepfake Detection](https://arxiv.org/abs/2402.00541)|-|
+|2024|ICME|Space Domain|[Counterfactual Explanations for Face Forgery Detection via Adversarial Removal of Artifacts](https://arxiv.org/abs/2404.08341)|[Code](https://github.com/yangli-lab/Artifact-Eraser/)|
+|2024|TPAMI|Multi-Modal|[Detecting and Grounding Multi-Modal Media Manipulation and Beyond](https://ieeexplore.ieee.org/abstract/document/10440475/)|[Code](https://github.com/rshaojimmy/MultiModal-DeepFake)|
+|2024|ICASSP|Multi-Modal|[Exploiting Modality-Specific Features for Multi-Modal Manipulation Detection and Grounding](https://ieeexplore.ieee.org/abstract/document/10448385/)|-|
+|2024|ICASSP|Space Domain|[Selective Domain-Invariant Feature for Generalizable Deepfake Detection](https://ieeexplore.ieee.org/abstract/document/10447889/)|-|
+|2024|ICASSP|Data Driven|[Adapter-Based Incremental Learning for Face Forgery Detection](https://ieeexplore.ieee.org/abstract/document/10446543/)|-|
+|2024|MMM|Space Domain|[Face Forgery Detection via Texture and Saliency Enhancement](https://link.springer.com/chapter/10.1007/978-3-031-53305-1_37)|-|
+|2024|MMM|Space Domain|[Adapting Pretrained Large-Scale Vision Models for Face Forgery Detection](https://link.springer.com/chapter/10.1007/978-3-031-53302-0_6)|-|
+|2024|TIFS|Other|[Improving Generalization of Deepfake Detectors by Imposing Gradient Regularization](https://ieeexplore.ieee.org/abstract/document/10516609/)|-|
+|2024|TIFS|Space Domain|[Learning to Discover Forgery Cues for Face Forgery Detection](https://ieeexplore.ieee.org/abstract/document/10458687/)|-|
+|2024|TIFS|Time Domain|[Where Deepfakes Gaze at? Spatial-Temporal Gaze Inconsistency Analysis for Video Face Forgery Detection](https://ieeexplore.ieee.org/abstract/document/10478974/)|[Code](https://github.com/ziminMIAO/DFGaze)|
+|2024|IJCV|Time Domain|[Learning Spatiotemporal Inconsistency via Thumbnail Layout for Face Deepfake Detection](https://arxiv.org/pdf/2403.10261)|[Code](https://github.com/rainy-xu/TALL4Deepfake)|
+|2024|NAACL|Time Domain|[Heterogeneity over Homogeneity: Investigating Multilingual Speech Pre-Trained Models for Detecting Audio Deepfake](https://ui.adsabs.harvard.edu/abs/2024arXiv240400809C/abstract)|-|
+|2024|CVPR|Time Domain|[Exploiting Style Latent Flows for Generalizing Deepfake Detection Video Detection](https://arxiv.org/abs/2403.06592)|-|
+|2024|AAAI|Frequency Domain|[Frequency-Aware Deepfake Detection: Improving Generalizability through Frequency Space Domain Learning](https://ojs.aaai.org/index.php/AAAI/article/view/28310)|[Code](https://github.com/chuangchuangtan/FreqNet-DeepfakeDetection)|
+|2024|AAAI|Space Domain|[Exposing the Deception: Uncovering More Forgery Clues for Deepfake Detection](https://ojs.aaai.org/index.php/AAAI/article/view/27829)|[Code](https://github.com/QingyuLiu/Exposing-the-Deception)|
+|2024|WACV|Space Domain|[Deepfake Detection by Exploiting Surface Anomalies: The SurFake Approach](https://openaccess.thecvf.com/content/WACV2024W/MAP-A/html/Ciamarra_Deepfake_Detection_by_Exploiting_Surface_Anomalies_The_SurFake_Approach_WACVW_2024_paper.html)|-|
+|2024|WACV|Time Domain|[VideoFACT: Detecting Video Forgeries Using Attention, Scene Context, and Forensic Traces](https://openaccess.thecvf.com/content/WACV2024/html/Nguyen_VideoFACT_Detecting_Video_Forgeries_Using_Attention_Scene_Context_and_Forensic_WACV_2024_paper.html)|[Code](https://github.com/ductai199x/videofact-wacv-2024)|
+|2023|arXiv|Time Domain|[AV-Lip-Sync+: Leveraging AV-HuBERT to Exploit Multimodal Inconsistency for Video Deepfake Detection](https://arxiv.org/abs/2311.02733)|-|
+|2023|CVPR|Data Driven|[Implicit Identity Driven Deepfake Face Swapping Detection](http://openaccess.thecvf.com/content/CVPR2023/html/Huang_Implicit_Identity_Driven_Deepfake_Face_Swapping_Detection_CVPR_2023_paper.html)|-|
+|2023|TMM|Data Driven|[Narrowing Domain Gaps with Bridging Samples for Generalized Face Forgery Detection](https://ieeexplore.ieee.org/abstract/document/10234594/)|-|
+|2023|CVPR|Data Driven|[Hierarchical Fine-Grained Image Forgery Detection and Localization](http://openaccess.thecvf.com/content/CVPR2023/html/Guo_Hierarchical_Fine-Grained_Image_Forgery_Detection_and_Localization_CVPR_2023_paper.html)|[Code](https://github.com/CHELSEA234/HiFi_IFDL)|
+|2023|CVPR|Time Domain|[Learning on Gradients: Generalized Artifacts Representation for GAN-Generated Images Detection](http://openaccess.thecvf.com/content/CVPR2023/html/Tan_Learning_on_Gradients_Generalized_Artifacts_Representation_for_GAN-Generated_Images_Detection_CVPR_2023_paper.html)|[Code](https://github.com/chuangchuangtan/lgrad)|
+|2023|ICCV|Data Driven|[Towards Generic Image Manipulation Detection with Weakly-Supervised Self-Consistency Learning](http://openaccess.thecvf.com/content/ICCV2023/html/Zhai_Towards_Generic_Image_Manipulation_Detection_with_Weakly-Supervised_Self-Consistency_Learning_ICCV_2023_paper.html)|-|
+|2023|ICCV|Data Driven|[Quality-Agnostic Deepfake Detection with Intra-model Collaborative Learning](http://openaccess.thecvf.com/content/ICCV2023/html/Le_Quality-Agnostic_Deepfake_Detection_with_Intra-model_Collaborative_Learning_ICCV_2023_paper.html)|-|
+|2023|TIFS|Frequency Domain|[Constructing New Backbone Networks via Space-Frequency Interactive Convolution for Deepfake Detection](https://ieeexplore.ieee.org/abstract/document/10286083/)|[Code](https://github.com/EricGzq/SFIConv)|
+|2023|ICCV|Data Driven|[Controllable Guide-Space for Generalizable Face Forgery Detection](http://openaccess.thecvf.com/content/ICCV2023/html/Guo_Controllable_Guide-Space_for_Generalizable_Face_Forgery_Detection_ICCV_2023_paper.html)|-|
+|2023|AAAI|Space Domain|[Noise Based Deepfake Detection via Multi-Head Relative-Interaction](https://ojs.aaai.org/index.php/AAAI/article/view/26701)|-|
+|2023|TIFS|Time Domain|[Dynamic Difference Learning With Spatio–Temporal Correlation for Deepfake Video Detection](https://ieeexplore.ieee.org/abstract/document/10168141/)|-|
+|2023|TIFS|Time Domain|[Masked Relation Learning for DeepFake Detection](https://ieeexplore.ieee.org/abstract/document/10054130/)|[Code](https://github.com/zimyang/MaskRelation)|
+|2023|CVPR|Time Domain|[Audio-Visual Person-of-Interest DeepFake Detection](https://openaccess.thecvf.com/content/CVPR2023W/WMF/html/Cozzolino_Audio-Visual_Person-of-Interest_DeepFake_Detection_CVPRW_2023_paper.html)|[Code](https://github.com/gripunina/poi-forensics.)|
+|2023|CVPR|Time Domain|[Self-Supervised Video Forensics by Audio-Visual Anomaly Detection](http://openaccess.thecvf.com/content/CVPR2023/html/Feng_Self-Supervised_Video_Forensics_by_Audio-Visual_Anomaly_Detection_CVPR_2023_paper.html)|[Code](https://cfeng16.github.io/audio-visual-forensics/)|
+|2023|Applied Soft Computing|Time Domain|[AVFakeNet: A unified end-to-end Dense Swin Transformer deep learning model for audio–visual​ deepfakes detection](https://www.sciencedirect.com/science/article/pii/S1568494623001424)|-|
+|2023|TCSVT|Time Domain|[PVASS-MDD: Predictive Visual-audio Alignment Self-supervision for Multimodal Deepfake Detection](https://ieeexplore.ieee.org/abstract/document/10233898/)|-|
+|2023|TIFS|Time Domain|[AVoiD-DF: Audio-Visual Joint Learning for Detecting Deepfake](https://ieeexplore.ieee.org/abstract/document/10081373/)|-|
 |2023|TIFS|Space Domain|Beyond the Prior Forgery Knowledge: Mining Critical Clues for General Face Forgery Detection|[Code](https://github.com/LoveSiameseCat/CFM )|
 |2022|TIFS|Space Domain|FakeLocator: Robust Localization of GAN-Based Face Manipulations|-|
 |2022|CVPR|Space Domain|Detecting Deepfakes with Self-Blended Images|[Code](https://github.com/mapooon/SelfBlendedImages)|
@@ -364,7 +363,7 @@ This survey presents a detailed survey on generation and detection tasks about f
 |2022|CVPR|Time Domain|Leveraging Real Talking Faces via Self-Supervision for Robust Forgery Detection|[Code](https://github.com/ahaliassos/RealForensics)|
 |2022|AAAI|Data Driven|FInfer: Frame Inference-Based Deepfake Detection for High-Visual-Quality Videos|-|
 |2021|CVPR|Space Domain|Multi-attentional Deepfake Detection|[Code](https://github.com/yoctta/multiple-attention)|
-|2021|T-PAMI|Space Domain|DeepFake Detection Based on Discrepancies Between Faces and their Context|-|
+|2021|TPAMI|Space Domain|DeepFake Detection Based on Discrepancies Between Faces and their Context|-|
 |2021|ICCV|Data Driven|Learning Self-Consistency for Deepfake Detection|-|
 |2021|CVPR|Frequency Domain|Frequency-aware Discriminative Feature Learning Supervised by Single-Center Loss for Face Forgery Detection|-|
 |2021|ICCV|Time Domain|Exploring Temporal Coherence for More General Video Face Forgery Detection|[Code](https://github.com/yinglinzheng/FTCN)|
