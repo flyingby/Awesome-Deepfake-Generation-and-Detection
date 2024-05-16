@@ -81,55 +81,55 @@ This survey presents a detailed survey on generation and detection tasks about f
 |Year|Venue|Category|Paper Title|Code|
 |:-:|:-:|:-:|-|-|
 |2024|arXiv|3DGS|[ImplicitDeepfake: Plausible Face-Swapping through Implicit Deepfake Generation using NeRF and Gaussian Splatting](https://arxiv.org/abs/2402.06390)|[Code](https://github.com/quereste/implicit-deepfake)|
-|2024|arXiv|GANs|LatentSwap: An Efficient Latent Code Mapping Framework for Face Swapping|-|
-|2024|arXiv|VAEs|SelfSwapper: Self-Supervised Face Swapping via Shape Agnostic Masked AutoEncoder|-|
-|2024|arXiv|Difussion|Face Swap via Diffusion Model|-|
-|2024|arXiv|Difussion|Towards a Simultaneous and Granular Identity-Expression Control in Personalized Face Generation|[Code](https://diffsfsr.github.io/)|
-|2024|arXiv|GANs|E4S: Fine-grained Face Swapping via Editing With Regional GAN Inversion|[Code](https://e4s2024.github.io/)|
-|2024|ICIP|Graphic|RID-TWIN: An end-to-end pipeline for automatic face de-identification in videos|[Code](https://github.com/AnirbanMukherjeeXD/RID-Twin)|
-|2024|TCSVT|VAE|Identity-Aware Variational Autoencoder for Face Swapping|-|
-|2024|ICASSP|GANs+3D|Attribute-Aware Head Swapping Guided by 3d Modeling|-|
-|2024|TMM|Other|An Efficient Attribute-Preserving Framework for Face Swapping|-|
-|2024|TMM|GANs+3D|StableSwap: Stable Face Swapping in a Shared and Controllable Latent Space|-|
-|2023|arXiv|GANs|FlowFace++: Explicit Semantic Flow-supervised End-to-End Face Swapping|-|
-|2023|arXiv|GANs|End-to-end Face-swapping via Adaptive Latent Representation Learning|-|
-|2023|arXiv|Difussion|A Generalist FaceX via Learning Unified Facial Representation|[Code](https://diffusion-facex.github.io/)|
-|2023|arXiv|Cycle triplets|ReliableSwap: Boosting General Face Swapping Via Reliable Supervision|[Code](https://github.com/ygtxr1997/ReliableSwap)|
-|2023|WACV|VAEs|FaceOff: A Video-to-Video Face Swapping System|-|
-|2023|CVPR|GANs+3DMM|StyleIPSB: Identity-Preserving Semantic Basis of StyleGAN for High Fidelity Face Swapping|[Code](https://github.com/a686432/StyleIPSB)|
-|2023|CVPR|GANs+3DMM|3D-Aware Face Swapping|[Code](https://lyx0208.github.io/3dSwap/)|
-|2023|CVPR|GANs|Fine-Grained Face Swapping via Regional GAN Inversion|[Code](https://github.com/e4s2022/e4s)|
-|2023|WACV|GANs|FastSwap: A Lightweight One-Stage Framework for Real-Time Face Swapping|[Code](https://github.com/sahngmin/fastswap)|
-|2023|TECS|GANs+VAEs |XimSwap: many-to-many face swapping for TinyML|-|
-|2023|WACV|GANs|FaceDancer: Pose- and Occlusion-Aware High Fidelity Face Swapping|[Code](https://github.com/felixrosberg/FaceDancer)|
-|2023|ICCV|GANs|BlendFace: Re-designing Identity Encoders for Face-Swapping|[Code](https://github.com/mapooon/BlendFace)|
-|2023|ICCV|GANs+3DMM|Reinforced Disentanglement for Face Swapping without Skip Connection|-|
-|2023|CVPR|GANs|Attribute-preserving Face Dataset Anonymization via Latent Code Optimizatio|[Code](https://github.com/chi0tzp/FALCO)|
-|2023|AAAI|GANs+3DMM|FlowFace: Semantic Flow-Guided Shape-Aware Face Swapping|-|
-|2023|CVPR|Transformers|Face Transformer: Towards High Fidelity and Accurate Face Swapping|-|
-|2023|ACM MM|GANs+3D|High Fidelity Face Swapping via Semantics Disentanglement and Structure Enhancement|-|
-|2023|FG|Transformers|TransFS: Face Swapping Using Transformer|-|
-|2023|CVPR|Difussion|DiffSwap: High-Fidelity and Controllable Face Swapping via 3D-Aware Masked Diffusion|[Code](https://github.com/wl-zhao/DiffSwap)|
-|2022|arXiv|Difussion|DiffFace: Diffusion-based Face Swapping with Facial Guidance|[Code](https://hxngiee.github.io/DiffFace/)|
-|2022|AAAI|GANs|MobileFaceSwap: A Lightweight Framework for Video Face Swapping|[Code](https://github.com/Seanseattle/MobileFaceSwap)|
-|2022|T-PAMI|GANs|FSGANv2: Improved Subject Agnostic Face Swapping and Reenactment|[Code](https://github.com/YuvalNirkin/fsgan)|
-|2022|ICME|GANs|Migrating face swap to mobile devices: a lightweight framework and a supervised training solution|[Code](https://github.com/HoiM/MobileFSGAN)|
-|2022|ECCV|GANs|StyleSwap: Style-Based Generator Empowers Robust Face Swapping|[Code](https://github.com/Seanseattle/StyleSwap)|
-|2022|ECCV|GANs|Designing One Unified Framework for High-Fidelity Face Reenactment and Swapping|[Code](https://github.com/xc-csc101/UniFace)|
-|2022|ECCV|GANs+3DMM|MFIM: Megapixel Facial Identity Manipulation|-|
-|2022|CVPR|GANs|Region-Aware Face Swapping|[Code](https://github.com/xc-csc101/RAFSwap)|
-|2022|CVPR|Difussion|Smooth-Swap: A Simple Enhancement for Face-Swapping with Smoothness|-|
-|2022|CVPR|GANs|High-resolution Face Swapping via Latent Semantics Disentanglement|[Code](https://github.com/cnnlstm/FSLSD_HiRes)|
-|2021|CVPR|GANs+3DMM|FaceInpainter: High Fidelity Face Adaptation to Heterogeneous Domains|-|
-|2021|CVPR|GANs|Information Bottleneck Disentanglement for Identity Swapping|-|
-|2021|CVPR|GANs|One Shot Face Swapping on Megapixels|[Code](https://github.com/zyainfal/One-Shot-Face-Swapping-on-Megapixels)|
-|2021|MMM|GANs|Deep Face Swapping via Cross-Identity Adversarial Training|-|
-|2021|IJCAI|GANs+3DMM|HifiFace: 3D Shape and Semantic Prior Guided High Fidelity Face Swapping|[Code](https://github.com/johannwyh/HifiFace)|
-|2020|CVPR|GANs|FaceShifter: Towards High Fidelity And Occlusion Aware Face Swapping|[Code](https://lingzhili.com/FaceShifterPage/)|
-|2020|CVPR|GANs|DeepFaceLab: Integrated, flexible and extensible face-swapping framework|[Code](https://github.com/iperov/DeepFaceLab)|
-|2020|NeurIPS|GANs|AOT: Appearance Optimal Transport Based Identity Swapping for Forgery Detection|[Code](https://github.com/zhuhaozh/AOT)|
-|2020|ACM MM|GANs+VAEs|SimSwap: An Efficient Framework For High Fidelity Face Swapping|[Code](https://github.com/neuralchen/SimSwap)|
-|2020|AAAI|GANs+VAEs|Deepfakes for Medical Video De-Identification: Privacy Protection and Diagnostic Information Preservation|-|
+|2024|arXiv|GANs|[LatentSwap: An Efficient Latent Code Mapping Framework for Face Swapping](https://arxiv.org/abs/2402.18351)|-|
+|2024|arXiv|VAEs|[SelfSwapper: Self-Supervised Face Swapping via Shape Agnostic Masked AutoEncoder](https://arxiv.org/abs/2402.07370)|-|
+|2024|arXiv|Difussion|[Face Swap via Diffusion Model](https://arxiv.org/abs/2403.01108)|-|
+|2024|arXiv|Difussion|[Towards a Simultaneous and Granular Identity-Expression Control in Personalized Face Generation](https://arxiv.org/abs/2401.01207)|[Code](https://diffsfsr.github.io/)|
+|2024|arXiv|GANs|[E4S: Fine-grained Face Swapping via Editing With Regional GAN Inversion](https://arxiv.org/abs/2310.15081)|[Code](https://e4s2024.github.io/)|
+|2024|ICIP|Graphic|[RID-TWIN: An end-to-end pipeline for automatic face de-identification in videos](https://arxiv.org/abs/2403.10058)|[Code](https://github.com/AnirbanMukherjeeXD/RID-Twin)|
+|2024|TCSVT|VAE|[Identity-Aware Variational Autoencoder for Face Swapping](https://ieeexplore.ieee.org/abstract/document/10380597/)|-|
+|2024|ICASSP|GANs+3D|[Attribute-Aware Head Swapping Guided by 3d Modeling](https://ieeexplore.ieee.org/abstract/document/10446993)|-|
+|2024|TMM|Other|[An Efficient Attribute-Preserving Framework for Face Swapping](https://ieeexplore.ieee.org/abstract/document/10400952)|-|
+|2024|TMM|GANs+3D|[StableSwap: Stable Face Swapping in a Shared and Controllable Latent Space](https://ieeexplore.ieee.org/abstract/document/10444967)|-|
+|2023|arXiv|GANs|[FlowFace++: Explicit Semantic Flow-supervised End-to-End Face Swapping](https://arxiv.org/abs/2306.12686)|-|
+|2023|arXiv|GANs|[End-to-end Face-swapping via Adaptive Latent Representation Learning](https://arxiv.org/abs/2303.04186)|-|
+|2023|arXiv|Difussion|[A Generalist FaceX via Learning Unified Facial Representation](https://arxiv.org/abs/2401.00551)|[Code](https://diffusion-facex.github.io/)|
+|2023|arXiv|Cycle triplets|[ReliableSwap: Boosting General Face Swapping Via Reliable Supervision](https://arxiv.org/abs/2306.05356)|[Code](https://github.com/ygtxr1997/ReliableSwap)|
+|2023|WACV|VAEs|[FaceOff: A Video-to-Video Face Swapping System](https://openaccess.thecvf.com/content/WACV2023/html/Agarwal_FaceOff_A_Video-to-Video_Face_Swapping_System_WACV_2023_paper.html)|-|
+|2023|CVPR|GANs+3DMM|[StyleIPSB: Identity-Preserving Semantic Basis of StyleGAN for High Fidelity Face Swapping](https://openaccess.thecvf.com/content/CVPR2023/html/Jiang_StyleIPSB_Identity-Preserving_Semantic_Basis_of_StyleGAN_for_High_Fidelity_Face_CVPR_2023_paper.html)|[Code](https://github.com/a686432/StyleIPSB)|
+|2023|CVPR|GANs+3DMM|[3D-Aware Face Swapping](https://openaccess.thecvf.com/content/CVPR2023/html/Li_3D-Aware_Face_Swapping_CVPR_2023_paper.html)|[Code](https://lyx0208.github.io/3dSwap/)|
+|2023|CVPR|GANs|[Fine-Grained Face Swapping via Regional GAN Inversion](https://openaccess.thecvf.com/content/CVPR2023/html/Liu_Fine-Grained_Face_Swapping_via_Regional_GAN_Inversion_CVPR_2023_paper.html)|[Code](https://github.com/e4s2022/e4s)|
+|2023|WACV|GANs|[FastSwap: A Lightweight One-Stage Framework for Real-Time Face Swapping](https://openaccess.thecvf.com/content/WACV2023/html/Yoo_FastSwap_A_Lightweight_One-Stage_Framework_for_Real-Time_Face_Swapping_WACV_2023_paper.html)|[Code](https://github.com/sahngmin/fastswap)|
+|2023|TECS|GANs+VAEs|[XimSwap: many-to-many face swapping for TinyML](https://dl.acm.org/doi/full/10.1145/3603173)|-|
+|2023|WACV|GANs|[FaceDancer: Pose- and Occlusion-Aware High Fidelity Face Swapping](https://openaccess.thecvf.com/content/WACV2023/html/Rosberg_FaceDancer_Pose-_and_Occlusion-Aware_High_Fidelity_Face_Swapping_WACV_2023_paper.html)|[Code](https://github.com/felixrosberg/FaceDancer)|
+|2023|ICCV|GANs|[BlendFace: Re-designing Identity Encoders for Face-Swapping](https://openaccess.thecvf.com/content/ICCV2023/html/Shiohara_BlendFace_Re-designing_Identity_Encoders_for_Face-Swapping_ICCV_2023_paper.html)|[Code](https://github.com/mapooon/BlendFace)|
+|2023|ICCV|GANs+3DMM|[Reinforced Disentanglement for Face Swapping without Skip Connection](https://openaccess.thecvf.com/content/ICCV2023/html/Ren_Reinforced_Disentanglement_for_Face_Swapping_without_Skip_Connection_ICCV_2023_paper.html)|-|
+|2023|CVPR|GANs|[Attribute-preserving Face Dataset Anonymization via Latent Code Optimizatio](https://openaccess.thecvf.com/content/CVPR2023/html/Barattin_Attribute-Preserving_Face_Dataset_Anonymization_via_Latent_Code_Optimization_CVPR_2023_paper.html)|[Code](https://github.com/chi0tzp/FALCO)|
+|2023|AAAI|GANs+3DMM|[FlowFace: Semantic Flow-Guided Shape-Aware Face Swapping](https://ojs.aaai.org/index.php/AAAI/article/view/25444)|-|
+|2023|CVPR|Transformers|[Face Transformer: Towards High Fidelity and Accurate Face Swapping](https://openaccess.thecvf.com/content/CVPR2023W/GCV/html/Cui_Face_Transformer_Towards_High_Fidelity_and_Accurate_Face_Swapping_CVPRW_2023_paper.html)|-|
+|2023|ACM MM|GANs+3D|[High Fidelity Face Swapping via Semantics Disentanglement and Structure Enhancement](https://dl.acm.org/doi/abs/10.1145/3581783.3612215)|-|
+|2023|FG|Transformers|[TransFS: Face Swapping Using Transformer](https://ieeexplore.ieee.org/abstract/document/10042556)|-|
+|2023|CVPR|Difussion|[DiffSwap: High-Fidelity and Controllable Face Swapping via 3D-Aware Masked Diffusion](https://openaccess.thecvf.com/content/CVPR2023/html/Zhao_DiffSwap_High-Fidelity_and_Controllable_Face_Swapping_via_3D-Aware_Masked_Diffusion_CVPR_2023_paper.html)|[Code](https://github.com/wl-zhao/DiffSwap)|
+|2022|arXiv|Difussion|[DiffFace: Diffusion-based Face Swapping with Facial Guidance](https://arxiv.org/abs/2212.13344)|[Code](https://hxngiee.github.io/DiffFace/)|
+|2022|AAAI|GANs|[MobileFaceSwap: A Lightweight Framework for Video Face Swapping](https://ojs.aaai.org/index.php/AAAI/article/view/20203)|[Code](https://github.com/Seanseattle/MobileFaceSwap)|
+|2022|T-PAMI|GANs|[FSGANv2: Improved Subject Agnostic Face Swapping and Reenactment](https://ieeexplore.ieee.org/abstract/document/9763438)|[Code](https://github.com/YuvalNirkin/fsgan)|
+|2022|ICME|GANs|[Migrating face swap to mobile devices: a lightweight framework and a supervised training solution](https://ieeexplore.ieee.org/abstract/document/9859806)|[Code](https://github.com/HoiM/MobileFSGAN)|
+|2022|ECCV|GANs|[StyleSwap: Style-Based Generator Empowers Robust Face Swapping](https://link.springer.com/chapter/10.1007/978-3-031-19781-9_38)|[Code](https://github.com/Seanseattle/StyleSwap)|
+|2022|ECCV|GANs|[Designing One Unified Framework for High-Fidelity Face Reenactment and Swapping](https://link.springer.com/chapter/10.1007/978-3-031-19784-0_4)|[Code](https://github.com/xc-csc101/UniFace)|
+|2022|ECCV|GANs+3DMM|[MFIM: Megapixel Facial Identity Manipulation](https://link.springer.com/chapter/10.1007/978-3-031-19778-9_9)|-|
+|2022|CVPR|GANs|[Region-Aware Face Swapping](https://openaccess.thecvf.com/content/CVPR2022/html/Xu_Region-Aware_Face_Swapping_CVPR_2022_paper.html)|[Code](https://github.com/xc-csc101/RAFSwap)|
+|2022|CVPR|Difussion|[Smooth-Swap: A Simple Enhancement for Face-Swapping with Smoothness](https://openaccess.thecvf.com/content/CVPR2022/html/Kim_Smooth-Swap_A_Simple_Enhancement_for_Face-Swapping_With_Smoothness_CVPR_2022_paper.html)|-|
+|2022|CVPR|GANs|[High-resolution Face Swapping via Latent Semantics Disentanglement](https://openaccess.thecvf.com/content/CVPR2022/html/Xu_High-Resolution_Face_Swapping_via_Latent_Semantics_Disentanglement_CVPR_2022_paper.html)|[Code](https://github.com/cnnlstm/FSLSD_HiRes)|
+|2021|CVPR|GANs+3DMM|[FaceInpainter: High Fidelity Face Adaptation to Heterogeneous Domains](https://openaccess.thecvf.com/content/CVPR2021/html/Li_FaceInpainter_High_Fidelity_Face_Adaptation_to_Heterogeneous_Domains_CVPR_2021_paper.html?ref=https://githubhelp.com)|-|
+|2021|CVPR|GANs|[Information Bottleneck Disentanglement for Identity Swapping](https://openaccess.thecvf.com/content/CVPR2021/html/Gao_Information_Bottleneck_Disentanglement_for_Identity_Swapping_CVPR_2021_paper.html?ref=https://githubhelp.com)|-|
+|2021|CVPR|GANs|[One Shot Face Swapping on Megapixels](https://openaccess.thecvf.com/content/CVPR2021/html/Zhu_One_Shot_Face_Swapping_on_Megapixels_CVPR_2021_paper.html)|[Code](https://github.com/zyainfal/One-Shot-Face-Swapping-on-Megapixels)|
+|2021|MMM|GANs|[Deep Face Swapping via Cross-Identity Adversarial Training](https://link.springer.com/chapter/10.1007/978-3-030-67835-7_7)|-|
+|2021|IJCAI|GANs+3DMM|[HifiFace: 3D Shape and Semantic Prior Guided High Fidelity Face Swapping](https://arxiv.org/abs/2106.09965)|[Code](https://github.com/johannwyh/HifiFace)|
+|2020|CVPR|GANs|[FaceShifter: Towards High Fidelity And Occlusion Aware Face Swapping](https://arxiv.org/abs/1912.13457)|[Code](https://lingzhili.com/FaceShifterPage/)|
+|2020|CVPR|GANs|[DeepFaceLab: Integrated, flexible and extensible face-swapping framework](https://arxiv.org/abs/2005.05535)|[Code](https://github.com/iperov/DeepFaceLab)|
+|2020|NeurIPS|GANs|[AOT: Appearance Optimal Transport Based Identity Swapping for Forgery Detection](https://proceedings.neurips.cc/paper_files/paper/2020/hash/f718499c1c8cef6730f9fd03c8125cab-Abstract.html)|[Code](https://github.com/zhuhaozh/AOT)|
+|2020|ACM MM|GANs+VAEs|[SimSwap: An Efficient Framework For High Fidelity Face Swapping](https://dl.acm.org/doi/abs/10.1145/3394171.3413630)|[Code](https://github.com/neuralchen/SimSwap)|
+|2020|AAAI|GANs+VAEs|[Deepfakes for Medical Video De-Identification: Privacy Protection and Diagnostic Information Preservation](https://dl.acm.org/doi/abs/10.1145/3375627.3375849)|-|
 
 
 ### Face Reenactment
