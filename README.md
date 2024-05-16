@@ -214,46 +214,46 @@ This survey presents a detailed survey on generation and detection tasks about f
 |2024|WACV|Audio|[THInImg: Cross-Modal Steganography for Presenting Talking Heads in Images](https://openaccess.thecvf.com/content/WACV2024/html/Zhao_THInImg_Cross-Modal_Steganography_for_Presenting_Talking_Heads_in_Images_WACV_2024_paper.html)|-|
 |2024|WACV|Diffusion|[Diffused Heads: Diffusion Models Beat GANs on Talking-Face Generation](https://openaccess.thecvf.com/content/WACV2024/html/Stypulkowski_Diffused_Heads_Diffusion_Models_Beat_GANs_on_Talking-Face_Generation_WACV_2024_paper.html)|[Code](https://mstypulkowski.github.io/diffusedheads/)|
 |2024|WACV|Audio|[DR2: Disentangled Recurrent Representation Learning for Data-Efficient Speech Video Synthesis](https://openaccess.thecvf.com/content/WACV2024/html/Zhang_DR2_Disentangled_Recurrent_Representation_Learning_for_Data-Efficient_Speech_Video_Synthesis_WACV_2024_paper.html)|-|
-|2024|WACV|Audio|RADIO: Reference-Agnostic Dubbing Video Synthesis|-|
-|2024|WACV|Audio|Diff2Lip: Audio Conditioned Diffusion Models for Lip-Synchronization|[Code](https://soumik-kanad.github.io/diff2lip)|
-|2024|CVPR|3D Model|SyncTalk: The Devil is in the Synchronization for Talking Head Synthesis|[Code](https://github.com/ZiqiaoPeng/SyncTalk)|
-|2024|CVPR|3D Model|Learning Dynamic Tetrahedra for High-Quality Talking Head Synthesis|[Code](https://github.com/zhangzc21/DynTet)|
-|2024|AAAI|3D Model|AE-NeRF: Audio Enhanced Neural Radiance Field for Few Shot Talking Head Synthesis|-|
-|2024|AAAI|3D Model|Mimic: Speaking Style Disentanglement for Speech-Driven 3D Facial Animation |[Code](https://github.com/huifu99/Mimic)|
-|2024|AAAI|Audio|Style2Talker: High-Resolution Talking Head Generation with Emotion Style and Art Style |-|
-|2024|AAAI|Audio|AudioGPT: Understanding and Generating Speech, Music, Sound, and Talking Head|-|
-|2024|AAAI|Audio|Say Anything with Any Style|-|
-|2023|arXiv|Audio|GMTalker: Gaussian Mixture based Emotional talking video Portraits|[Code](https://bob35buaa.github.io/GMTalker)|
-|2023|arXiv|Diffusion|DREAM-Talk: Diffusion-based Realistic Emotional Audio-driven Method for Single Image Talking Face Generation|[Code](https://magic-research.github.io/dream-talk/)|
-|2023|arXiv|Diffusion|DreamTalk: When Expressive Talking Head Generation Meets Diffusion Probabilistic Models|[Code](https://dreamtalk-project.github.io/)|
-|2023|arXiv|Text|TalkCLIP: Talking Head Generation with Text-Guided Expressive Speaking Styles|-|
-|2023|CVPR|Multimodal|High-Fidelity Generalized Emotional Talking Face Generation With Multi-Modal Emotion Space Learning|-|
-|2023|CVPR|Multimodal|LipFormer: High-fidelity and Generalizable Talking Face Generation with A Pre-learned Facial Codebook|-|
-|2023|CVPR|Audio|Sadtalker: Learning realistic 3d motion coefficients for stylized audio-driven single image talking face animation|[Code](https://sadtalker.github.io/)|
-|2023|CVPR|Audio|Seeing What You Said: Talking Face Generation Guided by a Lip Reading Expert|-|
-|2023|ICCV|Audio|Speech2Lip: High-fidelity Speech to Lip Generation by Learning from a Short Video|[Code](https://github.com/CVMI-Lab/Speech2Lip)|
-|2023|ICCV|Audio|EMMN: Emotional Motion Memory Network for Audio-driven Emotional Talking Face Generation|-|
-|2023|TNNLS|Audio|Talking Face Generation With Audio-Deduced Emotional Landmarks|-|
-|2023|ICASSP|Audio|Memory-augmented contrastive learning for talking head generation|[Code](https://github.com/Yaxinzhao97/MACL.git)|
-|2023|CVPR|Audio|Identity-Preserving Talking Face Generation with Landmark and Appearance Priors|[Code](https://github.com/Weizhi-Zhong/IP_LAP)|
-|2023|TCSVT|Audio|Stochastic Latent Talking Face Generation Towards Emotional Expressions and Head Poses|-|
-|2023|ICCV|Audio|Efficient Emotional Adaptation for Audio-Driven Talking-Head Generation|[Code](https://github.com/yuangan/EAT_code)|
-|2023|Displays|Audio|Talking face generation driven by time–frequency domain features of speech audio|-|
-|2023|ICCV|Diffusion|Talking Head Generation with Probabilistic Audio-to-Visual Diffusion Priors|[Code](https://github.com/zxYin/TH-PAD)|
-|2023|ICCV|Audio|SPACE : Speech-driven Portrait Animation with Controllable Expression|[Code](https://research.nvidia.com/labs/dir/space/)|
-|2023|ICCV|3D Model|EmoTalk: Speech-Driven Emotional Disentanglement for 3D Face Animation|[Code](https://github.com/psyai-net/EmoTalk_release)|
-|2023|Displays|Multimodal|Flow2Flow: Audio-visual cross-modality generation for talking face videos with rhythmic head|[Code](-)|
-|2023|ACM MM|Diffusion|DAE-Talker: High Fidelity Speech-Driven Talking Face Generation with Diffusion Autoencoder|[Code](https://daetalker.github.io/)|
-|2022|CVPR|Multimodal|Expressive Talking Head Generation with Granular Audio-Visual Control|-|
-|2022|TMM|Multimodal|Multimodal Learning for Temporally Coherent Talking Face Generation With Articulator Synergy|[Code](http://imcc.ustc.edu.cn/project/tfgen/.)|
-|2022|CVPR|Text|Talking Face Generation with Multilingual TTS|[Code](https://huggingface.co/spaces/CVPR/ml-talking-face)|
-|2022|ECCV|Audio|Learning Dynamic Facial Radiance Fields for Few-Shot Talking Head Synthesis|[Code](https://sstzal.github.io/DFRF/)|
-|2021|ICCV|Audio|FACIAL: Synthesizing Dynamic Talking Face with Implicit Attribute Learning|[Code](https://github.com/zhangchenxu528/FACIAL)|
-|2021|CVPR|Multimodal|Pose-Controllable Talking Face Generation by Implicitly Modularized Audio-Visual Representation|[Code](https://github.com/Hangz-nju-cuhk/Talking-Face_PC-AVS)|
-|2021|ICCV|3D Model|AD-NeRF: Audio Driven Neural Radiance Fields for Talking Head Synthesis|[Code](https://github.com/YudongGuo/AD-NeRF)|
-|2021|CVPR|Audio|Audio-driven emotional video portraits|[Code](https://github.com/jixinya/EVP)|
-|2020|ICMR|Audio|A Lip Sync Expert Is All You Need for Speech to Lip Generatio In The Wild|[Code](https://github.com/Rudrabha/Wav2Lip)|
-|2020|ACM TOG|Audio|MakeItTalk: Speaker-Aware Talking-Head Animation|[Code](https://github.com/adobe-research/MakeItTalk)|
+|2024|WACV|Audio|[RADIO: Reference-Agnostic Dubbing Video Synthesis](https://openaccess.thecvf.com/content/WACV2024/html/Lee_RADIO_Reference-Agnostic_Dubbing_Video_Synthesis_WACV_2024_paper.html)|-|
+|2024|WACV|Audio|[Diff2Lip: Audio Conditioned Diffusion Models for Lip-Synchronization](https://openaccess.thecvf.com/content/WACV2024/html/Mukhopadhyay_Diff2Lip_Audio_Conditioned_Diffusion_Models_for_Lip-Synchronization_WACV_2024_paper.html)|[Code](https://soumik-kanad.github.io/diff2lip)|
+|2024|CVPR|3D Model|[SyncTalk: The Devil is in the Synchronization for Talking Head Synthesis](https://arxiv.org/abs/2311.17590)|[Code](https://github.com/ZiqiaoPeng/SyncTalk)|
+|2024|CVPR|3D Model|[Learning Dynamic Tetrahedra for High-Quality Talking Head Synthesis](https://arxiv.org/abs/2402.17364)|[Code](https://github.com/zhangzc21/DynTet)|
+|2024|AAAI|3D Model|[AE-NeRF: Audio Enhanced Neural Radiance Field for Few Shot Talking Head Synthesis](https://ojs.aaai.org/index.php/AAAI/article/view/28086)|-|
+|2024|AAAI|3D Model|[Mimic: Speaking Style Disentanglement for Speech-Driven 3D Facial Animation](https://ojs.aaai.org/index.php/AAAI/article/view/27945) |[Code](https://github.com/huifu99/Mimic)|
+|2024|AAAI|Audio|[Style2Talker: High-Resolution Talking Head Generation with Emotion Style and Art Style](https://ojs.aaai.org/index.php/AAAI/article/view/28313)|-|
+|2024|AAAI|Audio|[AudioGPT: Understanding and Generating Speech, Music, Sound, and Talking Head](https://scholar.google.com.hk/scholar?hl=zh-CN&as_sdt=0%2C5&q=AudioGPT%3A+Understanding+and+Generating+Speech%2C+Music%2C+Sound%2C+and+Talking+Head&btnG=)|-|
+|2024|AAAI|Audio|[Say Anything with Any Style](https://ojs.aaai.org/index.php/AAAI/article/view/28314)|-|
+|2023|arXiv|Audio|[GMTalker: Gaussian Mixture based Emotional talking video Portraits](https://arxiv.org/abs/2312.07669)|[Code](https://bob35buaa.github.io/GMTalker)|
+|2023|arXiv|Diffusion|[DREAM-Talk: Diffusion-based Realistic Emotional Audio-driven Method for Single Image Talking Face Generation](https://arxiv.org/abs/2312.13578)|[Code](https://magic-research.github.io/dream-talk/)|
+|2023|arXiv|Diffusion|[DreamTalk: When Expressive Talking Head Generation Meets Diffusion Probabilistic Models](https://arxiv.org/abs/2312.09767)|[Code](https://dreamtalk-project.github.io/)|
+|2023|arXiv|Text|[TalkCLIP: Talking Head Generation with Text-Guided Expressive Speaking Styles](https://arxiv.org/abs/2304.00334)|-|
+|2023|CVPR|Multimodal|[High-Fidelity Generalized Emotional Talking Face Generation With Multi-Modal Emotion Space Learning](http://openaccess.thecvf.com/content/CVPR2023/html/Xu_High-Fidelity_Generalized_Emotional_Talking_Face_Generation_With_Multi-Modal_Emotion_Space_CVPR_2023_paper.html)|-|
+|2023|CVPR|Multimodal|[LipFormer: High-fidelity and Generalizable Talking Face Generation with A Pre-learned Facial Codebook](http://openaccess.thecvf.com/content/CVPR2023/html/Wang_LipFormer_High-Fidelity_and_Generalizable_Talking_Face_Generation_With_a_Pre-Learned_CVPR_2023_paper.html)|-|
+|2023|CVPR|Audio|[Sadtalker: Learning realistic 3d motion coefficients for stylized audio-driven single image talking face animation](http://openaccess.thecvf.com/content/CVPR2023/html/Zhang_SadTalker_Learning_Realistic_3D_Motion_Coefficients_for_Stylized_Audio-Driven_Single_CVPR_2023_paper.html)|[Code](https://sadtalker.github.io/)|
+|2023|CVPR|Audio|[Seeing What You Said: Talking Face Generation Guided by a Lip Reading Expert](http://openaccess.thecvf.com/content/CVPR2023/html/Wang_Seeing_What_You_Said_Talking_Face_Generation_Guided_by_a_CVPR_2023_paper.html)|-|
+|2023|ICCV|Audio|[Speech2Lip: High-fidelity Speech to Lip Generation by Learning from a Short Video](http://openaccess.thecvf.com/content/ICCV2023/html/Wu_Speech2Lip_High-fidelity_Speech_to_Lip_Generation_by_Learning_from_a_ICCV_2023_paper.html)|[Code](https://github.com/CVMI-Lab/Speech2Lip)|
+|2023|ICCV|Audio|[EMMN: Emotional Motion Memory Network for Audio-driven Emotional Talking Face Generation](http://openaccess.thecvf.com/content/ICCV2023/html/Tan_EMMN_Emotional_Motion_Memory_Network_for_Audio-driven_Emotional_Talking_Face_ICCV_2023_paper.html)|-|
+|2023|TNNLS|Audio|[Talking Face Generation With Audio-Deduced Emotional Landmarks](https://ieeexplore.ieee.org/abstract/document/10130452/)|-|
+|2023|ICASSP|Audio|[Memory-augmented contrastive learning for talking head generation](https://ieeexplore.ieee.org/abstract/document/10096593/)|[Code](https://github.com/Yaxinzhao97/MACL.git)|
+|2023|CVPR|Audio|[Identity-Preserving Talking Face Generation with Landmark and Appearance Priors](http://openaccess.thecvf.com/content/CVPR2023/html/Zhong_Identity-Preserving_Talking_Face_Generation_With_Landmark_and_Appearance_Priors_CVPR_2023_paper.html)|[Code](https://github.com/Weizhi-Zhong/IP_LAP)|
+|2023|TCSVT|Audio|[Stochastic Latent Talking Face Generation Towards Emotional Expressions and Head Poses](https://ieeexplore.ieee.org/abstract/document/10237279/)|-|
+|2023|ICCV|Audio|[Efficient Emotional Adaptation for Audio-Driven Talking-Head Generation](http://openaccess.thecvf.com/content/ICCV2023/html/Gan_Efficient_Emotional_Adaptation_for_Audio-Driven_Talking-Head_Generation_ICCV_2023_paper.html)|[Code](https://github.com/yuangan/EAT_code)|
+|2023|Displays|Audio|[Talking face generation driven by time–frequency domain features of speech audio](https://www.sciencedirect.com/science/article/pii/S0141938223001919)|-|
+|2023|ICCV|Diffusion|[Talking Head Generation with Probabilistic Audio-to-Visual Diffusion Priors](http://openaccess.thecvf.com/content/ICCV2023/html/Yu_Talking_Head_Generation_with_Probabilistic_Audio-to-Visual_Diffusion_Priors_ICCV_2023_paper.html)|[Code](https://github.com/zxYin/TH-PAD)|
+|2023|ICCV|Audio|[SPACE : Speech-driven Portrait Animation with Controllable Expression](http://openaccess.thecvf.com/content/ICCV2023/html/Gururani_SPACE_Speech-driven_Portrait_Animation_with_Controllable_Expression_ICCV_2023_paper.html)|[Code](https://research.nvidia.com/labs/dir/space/)|
+|2023|ICCV|3D Model|[EmoTalk: Speech-Driven Emotional Disentanglement for 3D Face Animation](http://openaccess.thecvf.com/content/ICCV2023/html/Peng_EmoTalk_Speech-Driven_Emotional_Disentanglement_for_3D_Face_Animation_ICCV_2023_paper.html)|[Code](https://github.com/psyai-net/EmoTalk_release)|
+|2023|Displays|Multimodal|[Flow2Flow: Audio-visual cross-modality generation for talking face videos with rhythmic head](https://www.sciencedirect.com/science/article/pii/S0141938223001853)|[Code](-)|
+|2023|ACM MM|Diffusion|[DAE-Talker: High Fidelity Speech-Driven Talking Face Generation with Diffusion Autoencoder](https://dl.acm.org/doi/abs/10.1145/3581783.3613753)|[Code](https://daetalker.github.io/)|
+|2022|CVPR|Multimodal|[Expressive Talking Head Generation with Granular Audio-Visual Control](http://openaccess.thecvf.com/content/CVPR2022/html/Liang_Expressive_Talking_Head_Generation_With_Granular_Audio-Visual_Control_CVPR_2022_paper.html)|-|
+|2022|TMM|Multimodal|[Multimodal Learning for Temporally Coherent Talking Face Generation With Articulator Synergy](https://ieeexplore.ieee.org/abstract/document/9465696/)|[Code](http://imcc.ustc.edu.cn/project/tfgen/.)|
+|2022|CVPR|Text|[Talking Face Generation with Multilingual TTS](http://openaccess.thecvf.com/content/CVPR2022/html/Song_Talking_Face_Generation_With_Multilingual_TTS_CVPR_2022_paper.html)|[Code](https://huggingface.co/spaces/CVPR/ml-talking-face)|
+|2022|ECCV|Audio|[Learning Dynamic Facial Radiance Fields for Few-Shot Talking Head Synthesis](https://link.springer.com/chapter/10.1007/978-3-031-19775-8_39)|[Code](https://sstzal.github.io/DFRF/)|
+|2021|ICCV|Audio|[FACIAL: Synthesizing Dynamic Talking Face with Implicit Attribute Learning](http://openaccess.thecvf.com/content/ICCV2021/html/Zhang_FACIAL_Synthesizing_Dynamic_Talking_Face_With_Implicit_Attribute_Learning_ICCV_2021_paper.html)|[Code](https://github.com/zhangchenxu528/FACIAL)|
+|2021|CVPR|Multimodal|[Pose-Controllable Talking Face Generation by Implicitly Modularized Audio-Visual Representation](http://openaccess.thecvf.com/content/CVPR2021/html/Zhou_Pose-Controllable_Talking_Face_Generation_by_Implicitly_Modularized_Audio-Visual_Representation_CVPR_2021_paper.html)|[Code](https://github.com/Hangz-nju-cuhk/Talking-Face_PC-AVS)|
+|2021|ICCV|3D Model|[AD-NeRF: Audio Driven Neural Radiance Fields for Talking Head Synthesis](http://openaccess.thecvf.com/content/ICCV2021/html/Guo_AD-NeRF_Audio_Driven_Neural_Radiance_Fields_for_Talking_Head_Synthesis_ICCV_2021_paper.html)|[Code](https://github.com/YudongGuo/AD-NeRF)|
+|2021|CVPR|Audio|[Audio-driven emotional video portraits](http://openaccess.thecvf.com/content/CVPR2021/html/Ji_Audio-Driven_Emotional_Video_Portraits_CVPR_2021_paper.html)|[Code](https://github.com/jixinya/EVP)|
+|2020|ICMR|Audio|[A Lip Sync Expert Is All You Need for Speech to Lip Generatio In The Wild](https://dl.acm.org/doi/abs/10.1145/3394171.3413532)|[Code](https://github.com/Rudrabha/Wav2Lip)|
+|2020|ACM TOG|Audio|[MakeItTalk: Speaker-Aware Talking-Head Animation](https://dl.acm.org/doi/abs/10.1145/3414685.3417774)|[Code](https://github.com/adobe-research/MakeItTalk)|
 
 
 ### Facial Attribute Editing
