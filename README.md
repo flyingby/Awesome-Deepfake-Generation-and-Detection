@@ -135,43 +135,43 @@ This survey presents a detailed survey on generation and detection tasks about f
 ### Face Reenactment
 |Year|Venue|Paper Title|Code|
 |:-:|:-:|-|-|
-|2024|arXiv|3DFlowRenderer: One-shot Face Re-enactment via Dense 3D Facial Flow Estimation|[Code](https://export3d.github.io/)|
-|2024|arXiv|Export3D: Learning to Generate Conditional Tri-plane for 3D-aware Expression-Controllable Portrait Animation|[Code](https://export3d.github.io/)|
-|2024|arXiv|Learning to Generate Conditional Tri-plane for 3D-aware Expression Controllable Portrait Animation|[Code](https://export3d.github.io/)|
-|2024|arXiv|Superior and Pragmatic Talking Face Generation with Teacher-Student Framework|[Code](https://superfacelink.github.io/)|
-|2024|arXiv|DiffusionAct: Controllable Diffusion Autoencoder for One-shot Face Reenactment|[Code](https://stelabou.github.io/diffusionact/)|
-|2024|WACV|CVTHead: One-shot Controllable Head Avatar with Vertex-feature Transformer|[Code](https://github.com/HowieMa/CVTHead)|
-|2024|CVPR|FSRT: Facial Scene Representation Transformer for Face Reenactment from Factorized Appearance, Head-pose, and Facial Expression Features|[Code](https://andrerochow.github.io/fsrt)|
-|2024|ICASSP|Expression Domain Translation Network for Cross-Domain Head Reenactment|-|
-|2024|AAAI|Learning Dense Correspondence for NeRF-Based Face Reenactment|-|
-|2024|AAAI|FG-EmoTalk: Talking Head Video Generation with Fine-Grained Controllable Facial Expressions |-|
-|2024|IJCV|One-shot Neural Face Reenactment via Finding Directions in GAN's Latent Space|-|
-|2023|arXiv|MaskRenderer: 3D-Infused Multi-Mask Realistic Face Reenactment|-|
-|2023|T-PAMI|Free-headgan: Neural talking head synthesis with explicit gaze control|-|
-|2023|CVPR|High-Fidelity and Freely Controllable Talking Head Video Generation|[Code](https://yuegao.me/PECHead)|
-|2023|NeurIPS|Learning Motion Refinement for Unsupervised Face Animation|[Code](https://github.com/JialeTao/MRFA/)|
-|2023|ICCV|Robust One-Shot Face Video Re-enactment using Hybrid Latent Spaces of StyleGAN2|[Code](https://trevineoorloff.github.io/FaceVideoReenactment_HybridLatents.io/)|
-|2023|ICCV|ToonTalker: Cross-Domain Face Reenactment|-|
-|2023|ICCV|HyperReenact: One-Shot Reenactment via Jointly Learning to Refine and Retarget Faces|[Code](https://github.com/StelaBou/HyperReenact)|
-|2023|CVPR|MetaPortrait: Identity-Preserving Talking Head Generation with Fast Personalized Adaptation|[Code](https://github.com/Meta-Portrait/MetaPortrait)|
-|2023|CVPR|Parametric Implicit Face Representation for Audio-Driven Facial Reenactment|-|
-|2023|CVPR|One-shot high-fidelity talking-head synthesis with deformable neural radiance field|[Code](https://www.waytron.net/hidenerf/)|
-|2023|FG|Stylemask: Disentangling the style space of stylegan2 for neural face reenactment|[Code](https://github.com/StelaBou/StyleMask.)|
-|2022|ECCV|Face2Faceρ: Real-Time High-Resolution One-Shot Face Reenactment|-|
-|2022|CVPR|Dual-Generator Face Reenactment|-|
-|2021|ICCV|PIRenderer: Controllable Portrait Image Generation via Semantic Neural Rendering|[Code](https://github.com/RenYurui/PIRender)|
-|2021|ICCV|Headgan: One-shot neural head synthesis and editing|-|
-|2020|CVPR|FReeNet: Multi-Identity Face Reenactment|-|
-|2020|FG|Head2Head: Videobased neural head synthesis|-|
-|2020|ECCV|Fast bilayer neural synthesis of one-shot realistic head avatars|-|
-|2020|AAAI|MarioNETte: Few-Shot Face Reenactment Preserving Identity of Unseen Targets|-|
-|2019|ACM TOG|Deferred Neural Rendering: Image Synthesis using Neural Textures|-|
-|2019|ACM TOG|Neural style-preserving visual dubbing|-|
-|2019|ICCV|Few-Shot Adversarial Learning of Realistic Neural Talking Head Models|-|
-|2018|CVPR|X2Face: A network for controlling face generation using images, audio, and pose codes|-|
-|2018|ACM TOG|Deep video portraits|-|
-|2018|NeurIPS|Video to video synthesis|[Code](https://github.com/NVIDIA/vid2vid)|
-|2016|CVPR|Face2Face: Real-time Face Capture and Reenactment of RGB Videos|-|
+|2024|arXiv|[3DFlowRenderer: One-shot Face Re-enactment via Dense 3D Facial Flow Estimation](https://arxiv.org/abs/2404.14667)|[Code](https://export3d.github.io/)|
+|2024|arXiv|[Export3D: Learning to Generate Conditional Tri-plane for 3D-aware Expression-Controllable Portrait Animation](https://arxiv.org/abs/2404.00636)|[Code](https://export3d.github.io/)|
+|2024|arXiv|[Learning to Generate Conditional Tri-plane for 3D-aware Expression Controllable Portrait Animation](https://arxiv.org/abs/2404.00636)|[Code](https://export3d.github.io/)|
+|2024|arXiv|[Superior and Pragmatic Talking Face Generation with Teacher-Student Framework](https://scholar.google.com.hk/scholar?hl=zh-CN&as_sdt=0%2C5&q=Superior+and+Pragmatic+Talking+Face+Generation+with+Teacher-Student+Framework&btnG=)|[Code](https://superfacelink.github.io/)|
+|2024|arXiv|[DiffusionAct: Controllable Diffusion Autoencoder for One-shot Face Reenactment](https://arxiv.org/abs/2403.17217)|[Code](https://stelabou.github.io/diffusionact/)|
+|2024|WACV|[CVTHead: One-shot Controllable Head Avatar with Vertex-feature Transformer](https://openaccess.thecvf.com/content/WACV2024/html/Ma_CVTHead_One-Shot_Controllable_Head_Avatar_With_Vertex-Feature_Transformer_WACV_2024_paper.html)|[Code](https://github.com/HowieMa/CVTHead)|
+|2024|CVPR|[FSRT: Facial Scene Representation Transformer for Face Reenactment from Factorized Appearance, Head-pose, and Facial Expression Features](https://arxiv.org/abs/2404.09736)|[Code](https://andrerochow.github.io/fsrt)|
+|2024|ICASSP|[Expression Domain Translation Network for Cross-Domain Head Reenactment](https://scholar.google.com.hk/scholar?hl=zh-CN&as_sdt=0%2C5&q=Expression+Domain+Translation+Network+for+Cross-Domain+Head+Reenactment&btnG=)|-|
+|2024|AAAI|[Learning Dense Correspondence for NeRF-Based Face Reenactment](https://ojs.aaai.org/index.php/AAAI/article/view/28473)|-|
+|2024|AAAI|[FG-EmoTalk: Talking Head Video Generation with Fine-Grained Controllable Facial Expressions](https://ojs.aaai.org/index.php/AAAI/article/view/28309)|-|
+|2024|IJCV|[One-shot Neural Face Reenactment via Finding Directions in GAN's Latent Space](https://link.springer.com/article/10.1007/s11263-024-02018-6)|-|
+|2023|arXiv|[MaskRenderer: 3D-Infused Multi-Mask Realistic Face Reenactment](https://arxiv.org/abs/2309.05095)|-|
+|2023|T-PAMI|[Free-headgan: Neural talking head synthesis with explicit gaze control](https://ieeexplore.ieee.org/abstract/document/10061572/)|-|
+|2023|CVPR|[High-Fidelity and Freely Controllable Talking Head Video Generation](http://openaccess.thecvf.com/content/CVPR2023/html/Gao_High-Fidelity_and_Freely_Controllable_Talking_Head_Video_Generation_CVPR_2023_paper.html)|[Code](https://yuegao.me/PECHead)|
+|2023|NeurIPS|[Learning Motion Refinement for Unsupervised Face Animation](https://proceedings.neurips.cc/paper_files/paper/2023/hash/df2df463f98abc4de7734dbd0b0dc49d-Abstract-Conference.html)|[Code](https://github.com/JialeTao/MRFA/)|
+|2023|ICCV|[Robust One-Shot Face Video Re-enactment using Hybrid Latent Spaces of StyleGAN2](http://openaccess.thecvf.com/content/ICCV2023/html/Oorloff_Robust_One-Shot_Face_Video_Re-enactment_using_Hybrid_Latent_Spaces_of_ICCV_2023_paper.html)|[Code](https://trevineoorloff.github.io/FaceVideoReenactment_HybridLatents.io/)|
+|2023|ICCV|[ToonTalker: Cross-Domain Face Reenactment](http://openaccess.thecvf.com/content/ICCV2023/html/Gong_ToonTalker_Cross-Domain_Face_Reenactment_ICCV_2023_paper.html)|-|
+|2023|ICCV|[HyperReenact: One-Shot Reenactment via Jointly Learning to Refine and Retarget Faces](http://openaccess.thecvf.com/content/ICCV2023/html/Bounareli_HyperReenact_One-Shot_Reenactment_via_Jointly_Learning_to_Refine_and_Retarget_ICCV_2023_paper.html)|[Code](https://github.com/StelaBou/HyperReenact)|
+|2023|CVPR|[MetaPortrait: Identity-Preserving Talking Head Generation with Fast Personalized Adaptation](http://openaccess.thecvf.com/content/CVPR2023/html/Zhang_MetaPortrait_Identity-Preserving_Talking_Head_Generation_With_Fast_Personalized_Adaptation_CVPR_2023_paper.html)|[Code](https://github.com/Meta-Portrait/MetaPortrait)|
+|2023|CVPR|[Parametric Implicit Face Representation for Audio-Driven Facial Reenactment](http://openaccess.thecvf.com/content/CVPR2023/html/Huang_Parametric_Implicit_Face_Representation_for_Audio-Driven_Facial_Reenactment_CVPR_2023_paper.html)|-|
+|2023|CVPR|[One-shot high-fidelity talking-head synthesis with deformable neural radiance field](http://openaccess.thecvf.com/content/CVPR2023/html/Li_One-Shot_High-Fidelity_Talking-Head_Synthesis_With_Deformable_Neural_Radiance_Field_CVPR_2023_paper.html)|[Code](https://www.waytron.net/hidenerf/)|
+|2023|FG|[Stylemask: Disentangling the style space of stylegan2 for neural face reenactment](https://ieeexplore.ieee.org/abstract/document/10042744/)|[Code](https://github.com/StelaBou/StyleMask.)|
+|2022|ECCV|[Face2Faceρ: Real-Time High-Resolution One-Shot Face Reenactment](https://link.springer.com/chapter/10.1007/978-3-031-19778-9_4)|-|
+|2022|CVPR|[Dual-Generator Face Reenactment](https://openaccess.thecvf.com/content/CVPR2022/html/Hsu_Dual-Generator_Face_Reenactment_CVPR_2022_paper.html)|-|
+|2021|ICCV|[PIRenderer: Controllable Portrait Image Generation via Semantic Neural Rendering](http://openaccess.thecvf.com/content/ICCV2021/html/Ren_PIRenderer_Controllable_Portrait_Image_Generation_via_Semantic_Neural_Rendering_ICCV_2021_paper.html)|[Code](https://github.com/RenYurui/PIRender)|
+|2021|ICCV|[Headgan: One-shot neural head synthesis and editing](http://openaccess.thecvf.com/content/ICCV2021/html/Doukas_HeadGAN_One-Shot_Neural_Head_Synthesis_and_Editing_ICCV_2021_paper.html)|-|
+|2020|CVPR|[FReeNet: Multi-Identity Face Reenactment](http://openaccess.thecvf.com/content_CVPR_2020/html/Zhang_FReeNet_Multi-Identity_Face_Reenactment_CVPR_2020_paper.html)|-|
+|2020|FG|[Head2Head: Videobased neural head synthesis](https://ieeexplore.ieee.org/abstract/document/9320155/)|-|
+|2020|ECCV|[Fast bilayer neural synthesis of one-shot realistic head avatars](https://link.springer.com/chapter/10.1007/978-3-030-58610-2_31)|-|
+|2020|AAAI|[MarioNETte: Few-Shot Face Reenactment Preserving Identity of Unseen Targets](https://aaai.org/ojs/index.php/AAAI/article/view/6721)|-|
+|2019|ACM TOG|[Deferred Neural Rendering: Image Synthesis using Neural Textures](https://dl.acm.org/doi/abs/10.1145/3306346.3323035)|-|
+|2019|ACM TOG|[Neural style-preserving visual dubbing](https://dl.acm.org/doi/abs/10.1145/3355089.3356500)|-|
+|2019|ICCV|[Few-Shot Adversarial Learning of Realistic Neural Talking Head Models](http://openaccess.thecvf.com/content_ICCV_2019/html/Zakharov_Few-Shot_Adversarial_Learning_of_Realistic_Neural_Talking_Head_Models_ICCV_2019_paper.html)|-|
+|2018|CVPR|[X2Face: A network for controlling face generation using images, audio, and pose codes](http://openaccess.thecvf.com/content_ECCV_2018/html/Olivia_Wiles_X2Face_A_network_ECCV_2018_paper.html)|-|
+|2018|ACM TOG|[Deep video portraits](https://dl.acm.org/doi/abs/10.1145/3197517.3201283)|-|
+|2018|NeurIPS|[Video to video synthesis](https://scholar.google.com.hk/scholar?hl=zh-CN&as_sdt=0%2C5&q=Video+to+video+synthesis&btnG=)|[Code](https://github.com/NVIDIA/vid2vid)|
+|2016|CVPR|[Face2Face: Real-time Face Capture and Reenactment of RGB Videos](http://openaccess.thecvf.com/content_cvpr_2016/html/Thies_Face2Face_Real-Time_Face_CVPR_2016_paper.html)|-|
 
 ### Talking Face Generation
 |Year|Venue|Category|Paper Title|Code|
