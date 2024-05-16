@@ -268,42 +268,42 @@ This survey presents a detailed survey on generation and detection tasks about f
 |2024|arXiv|GANs|[Reference-Based 3D-Aware Image Editing with Triplane](https://ui.adsabs.harvard.edu/abs/2024arXiv240403632B/abstract)|[Code](https://three-bee.github.io/triplane_edit)|
 |2024|arXiv|GANs|[3D-aware Image Generation and Editing with Multi-modal Conditions](https://arxiv.org/abs/2403.06470)|-|
 |2024|arXiv|3DGS|[View-Consistent 3D Editing with Gaussian Splatting](https://arxiv.org/abs/2403.11868)|-|
-|2024|arXiv|GANs|Reference-Based 3D-Aware Image Editing with Triplane|-|
-|2024|arXiv|GANs|SeFFeC: Semantic Facial Feature Control for Fine-grained Face Editing|-|
-|2024|arXiv|NeRF|GeneAvatar: Generic Expression-Aware Volumetric Head Avatar Editing from a Single Image|[Code](https://zju3dv.github.io/geneavatar/)|
-|2024|arXiv|GANs|Skull-to-Face: Anatomy-Guided 3D Facial Reconstruction and Editing|[Code](https://xmlyqing00.github.io/skull-to-face-page/)|
-|2024|arXiv|Diffusion|DiffFAE: Advancing High-fidelity One-shot Facial Appearance Editing with Space-sensitive Customization and Semantic Preservation|-|
-|2024|arXiv|Diffusion|DreamSalon: A Staged Diffusion Framework for Preserving Identity-Context in Editable Face Generation|-|
-|2024|T-CSVT|GANs|Interactive Generative Adversarial Networks with High-Frequency Compensation for Facial Attribute Editing|-|
-|2024|ICIGP|GANs|A novel method for facial attribute editing by integrating semantic segmentation and color rendering|-|
-|2024|Information Sciences|GANs|ICGNet: An intensity-controllable generation network based on covering learning for face attribute synthesis|[Code](https://github.com/kllaodong/-ICGNet)|
-|2024|ICASSP|GANs|Semantic Latent Decomposition with Normalizing Flows for Face Editing|[Code](https://github.com/phil329/SDFlow)|
-|2024|AAAI|GANs|SDGAN: Disentangling Semantic Manipulation for Facial Attribute Editing|-|
-|2024|WACV|GANs|EmoStyle: One-Shot Facial Expression Editing Using Continuous Emotion Parameters|[Code](https://bihamta.github.io/emostyle/)|
-|2024|WACV|Diffusion|Personalized Face Inpainting With Diffusion Models by Parallel Visual Attention|-|
-|2024|WACV|GANs|Face Identity-Aware Disentanglement in StyleGAN|-|
-|2024|NeurIPS|Diffusion+NeRF|FaceDNeRF: Semantics-Driven Face Reconstruction, Prompt Editing and Relighting with Diffusion Models|[Code](https://github.com/BillyXYB/FaceDNeRF)|
-|2023|CVPR|Diffusion|Collaborative Diffusion for Multi-Modal Face Generation and Editing|[Code](https://github.com/ziqihuangg/Collaborative-Diffusion)|
-|2023|ICCV|GANs|Conceptual and Hierarchical Latent Space Decomposition for Face Editing|-|
-|2023|NN|GANs|IA-FaceS: A bidirectional method for semantic face editing|[Code](https://github.com/CMACH508/IA-FaceS)|
-|2023|TPAMI|GANs+NeRF|CIPS-3D++: End-to-End Real-Time High-Resolution 3D-Aware GANs for GAN Inversion and Stylization|-|
-|2023|SIGGRAPH|GANs+3DMM|ClipFace: Text-guided Editing of Textured 3D Morphable Models|[Code](https://github.com/shivangi-aneja/ClipFace)|
-|2023|ICCV|GANs|Towards High-Fidelity Text-Guided 3D Face Generation and Manipulation Using only Images|-|
-|2023|T-PAMI|GANs|Image-to-Image Translation with Disentangled Latent Vectors for Face Editing|[Code](https://yusufdalva.github.io/vecgan/)|
-|2023|CVPR|GANs|DPE: Disentanglement of Pose and Expression for General Video Portrait Editing|[Code](https://github.com/Carlyx/DPE)|
-|2023|ACM MM|GANs|PixelFace+: Towards Controllable Face Generation and Manipulation with Text Descriptions and Segmentation Masks|[Code](https://github.com/qazwsx671713/PixelFace-Plus)|
-|2022|CVPR|GANs+NeRF|FENeRF: Face Editing in Neural Radiance Fields|[Code](https://github.com/MrTornado24/FENeRF)|
-|2022|Neural Networks|GANs|GuidedStyle: Attribute Knowledge Guided Style Manipulation for Semantic Face Editing|-|
-|2022|SIGGRAPH|GANs+NeRF|FDNeRF: Few-shot Dynamic Neural Radiance Fields for Face Reconstruction and Expression Editing|[Code](https://fdnerf.github.io)|
-|2022|CVPR|GANs|AnyFace: Free-style Text-to-Face Synthesis and Manipulation|-|
-|2022|CVPR|GANs|TransEditor: Transformer-Based Dual-Space GAN for Highly Controllable Facial Editing|[Code](https://github.com/BillyXYB/TransEditor)|
-|2022|SIGGRAPH|GANs+NeRF|NeRFFaceEditing: Disentangled Face Editing in Neural Radiance Fields|-|
-|2022|TVCG|GANs +3D|Cross-Domain and Disentangled Face Manipulation With 3D Guidance|[Code](https://cassiepython.github.io/cddfm3d/index.html)|
-|2021|ICCV|GANs |A Latent Transformer for Disentangled Face Editing in Images and Videos|[Code](https://github.com/InterDigitalInc/latent-transformer)|
-|2021|CVPR|GANs|High-Fidelity and Arbitrary Face Editing|[Code](https://github.com/hologerry/HifaFace)|
-|2020|JAS|GANs|MU-GAN: Facial Attribute Editing Based on Multi-Attention Mechanism|[Code](https://github.com/SuSir1996/MU-GAN)|
-|2020|CVPR|GANs|Interpreting the Latent Space of GANs for Semantic Face Editing|[Code](https://github.com/genforce/interfacegan)|
-|2020|ACCV|GANs|MagGAN: High-Resolution Face Attribute Editing with Mask-Guided Generative Adversarial Network|-|
+|2024|arXiv|GANs|[Reference-Based 3D-Aware Image Editing with Triplane](https://ui.adsabs.harvard.edu/abs/2024arXiv240403632B/abstract)|-|
+|2024|arXiv|GANs|[SeFFeC: Semantic Facial Feature Control for Fine-grained Face Editing](https://arxiv.org/abs/2403.13972)|-|
+|2024|arXiv|NeRF|[GeneAvatar: Generic Expression-Aware Volumetric Head Avatar Editing from a Single Image](https://arxiv.org/abs/2404.02152)|[Code](https://zju3dv.github.io/geneavatar/)|
+|2024|arXiv|GANs|[Skull-to-Face: Anatomy-Guided 3D Facial Reconstruction and Editing](https://arxiv.org/abs/2403.16207)|[Code](https://xmlyqing00.github.io/skull-to-face-page/)|
+|2024|arXiv|Diffusion|[DiffFAE: Advancing High-fidelity One-shot Facial Appearance Editing with Space-sensitive Customization and Semantic Preservation](https://arxiv.org/abs/2403.17664)|-|
+|2024|arXiv|Diffusion|[DreamSalon: A Staged Diffusion Framework for Preserving Identity-Context in Editable Face Generation](https://arxiv.org/abs/2403.19235)|-|
+|2024|T-CSVT|GANs|[Interactive Generative Adversarial Networks with High-Frequency Compensation for Facial Attribute Editing](https://ieeexplore.ieee.org/abstract/document/10505299/)|-|
+|2024|ICIGP|GANs|[A novel method for facial attribute editing by integrating semantic segmentation and color rendering](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/13089/130890A/A-novel-method-for-facial-attribute-editing-by-integrating-semantic/10.1117/12.3021236.short)|-|
+|2024|Information Sciences|GANs|[ICGNet: An intensity-controllable generation network based on covering learning for face attribute synthesis](https://www.sciencedirect.com/science/article/pii/S0020025524000434)|[Code](https://github.com/kllaodong/-ICGNet)|
+|2024|ICASSP|GANs|[Semantic Latent Decomposition with Normalizing Flows for Face Editing](https://ieeexplore.ieee.org/abstract/document/10446836/)|[Code](https://github.com/phil329/SDFlow)|
+|2024|AAAI|GANs|[SDGAN: Disentangling Semantic Manipulation for Facial Attribute Editing](https://ojs.aaai.org/index.php/AAAI/article/view/28012)|-|
+|2024|WACV|GANs|[EmoStyle: One-Shot Facial Expression Editing Using Continuous Emotion Parameters](https://openaccess.thecvf.com/content/WACV2024/html/Azari_EmoStyle_One-Shot_Facial_Expression_Editing_Using_Continuous_Emotion_Parameters_WACV_2024_paper.html)|[Code](https://bihamta.github.io/emostyle/)|
+|2024|WACV|Diffusion|[Personalized Face Inpainting With Diffusion Models by Parallel Visual Attention](https://openaccess.thecvf.com/content/WACV2024/html/Xu_Personalized_Face_Inpainting_With_Diffusion_Models_by_Parallel_Visual_Attention_WACV_2024_paper.html)|-|
+|2024|WACV|GANs|[Face Identity-Aware Disentanglement in StyleGAN](https://openaccess.thecvf.com/content/WACV2024/html/Suwala_Face_Identity-Aware_Disentanglement_in_StyleGAN_WACV_2024_paper.html)|-|
+|2024|NeurIPS|Diffusion+NeRF|[FaceDNeRF: Semantics-Driven Face Reconstruction, Prompt Editing and Relighting with Diffusion Models](https://proceedings.neurips.cc/paper_files/paper/2023/hash/ae0cba715b60c4052359b3d52a2cff7f-Abstract-Conference.html)|[Code](https://github.com/BillyXYB/FaceDNeRF)|
+|2023|CVPR|Diffusion|[Collaborative Diffusion for Multi-Modal Face Generation and Editing](http://openaccess.thecvf.com/content/CVPR2023/html/Huang_Collaborative_Diffusion_for_Multi-Modal_Face_Generation_and_Editing_CVPR_2023_paper.html)|[Code](https://github.com/ziqihuangg/Collaborative-Diffusion)|
+|2023|ICCV|GANs|[Conceptual and Hierarchical Latent Space Decomposition for Face Editing](http://openaccess.thecvf.com/content/ICCV2023/html/Ozkan_Conceptual_and_Hierarchical_Latent_Space_Decomposition_for_Face_Editing_ICCV_2023_paper.html)|-|
+|2023|NN|GANs|[IA-FaceS: A bidirectional method for semantic face editing](https://www.sciencedirect.com/science/article/pii/S0893608022004579)|[Code](https://github.com/CMACH508/IA-FaceS)|
+|2023|TPAMI|GANs+NeRF|[CIPS-3D++: End-to-End Real-Time High-Resolution 3D-Aware GANs for GAN Inversion and Stylization](https://ieeexplore.ieee.org/abstract/document/10149489/)|-|
+|2023|SIGGRAPH|GANs+3DMM|[ClipFace: Text-guided Editing of Textured 3D Morphable Models](https://dl.acm.org/doi/abs/10.1145/3588432.3591566)|[Code](https://github.com/shivangi-aneja/ClipFace)|
+|2023|ICCV|GANs|[Towards High-Fidelity Text-Guided 3D Face Generation and Manipulation Using only Images](http://openaccess.thecvf.com/content/ICCV2023/html/Yu_Towards_High-Fidelity_Text-Guided_3D_Face_Generation_and_Manipulation_Using_only_ICCV_2023_paper.html)|-|
+|2023|T-PAMI|GANs|[Image-to-Image Translation with Disentangled Latent Vectors for Face Editing](https://ieeexplore.ieee.org/abstract/document/10229229/)|[Code](https://yusufdalva.github.io/vecgan/)|
+|2023|CVPR|GANs|[DPE: Disentanglement of Pose and Expression for General Video Portrait Editing](http://openaccess.thecvf.com/content/CVPR2023/html/Pang_DPE_Disentanglement_of_Pose_and_Expression_for_General_Video_Portrait_CVPR_2023_paper.html)|[Code](https://github.com/Carlyx/DPE)|
+|2023|ACM MM|GANs|[PixelFace+: Towards Controllable Face Generation and Manipulation with Text Descriptions and Segmentation Masks](https://dl.acm.org/doi/abs/10.1145/3581783.3612067)|[Code](https://github.com/qazwsx671713/PixelFace-Plus)|
+|2022|CVPR|GANs+NeRF|[FENeRF: Face Editing in Neural Radiance Fields](http://openaccess.thecvf.com/content/CVPR2022/html/Sun_FENeRF_Face_Editing_in_Neural_Radiance_Fields_CVPR_2022_paper.html)|[Code](https://github.com/MrTornado24/FENeRF)|
+|2022|Neural Networks|GANs|[GuidedStyle: Attribute Knowledge Guided Style Manipulation for Semantic Face Editing](https://www.sciencedirect.com/science/article/pii/S0893608021004081)|-|
+|2022|SIGGRAPH|GANs+NeRF|[FDNeRF: Few-shot Dynamic Neural Radiance Fields for Face Reconstruction and Expression Editing](https://dl.acm.org/doi/abs/10.1145/3550469.3555404)|[Code](https://fdnerf.github.io)|
+|2022|CVPR|GANs|[AnyFace: Free-style Text-to-Face Synthesis and Manipulation](http://openaccess.thecvf.com/content/CVPR2022/html/Sun_AnyFace_Free-Style_Text-To-Face_Synthesis_and_Manipulation_CVPR_2022_paper.html)|-|
+|2022|CVPR|GANs|[TransEditor: Transformer-Based Dual-Space GAN for Highly Controllable Facial Editing](http://openaccess.thecvf.com/content/CVPR2022/html/Xu_TransEditor_Transformer-Based_Dual-Space_GAN_for_Highly_Controllable_Facial_Editing_CVPR_2022_paper.html)|[Code](https://github.com/BillyXYB/TransEditor)|
+|2022|SIGGRAPH|GANs+NeRF|[NeRFFaceEditing: Disentangled Face Editing in Neural Radiance Fields](https://dl.acm.org/doi/abs/10.1145/3550469.3555377)|-|
+|2022|TVCG|GANs +3D|[Cross-Domain and Disentangled Face Manipulation With 3D Guidance](https://ieeexplore.ieee.org/abstract/document/9668999/)|[Code](https://cassiepython.github.io/cddfm3d/index.html)|
+|2021|ICCV|GANs|[A Latent Transformer for Disentangled Face Editing in Images and Videos](http://openaccess.thecvf.com/content/ICCV2021/html/Yao_A_Latent_Transformer_for_Disentangled_Face_Editing_in_Images_and_ICCV_2021_paper.html)|[Code](https://github.com/InterDigitalInc/latent-transformer)|
+|2021|CVPR|GANs|[High-Fidelity and Arbitrary Face Editing](http://openaccess.thecvf.com/content/CVPR2021/html/Gao_High-Fidelity_and_Arbitrary_Face_Editing_CVPR_2021_paper.html)|[Code](https://github.com/hologerry/HifaFace)|
+|2020|JAS|GANs|[MU-GAN: Facial Attribute Editing Based on Multi-Attention Mechanism](https://ieeexplore.ieee.org/abstract/document/9205685/)|[Code](https://github.com/SuSir1996/MU-GAN)|
+|2020|CVPR|GANs|[Interpreting the Latent Space of GANs for Semantic Face Editing](http://openaccess.thecvf.com/content_CVPR_2020/html/Shen_Interpreting_the_Latent_Space_of_GANs_for_Semantic_Face_Editing_CVPR_2020_paper.html)|[Code](https://github.com/genforce/interfacegan)|
+|2020|ACCV|GANs|[MagGAN: High-Resolution Face Attribute Editing with Mask-Guided Generative Adversarial Network](http://openaccess.thecvf.com/content/ACCV2020/html/Wei_MagGAN_High-Resolution_Face_Attribute_Editing_with_Mask-Guided_Generative_Adversarial_Network_ACCV_2020_paper.html)|-|
 
 
 ### Forgery Detection
