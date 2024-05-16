@@ -259,15 +259,15 @@ This survey presents a detailed survey on generation and detection tasks about f
 ### Facial Attribute Editing
 |Year|Venue|Category|Paper Title|Code|
 |:-:|:-:|:-:|-|-|
-|2024|arXiv|Diffusion|Face2Face: Label-driven Facial Retouching Restoration|-|
-|2024|arXiv|Diffusion|FlashFace: Human Image Personalization with High-fidelity Identity Preservation|[Code](https://jshilong.github.io/flashface-page)|
-|2024|arXiv|NeRF|Fast Text-to-3D-Aware Face Generation and Manipulation via Direct Cross-modal Mapping and Geometric Regularization|[Code](https://github.com/Aria-Zhangjl/E3-FaceNet)|
-|2024|arXiv|GANs|GANTASTIC: GAN-based Transfer of Interpretable Directions for Disentangled Image Editing in Text-to-Image Diffusion Models|[Code](https://gantastic.github.io/)|
-|2024|arXiv|Diffusion|DreamSalon: A Staged Diffusion Framework for Preserving Identity-Context in Editable Face Generation|-|
-|2024|arXiv|GANs|S3Editor: A Sparse Semantic-Disentangled Self-Training Framework for Face Video Editing|-|
-|2024|arXiv|GANs|Reference-Based 3D-Aware Image Editing with Triplane|[Code](https://three-bee.github.io/triplane_edit)|
-|2024|arXiv|GANs|3D-aware Image Generation and Editing with Multi-modal Conditions|-|
-|2024|arXiv|3DGS|View-Consistent 3D Editing with Gaussian Splatting|-|
+|2024|arXiv|Diffusion|[Face2Face: Label-driven Facial Retouching Restoration](https://arxiv.org/abs/2404.14177)|-|
+|2024|arXiv|Diffusion|[FlashFace: Human Image Personalization with High-fidelity Identity Preservation](https://arxiv.org/abs/2403.17008)|[Code](https://jshilong.github.io/flashface-page)|
+|2024|arXiv|NeRF|[Fast Text-to-3D-Aware Face Generation and Manipulation via Direct Cross-modal Mapping and Geometric Regularization](https://arxiv.org/abs/2403.06702)|[Code](https://github.com/Aria-Zhangjl/E3-FaceNet)|
+|2024|arXiv|GANs|[GANTASTIC: GAN-based Transfer of Interpretable Directions for Disentangled Image Editing in Text-to-Image Diffusion Models](https://arxiv.org/abs/2403.19645)|[Code](https://gantastic.github.io/)|
+|2024|arXiv|Diffusion|[DreamSalon: A Staged Diffusion Framework for Preserving Identity-Context in Editable Face Generation](https://arxiv.org/abs/2403.19235)|-|
+|2024|arXiv|GANs|[S3Editor: A Sparse Semantic-Disentangled Self-Training Framework for Face Video Editing](https://arxiv.org/abs/2404.08111)|-|
+|2024|arXiv|GANs|[Reference-Based 3D-Aware Image Editing with Triplane](https://ui.adsabs.harvard.edu/abs/2024arXiv240403632B/abstract)|[Code](https://three-bee.github.io/triplane_edit)|
+|2024|arXiv|GANs|[3D-aware Image Generation and Editing with Multi-modal Conditions](https://arxiv.org/abs/2403.06470)|-|
+|2024|arXiv|3DGS|[View-Consistent 3D Editing with Gaussian Splatting](https://arxiv.org/abs/2403.11868)|-|
 |2024|arXiv|GANs|Reference-Based 3D-Aware Image Editing with Triplane|-|
 |2024|arXiv|GANs|SeFFeC: Semantic Facial Feature Control for Fine-grained Face Editing|-|
 |2024|arXiv|NeRF|GeneAvatar: Generic Expression-Aware Volumetric Head Avatar Editing from a Single Image|[Code](https://zju3dv.github.io/geneavatar/)|
