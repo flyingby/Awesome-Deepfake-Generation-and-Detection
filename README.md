@@ -52,7 +52,7 @@ If you discover any missing work or have any suggestions, please feel free to su
 
 ## Introduction
 
-This survey presents a detailed survey on generation and detection tasks about face-related generation, including **Face swap**, **Face reenactment**, **Talking Face Generation**, and **Face attribute editing**. In addition, we also introduce several related fields such as Head Swap, Face Super-resolution, Face Reconstruction, Face Inpainting, etc., and select some of them to expand.
+This survey presents a detailed survey on generation and detection tasks about face-related generation, including **Face Swapping**, **Face Reenactment**, **Talking Face Generation**, and **Face Attribute Editing**. In addition, we also introduce several related fields such as Head Swap, Face Super-resolution, Face Reconstruction, Face Inpainting, etc., and select some of them to expand.
 
 </p>
 <img src="assets/task.png" width.="1000px">
