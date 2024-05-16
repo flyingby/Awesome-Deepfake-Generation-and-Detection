@@ -32,7 +32,7 @@
 
 # We research Deepfake Generation and Detection
 
-This work focuses on the aspect of facial manipulation in Deepfake, encompassing **Face swapping**, **Face reenactment**,  **Talking Face Generation**, **Face attribute editing** and **Forgery Detection**. We believe this will be the most comprehensive survey to date on facial manipulation and detection technologies. Please stay tuned!😉😉😉
+This work focuses on the aspect of facial manipulation in Deepfake, encompassing **Face Swapping**, **Face Reenactment**,  **Talking Face Generation**, **Face Attribute Editing** and **Forgery Detection**. We believe this will be the most comprehensive survey to date on facial manipulation and detection technologies. Please stay tuned!😉😉😉
 
 ### ✨You are welcome to provide us your work with a topic related to deepfake generation or detection!!!
 
