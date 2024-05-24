@@ -391,26 +391,26 @@ This work presents a detailed survey on generation and detection tasks about fac
 ### Face Super-resolution
 |Year|Venue|Paper Title|Code|
 |:-:|:-:|-|-|
-|2024|arXiv|Towards Real-world Video Face Restoration: A New Benchmark|[Code](https://ziyannchen.github.io/projects/VFRxBenchmark/)|
-|2024|arXiv|Efficient Diffusion Model for Image Restoration by Residual Shifting|[Code](https://github.com/zsyOAOA/ResShift)|
-|2024|arXiv|PFStorer: Personalized Face Restoration and Super-Resolution|-|
-|2024|arXiv|DiffBIR: Towards Blind Image Restoration with Generative Diffusion Prior|[Code](https://github.com/XPixelGroup/DiffBIR)|
-|2024|AAAI|ResDiff: Combining CNN and Diffusion Model for Image Super-Resolution|[Code](https://github.com/LYL1015/ResDiff)|
-|2024|AAAI|Low-Light Face Super-resolution via Illumination, Structure, and Texture Associated Representation|[Code](https://github.com/wcy-cs/IC-FSRDENet)|
-|2024|AAAI|SkipDiff: Adaptive Skip Diffusion Model for High-Fidelity Perceptual Image Super-resolution|-|
-|2024|WACV|Arbitrary-Resolution and Arbitrary-Scale Face Super-Resolution With Implicit Representation Networks|-|
-|2024|ICASSP|Adaptive Super Resolution for One-Shot Talking-Head Generation|[Code](https://github.com/Songluchuan/AdaSR-TalkingHead/)|
-|2023|CVPR|Spatial-Frequency Mutual Learning for Face Super-Resolution|[Code](https://github.com/wcy-cs/SFMNet)|
-|2023|TIP|CTCNet: A CNN-Transformer Cooperation Network for Face Image Super-Resolution|[Code](https://github.com/IVIPLab/CTCNet)|
-|2023|TIP|Semi-Cycled Generative Adversarial Networks for Real-World Face Super-Resolution|[Code](https://github.com/HaoHou-98/SCGAN)|
-|2023|TMM|An Efficient Latent Style Guided Transformer-CNN Framework for Face Super-Resolution|[Code](https://github.com/FVL2020/ELSFace)|
-|2023|TMM|Exploiting Multi-Scale Parallel Self-Attention and Local Variation via Dual-Branch Transformer-CNN Structure for Face Super-Resolution|-|
-|2023|NN|Self-attention learning network for face super-resolution|-|
-|2023|PR|A Composite Network Model for Face Super-Resolution with Multi-Order Head Attention Facial Priors|-|
-|2022|CVPR|GCFSR: A Generative and Controllable Face Super Resolution Method Without Facial and GAN Priors|[Code](https://github.com/hejingwenhejingwen/GCFSR)|
-|2022|ECCV|From Face to Natural Image: Learning Real Degradation for Blind Image Super-Resolution|[Code](https://github.com/csxmli2016/ReDegNet)|
-|2022|TCSVT|Propagating Facial Prior Knowledge for Multitask Learning in Face Super-Resolution|[Code](https://github.com/wcy-cs/KDFSRNet)|
-|2022|NN|Multi-level landmark-guided deep network for face super-resolution|[Code](https://github.com/zhuangcheng31/MLG_Face.git/)|
+|2024|arXiv|[Towards Real-world Video Face Restoration: A New Benchmark](https://arxiv.org/abs/2404.19500)|[Code](https://ziyannchen.github.io/projects/VFRxBenchmark/)|
+|2024|arXiv|[Efficient Diffusion Model for Image Restoration by Residual Shifting](https://arxiv.org/abs/2403.07319)|[Code](https://github.com/zsyOAOA/ResShift)|
+|2024|arXiv|[PFStorer: Personalized Face Restoration and Super-Resolution](https://arxiv.org/abs/2403.08436)|-|
+|2024|arXiv|[DiffBIR: Towards Blind Image Restoration with Generative Diffusion Prior](https://arxiv.org/abs/2308.15070)|[Code](https://github.com/XPixelGroup/DiffBIR)|
+|2024|AAAI|[ResDiff: Combining CNN and Diffusion Model for Image Super-Resolution](https://ojs.aaai.org/index.php/AAAI/article/view/28746)|[Code](https://github.com/LYL1015/ResDiff)|
+|2024|AAAI|[Low-Light Face Super-resolution via Illumination, Structure, and Texture Associated Representation](https://ojs.aaai.org/index.php/AAAI/article/view/28339)|[Code](https://github.com/wcy-cs/IC-FSRDENet)|
+|2024|AAAI|[SkipDiff: Adaptive Skip Diffusion Model for High-Fidelity Perceptual Image Super-resolution](https://ojs.aaai.org/index.php/AAAI/article/view/28195)|-|
+|2024|WACV|[Arbitrary-Resolution and Arbitrary-Scale Face Super-Resolution With Implicit Representation Networks](https://openaccess.thecvf.com/content/WACV2024/html/Tsai_Arbitrary-Resolution_and_Arbitrary-Scale_Face_Super-Resolution_With_Implicit_Representation_Networks_WACV_2024_paper.html)|-|
+|2024|ICASSP|[Adaptive Super Resolution for One-Shot Talking-Head Generation](https://ieeexplore.ieee.org/abstract/document/10446837/)|[Code](https://github.com/Songluchuan/AdaSR-TalkingHead/)|
+|2023|CVPR|[Spatial-Frequency Mutual Learning for Face Super-Resolution](http://openaccess.thecvf.com/content/CVPR2023/html/Wang_Spatial-Frequency_Mutual_Learning_for_Face_Super-Resolution_CVPR_2023_paper.html)|[Code](https://github.com/wcy-cs/SFMNet)|
+|2023|TIP|[CTCNet: A CNN-Transformer Cooperation Network for Face Image Super-Resolution](https://ieeexplore.ieee.org/abstract/document/10087319/)|[Code](https://github.com/IVIPLab/CTCNet)|
+|2023|TIP|[Semi-Cycled Generative Adversarial Networks for Real-World Face Super-Resolution](https://ieeexplore.ieee.org/abstract/document/10036448/)|[Code](https://github.com/HaoHou-98/SCGAN)|
+|2023|TMM|[An Efficient Latent Style Guided Transformer-CNN Framework for Face Super-Resolution](https://ieeexplore.ieee.org/abstract/document/10145603/)|[Code](https://github.com/FVL2020/ELSFace)|
+|2023|TMM|[Exploiting Multi-Scale Parallel Self-Attention and Local Variation via Dual-Branch Transformer-CNN Structure for Face Super-Resolution](https://ieeexplore.ieee.org/abstract/document/10207832/)|-|
+|2023|NN|[Self-attention learning network for face super-resolution](https://www.sciencedirect.com/science/article/pii/S0893608023000060)|-|
+|2023|PR|[A Composite Network Model for Face Super-Resolution with Multi-Order Head Attention Facial Priors](https://www.sciencedirect.com/science/article/pii/S0031320323002030)|-|
+|2022|CVPR|[GCFSR: A Generative and Controllable Face Super Resolution Method Without Facial and GAN Priors](http://openaccess.thecvf.com/content/CVPR2022/html/He_GCFSR_A_Generative_and_Controllable_Face_Super_Resolution_Method_Without_CVPR_2022_paper.html)|[Code](https://github.com/hejingwenhejingwen/GCFSR)|
+|2022|ECCV|[From Face to Natural Image: Learning Real Degradation for Blind Image Super-Resolution](https://link.springer.com/chapter/10.1007/978-3-031-19797-0_22)|[Code](https://github.com/csxmli2016/ReDegNet)|
+|2022|TCSVT|[Propagating Facial Prior Knowledge for Multitask Learning in Face Super-Resolution](https://ieeexplore.ieee.org/abstract/document/9792407/)|[Code](https://github.com/wcy-cs/KDFSRNet)|
+|2022|NN|[Multi-level landmark-guided deep network for face super-resolution](https://www.sciencedirect.com/science/article/pii/S0893608022001587)|[Code](https://github.com/zhuangcheng31/MLG_Face.git/)|
 
 ### Portrait Style Transfer
 |Year|Venue|Paper Title|Code|
