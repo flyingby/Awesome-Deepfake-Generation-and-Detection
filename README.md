@@ -415,28 +415,28 @@ This work presents a detailed survey on generation and detection tasks about fac
 ### Portrait Style Transfer
 |Year|Venue|Paper Title|Code|
 |:-:|:-:|-|-|
-|2024|arXiv|ToonAging: Face Re-Aging upon Artistic Portrait Style Transfer|-|
-|2024|arXiv|CtlGAN: Few-shot Artistic Portraits Generation with Contrastive Transfer Learning|-|
-|2024|Displays|HiStyle: Reinventing historic portraits via 3D generative model|-|
-|2024|ICASSP|A Framework for Portrait Stylization with Skin-Tone Awareness and Nudity Identification|-|
-|2024|ICASSP|Learning Discriminative Style Representations for Unsupervised and Few-Shot Artistic Portrait Drawing Generation|[Code](https://github.com/AiArt-HDU/Co-GAN)|
-|2024|TMM|Towards High-Quality Photorealistic Image Style Transfer|-|
-|2024|TMM|FaceRefiner: High-Fidelity Facial Texture Refinement with Differentiable Rendering-based Style Transfer|-|
-|2024|CVPR|Deformable One-shot Face Stylization via DINO Semantic Guidancen|[Code](https://github.com/zichongc/DoesFS)|
-|2024|AAAI|MagiCapture: High-Resolution Multi-Concept Portrait Customization|-|
-|2024|AAAI|ArtBank: Artistic Style Transfer with Pre-trained Diffusion Model and Implicit Style Prompt Bank|[Code](https://github.com/Jamie-Cheung/ArtBank)|
-|2024|TNNLS|Few-Shot Face Stylization via GAN Prior Distillation|-|
-|2023|arXiv|PP-GAN : Style Transfer from Korean Portraits to ID Photos Using Landmark Extractor with GAN|-|
-|2023|TNNLS|Unpaired Artistic Portrait Style Transfer via Asymmetric Double-Stream GAN|-|
-|2023|CVPR|Inversion-Based Style Transfer With Diffusion Models|[Code](https://github.com/zyxElsa/InST)|
-|2023|ICCV|General Image-to-Image Translation with One-Shot Image Guidance|[Code](https://github.com/CrystalNeuro/visual-concept-translator)|
-|2023|ACM TOG|A Unified Arbitrary Style Transfer Framework via Adaptive Contrastive Learning|[Code](https://github.com/zyxElsa/CAST_pytorch)|
-|2023|Neurocomputing|Caster: Cartoon style transfer via dynamic cartoon style casting|-|
-|2023|IJCV|Learning Portrait Drawing with Unsupervised Parts|-|
-|2022|CVPR|Pastiche Master: Exemplar-Based High-Resolution Portrait Style Transfer|[Code](https://github.com/williamyang1991/DualStyleGAN)|
-|2022|ACM TOG|VToonify: Controllable High-Resolution Portrait Video Style Transfer|[Code](https://www.mmlab-ntu.com/project/vtoonify/)|
-|2022|ACM TOG|DCT-net: domain-calibrated translation for portrait stylization|[Code](https://github.com/menyifang/DCT-Net)|
-|2022|ACM TOG|SofGAN: A Portrait Image Generator with Dynamic Styling|-|
+|2024|arXiv|[ToonAging: Face Re-Aging upon Artistic Portrait Style Transfer](https://arxiv.org/abs/2402.02733)|-|
+|2024|arXiv|[CtlGAN: Few-shot Artistic Portraits Generation with Contrastive Transfer Learning](https://arxiv.org/abs/2203.08612)|-|
+|2024|Displays|[HiStyle: Reinventing historic portraits via 3D generative model](https://www.sciencedirect.com/science/article/pii/S0141938224000891)|-|
+|2024|ICASSP|[A Framework for Portrait Stylization with Skin-Tone Awareness and Nudity Identification](https://ieeexplore.ieee.org/abstract/document/10447593/)|-|
+|2024|ICASSP|[Learning Discriminative Style Representations for Unsupervised and Few-Shot Artistic Portrait Drawing Generation](https://ieeexplore.ieee.org/abstract/document/10447816/)|[Code](https://github.com/AiArt-HDU/Co-GAN)|
+|2024|TMM|[Towards High-Quality Photorealistic Image Style Transfer](https://ieeexplore.ieee.org/abstract/document/10509824/)|-|
+|2024|TMM|[FaceRefiner: High-Fidelity Facial Texture Refinement with Differentiable Rendering-based Style Transfer](https://ieeexplore.ieee.org/abstract/document/10443565/)|-|
+|2024|CVPR|[Deformable One-shot Face Stylization via DINO Semantic Guidancen](https://arxiv.org/abs/2403.00459)|[Code](https://github.com/zichongc/DoesFS)|
+|2024|AAAI|[MagiCapture: High-Resolution Multi-Concept Portrait Customization](https://ojs.aaai.org/index.php/AAAI/article/view/28020)|-|
+|2024|AAAI|[ArtBank: Artistic Style Transfer with Pre-trained Diffusion Model and Implicit Style Prompt Bank](https://ojs.aaai.org/index.php/AAAI/article/view/28570)|[Code](https://github.com/Jamie-Cheung/ArtBank)|
+|2024|TNNLS|[Few-Shot Face Stylization via GAN Prior Distillation](https://ieeexplore.ieee.org/abstract/document/10479222/)|-|
+|2023|arXiv|[PP-GAN : Style Transfer from Korean Portraits to ID Photos Using Landmark Extractor with GAN](https://arxiv.org/abs/2306.13418)|-|
+|2023|TNNLS|[Unpaired Artistic Portrait Style Transfer via Asymmetric Double-Stream GAN](https://ieeexplore.ieee.org/abstract/document/10184919/)|-|
+|2023|CVPR|[Inversion-Based Style Transfer With Diffusion Models](http://openaccess.thecvf.com/content/CVPR2023/html/Zhang_Inversion-Based_Style_Transfer_With_Diffusion_Models_CVPR_2023_paper.html)|[Code](https://github.com/zyxElsa/InST)|
+|2023|ICCV|[General Image-to-Image Translation with One-Shot Image Guidance](http://openaccess.thecvf.com/content/ICCV2023/html/Cheng_General_Image-to-Image_Translation_with_One-Shot_Image_Guidance_ICCV_2023_paper.html)|[Code](https://github.com/CrystalNeuro/visual-concept-translator)|
+|2023|ACM TOG|[A Unified Arbitrary Style Transfer Framework via Adaptive Contrastive Learning](https://dl.acm.org/doi/abs/10.1145/3605548)|[Code](https://github.com/zyxElsa/CAST_pytorch)|
+|2023|Neurocomputing|[Caster: Cartoon style transfer via dynamic cartoon style casting](https://www.sciencedirect.com/science/article/pii/S0925231223007774)|-|
+|2023|IJCV|[Learning Portrait Drawing with Unsupervised Parts](https://link.springer.com/article/10.1007/s11263-023-01927-2)|-|
+|2022|CVPR|[Pastiche Master: Exemplar-Based High-Resolution Portrait Style Transfer](http://openaccess.thecvf.com/content/CVPR2022/html/Yang_Pastiche_Master_Exemplar-Based_High-Resolution_Portrait_Style_Transfer_CVPR_2022_paper.html)|[Code](https://github.com/williamyang1991/DualStyleGAN)|
+|2022|ACM TOG|[VToonify: Controllable High-Resolution Portrait Video Style Transfer](https://dl.acm.org/doi/abs/10.1145/3550454.3555437)|[Code](https://www.mmlab-ntu.com/project/vtoonify/)|
+|2022|ACM TOG|[DCT-net: domain-calibrated translation for portrait stylization](https://dl.acm.org/doi/abs/10.1145/3528223.3530159)|[Code](https://github.com/menyifang/DCT-Net)|
+|2022|ACM TOG|[SofGAN: A Portrait Image Generator with Dynamic Styling](https://dl.acm.org/doi/abs/10.1145/3470848)|-|
 
 ### Body Animation
 |Year|Venue|Paper Title|Code|
