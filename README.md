@@ -136,6 +136,7 @@ This work presents a detailed survey on generation and detection tasks about fac
 ### Face Reenactment
 |Year|Venue|Paper Title|Code|
 |:-:|:-:|-|-|
+|2024|arXiv|[Face Adapter for Pre-Trained Diffusion Models with Fine-Grained ID and Attribute Control](https://arxiv.org/abs/2405.12970)|[Code](https://faceadapter.github.io/face-adapter.github.io/)|
 |2024|arXiv|[3DFlowRenderer: One-shot Face Re-enactment via Dense 3D Facial Flow Estimation](https://arxiv.org/abs/2404.14667)|[Code](https://export3d.github.io/)|
 |2024|arXiv|[Export3D: Learning to Generate Conditional Tri-plane for 3D-aware Expression-Controllable Portrait Animation](https://arxiv.org/abs/2404.00636)|[Code](https://export3d.github.io/)|
 |2024|arXiv|[Learning to Generate Conditional Tri-plane for 3D-aware Expression Controllable Portrait Animation](https://arxiv.org/abs/2404.00636)|[Code](https://export3d.github.io/)|
@@ -177,6 +178,7 @@ This work presents a detailed survey on generation and detection tasks about fac
 ### Talking Face Generation
 |Year|Venue|Category|Paper Title|Code|
 |:-:|:-:|:-:|-|-|
+|2024|arXiv|Audio|[OpFlowTalker: Realistic and Natural Talking Face Generation via Optical Flow Guidance](https://arxiv.org/pdf/2405.14709)|-|
 |2024|arXiv|Multimodal|[Listen, Disentangle, and Control: Controllable Speech-Driven Talking Head Generation](https://arxiv.org/abs/2405.07257)|[Code](https://anonymous.4open.science/r/SPEAK-F56E)|
 |2024|arXiv|Audio|[AniTalker: Animate Vivid and Diverse Talking Faces through Identity-Decoupled Facial Motion Encoding](https://arxiv.org/abs/2405.03121)|[Code](https://github.com/X-LANCE/AniTalker)|
 |2024|arXiv|3D Model|[NeRFFaceSpeech: One-shot Audio-driven 3D Talking Head Synthesis via Generative Prior](https://arxiv.org/abs/2405.05749)|[Code](https://rlgnswk.github.io/NeRFFaceSpeech_ProjectPage/)|
@@ -200,6 +202,7 @@ This work presents a detailed survey on generation and detection tasks about fac
 |2024|arXiv|Audio|[FaceChain-ImagineID: Freely Crafting High-Fidelity Diverse Talking Faces from Disentangled Audio](https://arxiv.org/abs/2403.01901)|[Code](https://github.com/modelscope/facechain)|
 |2024|arXiv|Audio|[EmoSpeaker: One-shot Fine-grained Emotion-Controlled Talking Face Generation](https://arxiv.org/abs/2402.01422)|[Code](https://peterfanfan.github.io/EmoSpeaker/)|
 |2024|arXiv|Audio|[ReliTalk: Relightable Talking Portrait Generation from a Single Video](https://link.springer.com/article/10.1007/s11263-024-02007-9)|[Code](https://github.com/arthur-qiu/ReliTalk)|
+|2024|IF|3D Model|[ER-NeRF++: Efficient region-aware Neural Radiance Fields for high-fidelity talking portrait synthesis](https://www.sciencedirect.com/science/article/abs/pii/S1566253524002343)|-|
 |2024|ICLR|3D Model|[Real3D-Portrait: One-shot Realistic 3D Talking Portrait Synthesis](https://arxiv.org/abs/2401.08503)|[Code](https://real3dportrait.github.io/)|
 |2024|ICLR|Diffusion|[GAIA: ZERO-SHOT TALKING AVATAR GENERATION](https://arxiv.org/abs/2311.15230)|[Code](https://microsoft.github.io/GAIA)|
 |2024|T-PAMI|Multimodal|[StyleTalk++: A Unified Framework for Controlling the Speaking Styles of Talking Heads](https://ieeexplore.ieee.org/abstract/document/10413601/)|-|
@@ -217,6 +220,7 @@ This work presents a detailed survey on generation and detection tasks about fac
 |2024|WACV|Audio|[DR2: Disentangled Recurrent Representation Learning for Data-Efficient Speech Video Synthesis](https://openaccess.thecvf.com/content/WACV2024/html/Zhang_DR2_Disentangled_Recurrent_Representation_Learning_for_Data-Efficient_Speech_Video_Synthesis_WACV_2024_paper.html)|-|
 |2024|WACV|Audio|[RADIO: Reference-Agnostic Dubbing Video Synthesis](https://openaccess.thecvf.com/content/WACV2024/html/Lee_RADIO_Reference-Agnostic_Dubbing_Video_Synthesis_WACV_2024_paper.html)|-|
 |2024|WACV|Audio|[Diff2Lip: Audio Conditioned Diffusion Models for Lip-Synchronization](https://openaccess.thecvf.com/content/WACV2024/html/Mukhopadhyay_Diff2Lip_Audio_Conditioned_Diffusion_Models_for_Lip-Synchronization_WACV_2024_paper.html)|[Code](https://soumik-kanad.github.io/diff2lip)|
+|2024|CVPR|Text|[Faces that Speak: Jointly Synthesising Talking Face and Speech from Text](https://arxiv.org/pdf/2405.10272)|[Code](https://mm.kaist.ac.kr/projects/faces-that-speak)|
 |2024|CVPR|3D Model|[SyncTalk: The Devil is in the Synchronization for Talking Head Synthesis](https://arxiv.org/abs/2311.17590)|[Code](https://github.com/ZiqiaoPeng/SyncTalk)|
 |2024|CVPR|3D Model|[Learning Dynamic Tetrahedra for High-Quality Talking Head Synthesis](https://arxiv.org/abs/2402.17364)|[Code](https://github.com/zhangzc21/DynTet)|
 |2024|AAAI|3D Model|[AE-NeRF: Audio Enhanced Neural Radiance Field for Few Shot Talking Head Synthesis](https://ojs.aaai.org/index.php/AAAI/article/view/28086)|-|
