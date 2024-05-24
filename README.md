@@ -441,50 +441,49 @@ This work presents a detailed survey on generation and detection tasks about fac
 ### Body Animation
 |Year|Venue|Paper Title|Code|
 |:-:|:-:|-|-|
-|2024|arXiv|Large Motion Model for Unified Multi-Modal Motion Generation|[Code](https://mingyuan-zhang.github.io/projects/LMM.html)|
-|2024|arXiv|Champ: Controllable and Consistent Human Image Animation with 3D Parametric Guidance|[Code](https://fudan-generative-vision.github.io/champ)|
-|2024|arXiv|Champ: Controllable and Consistent Human Image Animation with 3D Parametric Guidance|[Code](https://fudan-generative-vision.github.io/champ/#/)|
-|2024|AAAI|PTUS: Photo-Realistic Talking Upper-Body Synthesis via 3D-Aware Motion Decomposition Warping|[Code](https://github.com/cooluoluo/PTUS)|
-|2024|CVPR|Emotional Speech-driven 3D Body Animation via Disentangled Latent Diffusion|[Code](https://amuse.is.tue.mpg.de/)|
-|2024|CVPR|DISCO: Disentangled Control for Realistic Human Dance Generation|[Code](https://disco-dance.github.io/)|
-|2024|CVPR|MagicAnimate: Temporally Consistent Human Image Animation using Diffusion Model|[Code](https://showlab.github.io/magicanimate)|
-|2024|CVPR|GaussianAvatar: Towards Realistic Human Avatar Modeling from a Single Video via Animatable 3D Gaussians|[Code](https://huliangxiao.github.io/GaussianAvatar)|
-|2023|arXiv|TADA! Text to Animatable Digital Avatars|[Code](https://tada.is.tue.mpg.de/)|
-|2023|WACV|Physically Plausible Animation of Human Upper Body From a Single Image|-|
-|2023|ICCV|Towards Multi-Layered 3D Garments Animation|[Code](www.mmlab-ntu.com/project/layersnet/index.html)|
-|2023|ICCV|Make-An-Animation: Large-Scale Text-conditional 3D Human Motion Generation|[Code](https://azadis.github.io/make-an-animation/)|
-|2023|CVPR|Learning anchor transformations for 3d garment animation|-|
-|2022|IJCAI|Text/Speech-Driven Full-Body Animation|[Code](https://github.com/YadiraF/SCARF)|
-|2022|SIGGRAPH|Capturing and Animation of Body and Clothing from Monocular Video|-|
-|2022|NeurIPS|CageNeRF: Cage-based Neural Radiance Field for Generalized 3D Deformation and Animation|[Code](https://pengyicong.github.io/CageNeRF/)|
+|2024|arXiv|[Large Motion Model for Unified Multi-Modal Motion Generation](https://arxiv.org/abs/2404.01284)|[Code](https://mingyuan-zhang.github.io/projects/LMM.html)|
+|2024|arXiv|[Champ: Controllable and Consistent Human Image Animation with 3D Parametric Guidance](https://arxiv.org/abs/2403.14781)|[Code](https://fudan-generative-vision.github.io/champ)|
+|2024|AAAI|[PTUS: Photo-Realistic Talking Upper-Body Synthesis via 3D-Aware Motion Decomposition Warping](https://ojs.aaai.org/index.php/AAAI/article/view/28131)|[Code](https://github.com/cooluoluo/PTUS)|
+|2024|CVPR|[Emotional Speech-driven 3D Body Animation via Disentangled Latent Diffusion](https://arxiv.org/abs/2312.04466)|[Code](https://amuse.is.tue.mpg.de/)|
+|2024|CVPR|[DISCO: Disentangled Control for Realistic Human Dance Generation](https://arxiv.org/abs/2307.00040)|[Code](https://disco-dance.github.io/)|
+|2024|CVPR|[MagicAnimate: Temporally Consistent Human Image Animation using Diffusion Model](https://arxiv.org/abs/2311.16498)|[Code](https://showlab.github.io/magicanimate)|
+|2024|CVPR|[GaussianAvatar: Towards Realistic Human Avatar Modeling from a Single Video via Animatable 3D Gaussians](https://arxiv.org/abs/2312.02134)|[Code](https://huliangxiao.github.io/GaussianAvatar)|
+|2023|arXiv|[TADA! Text to Animatable Digital Avatars](https://arxiv.org/abs/2308.10899)|[Code](https://tada.is.tue.mpg.de/)|
+|2023|WACV|[Physically Plausible Animation of Human Upper Body From a Single Image](https://openaccess.thecvf.com/content/WACV2023/html/Huang_Physically_Plausible_Animation_of_Human_Upper_Body_From_a_Single_WACV_2023_paper.html)|-|
+|2023|ICCV|[Towards Multi-Layered 3D Garments Animation](http://openaccess.thecvf.com/content/ICCV2023/html/Shao_Towards_Multi-Layered_3D_Garments_Animation_ICCV_2023_paper.html)|[Code](www.mmlab-ntu.com/project/layersnet/index.html)|
+|2023|ICCV|[Make-An-Animation: Large-Scale Text-conditional 3D Human Motion Generation](https://openaccess.thecvf.com/content/ICCV2023/html/Azadi_Make-An-Animation_Large-Scale_Text-conditional_3D_Human_Motion_Generation_ICCV_2023_paper)|[Code](https://azadis.github.io/make-an-animation/)|
+|2023|CVPR|[Learning anchor transformations for 3d garment animation](http://openaccess.thecvf.com/content/CVPR2023/html/Zhao_Learning_Anchor_Transformations_for_3D_Garment_Animation_CVPR_2023_paper.html)|-|
+|2022|IJCAI|[Text/Speech-Driven Full-Body Animation](https://arxiv.org/abs/2205.15573)|[Code](https://github.com/YadiraF/SCARF)|
+|2022|SIGGRAPH|[Capturing and Animation of Body and Clothing from Monocular Video](https://dl.acm.org/doi/abs/10.1145/3550469.3555423)|-|
+|2022|NeurIPS|[CageNeRF: Cage-based Neural Radiance Field for Generalized 3D Deformation and Animation](https://proceedings.neurips.cc/paper_files/paper/2022/hash/cb78e6b5246b03e0b82b4acc8b11cc21-Abstract-Conference.html)|[Code](https://pengyicong.github.io/CageNeRF/)|
 
 ### Makeup Transfer
 |Year|Venue|Paper Title|Code|
 |:-:|:-:|-|-|
-|2024|arXiv|Gorgeous: Create Your Desired Character Facial Makeup from Any Ideas|[Code](https://github.com/JiaWeiSii/gorgeous/)|
-|2024|arXiv|Toward Tiny and High-quality Facial Makeup with Data Amplify Learning|[Code](https://tinybeauty.github.io/TinyBeauty/)|
-|2024|arXiv|Stable-Makeup: When Real-World Makeup Transfer Meets Diffusion Model|-|
-|2024|CVPR|Makeup Prior Models for 3D Facial Makeup Estimation and Applications|[Code](https://yangxingchao.github.io/makeup-priors-page/)|
-|2024|ESWA|ISFB-GAN: Interpretable semantic face beautification with generative adversarial network|-|
-|2024|TVCG|MuNeRF: Robust Makeup Transfer in Neural Radiance Fields|-|
-|2024|ICASSP|Skin tone disentanglement in 2D makeup transfer with graph neural networks|-|
-|2024|WACV|LipAT: Beyond Style Transfer for Controllable Neural Simulation of Lipstick Using Cosmetic Attributes|-|
-|2023|arXiv|SARA: Controllable Makeup Transfer with Spatial Alignment and Region-Adaptive Normalization|-|
-|2023|TNNLS|SSAT++: A Semantic-Aware and Versatile Makeup Transfer Network With Local Color Consistency Constraint|[Code](https://gitee.com/sunzhaoyang0304/ssat-msp)|
-|2023|CVPR|BeautyREC: Robust, Efficient, and Component-Specific Makeup Transfer|[Code](https://li-chongyi.github.io/BeautyREC_files/)|
-|2023|TCSVT|Hybrid Transformers with Attention-guided Spatial Embeddings for Makeup Transfer and Removal|-|
-|2022|ICCV|EleGANt: Exquisite and Locally Editable GAN for Makeup Transfer|[Code](https://github.com/Chenyu-Yang-2000/EleGANt)|
-|2022|AAAI|SSAT: A Symmetric Semantic-Aware Transformer Network for Makeup Transfer and Removal|[Code](https://gitee.com/sunzhaoyang0304/ssat-msp)|
-|2022|Knowledge-Based Systems|TSEV-GAN: Generative Adversarial Networks with Target-aware Style Encoding and Verification for facial makeup transfer|-|
-|2022|Knowledge-Based Systems|CUMTGAN: An instance-level controllable U-Net GAN for facial makeup transfer|-|
-|2021|CVPR|Lipstick ain’t enough: beyond color matching for in-the-wild makeup|[Code](https://github.com/VinAIResearch/CPM)|
-|2021|T-PAMI|Psgan++: Robust detail-preserving makeup transfer and removal|[Code](https://github.com/wtjiang98/PSGAN)|
-|2020|CVPR|PSGAN: Pose and Expression Robust Spatial-Aware GAN for Customizable Makeup Transfer|[Code](https://github.com/wtjiang98/PSGAN)|
-|2019|CVPR|Beautyglow : On-demand makeup transfer framework with reversible generative network|[Code](https://github.com/BeautyGlow/BeautyGlow.github.io)|
-|2019|ICCV|Ladn: Local adversarial disentangling network for facial makeup and de-makeup|[Code](https://georgegu1997.github.io/LADN-projectpage)|
-|2018|ACM MM|BeautyGAN: Instance-level Facial Makeup Transfer with Deep Generative Adversarial Network|[Code](http://liusi-group.com/projects/BeautyGAN )|
-|2018|CVPR|Pairedcyclegan: Asymmetric style transfer for applying and removing makeup|-|
-|2017|AAAI|Examples-rules guided deep neural network for makeup recommendation|-|
+|2024|arXiv|[Gorgeous: Create Your Desired Character Facial Makeup from Any Ideas](https://arxiv.org/abs/2404.13944)|[Code](https://github.com/JiaWeiSii/gorgeous/)|
+|2024|arXiv|[Toward Tiny and High-quality Facial Makeup with Data Amplify Learning](https://arxiv.org/abs/2403.15033)|[Code](https://tinybeauty.github.io/TinyBeauty/)|
+|2024|arXiv|[Stable-Makeup: When Real-World Makeup Transfer Meets Diffusion Model](https://arxiv.org/abs/2403.07764)|-|
+|2024|CVPR|[Makeup Prior Models for 3D Facial Makeup Estimation and Applications](https://arxiv.org/abs/2403.17761)|[Code](https://yangxingchao.github.io/makeup-priors-page/)|
+|2024|ESWA|[ISFB-GAN: Interpretable semantic face beautification with generative adversarial network](https://www.sciencedirect.com/science/article/pii/S0957417423016330)|-|
+|2024|TVCG|[MuNeRF: Robust Makeup Transfer in Neural Radiance Fields](https://ieeexplore.ieee.org/abstract/document/10443587/)|-|
+|2024|ICASSP|[Skin tone disentanglement in 2D makeup transfer with graph neural networks](https://ieeexplore.ieee.org/abstract/document/10446354/)|-|
+|2024|WACV|[LipAT: Beyond Style Transfer for Controllable Neural Simulation of Lipstick Using Cosmetic Attributes](https://openaccess.thecvf.com/content/WACV2024/html/Silva_LipAT_Beyond_Style_Transfer_for_Controllable_Neural_Simulation_of_Lipstick_WACV_2024_paper.html)|-|
+|2023|arXiv|[SARA: Controllable Makeup Transfer with Spatial Alignment and Region-Adaptive Normalization](https://arxiv.org/abs/2311.16828)|-|
+|2023|TNNLS|[SSAT++: A Semantic-Aware and Versatile Makeup Transfer Network With Local Color Consistency Constraint](https://ieeexplore.ieee.org/abstract/document/10328655/)|[Code](https://gitee.com/sunzhaoyang0304/ssat-msp)|
+|2023|CVPR|[BeautyREC: Robust, Efficient, and Component-Specific Makeup Transfer](https://openaccess.thecvf.com/content/CVPR2023W/NTIRE/html/Yan_BeautyREC_Robust_Efficient_and_Component-Specific_Makeup_Transfer_CVPRW_2023_paper.html)|[Code](https://li-chongyi.github.io/BeautyREC_files/)|
+|2023|TCSVT|[Hybrid Transformers with Attention-guided Spatial Embeddings for Makeup Transfer and Removal](https://ieeexplore.ieee.org/abstract/document/10247199/)|-|
+|2022|ICCV|[EleGANt: Exquisite and Locally Editable GAN for Makeup Transfer](https://link.springer.com/chapter/10.1007/978-3-031-19787-1_42)|[Code](https://github.com/Chenyu-Yang-2000/EleGANt)|
+|2022|AAAI|[SSAT: A Symmetric Semantic-Aware Transformer Network for Makeup Transfer and Removal](https://ojs.aaai.org/index.php/AAAI/article/view/20131)|[Code](https://gitee.com/sunzhaoyang0304/ssat-msp)|
+|2022|Knowledge-Based Systems|[TSEV-GAN: Generative Adversarial Networks with Target-aware Style Encoding and Verification for facial makeup transfer](https://www.sciencedirect.com/science/article/pii/S0950705122010516)|-|
+|2022|Knowledge-Based Systems|[CUMTGAN: An instance-level controllable U-Net GAN for facial makeup transfer](https://www.sciencedirect.com/science/article/pii/S0950705122004816)|-|
+|2021|CVPR|[Lipstick ain’t enough: beyond color matching for in-the-wild makeup](http://openaccess.thecvf.com/content/CVPR2021/html/Nguyen_Lipstick_Aint_Enough_Beyond_Color_Matching_for_In-the-Wild_Makeup_Transfer_CVPR_2021_paper.html)|[Code](https://github.com/VinAIResearch/CPM)|
+|2021|T-PAMI|[Psgan++: Robust detail-preserving makeup transfer and removal](https://ieeexplore.ieee.org/abstract/document/9440729/)|[Code](https://github.com/wtjiang98/PSGAN)|
+|2020|CVPR|[PSGAN: Pose and Expression Robust Spatial-Aware GAN for Customizable Makeup Transfer](http://openaccess.thecvf.com/content_CVPR_2020/html/Jiang_PSGAN_Pose_and_Expression_Robust_Spatial-Aware_GAN_for_Customizable_Makeup_CVPR_2020_paper.html)|[Code](https://github.com/wtjiang98/PSGAN)|
+|2019|CVPR|[Beautyglow : On-demand makeup transfer framework with reversible generative network](http://openaccess.thecvf.com/content_CVPR_2019/html/Chen_BeautyGlow_On-Demand_Makeup_Transfer_Framework_With_Reversible_Generative_Network_CVPR_2019_paper.html)|[Code](https://github.com/BeautyGlow/BeautyGlow.github.io)|
+|2019|ICCV|[Ladn: Local adversarial disentangling network for facial makeup and de-makeup](http://openaccess.thecvf.com/content_ICCV_2019/html/Gu_LADN_Local_Adversarial_Disentangling_Network_for_Facial_Makeup_and_De-Makeup_ICCV_2019_paper.html)|[Code](https://georgegu1997.github.io/LADN-projectpage)|
+|2018|ACM MM|[BeautyGAN: Instance-level Facial Makeup Transfer with Deep Generative Adversarial Network](https://dl.acm.org/doi/abs/10.1145/3240508.3240618)|[Code](http://liusi-group.com/projects/BeautyGAN )|
+|2018|CVPR|[Pairedcyclegan: Asymmetric style transfer for applying and removing makeup](http://openaccess.thecvf.com/content_cvpr_2018/html/Chang_PairedCycleGAN_Asymmetric_Style_CVPR_2018_paper.html)|-|
+|2017|AAAI|[Examples-rules guided deep neural network for makeup recommendation](https://ojs.aaai.org/index.php/AAAI/article/view/10626)|-|
 
 
 ## Cite The Survey
