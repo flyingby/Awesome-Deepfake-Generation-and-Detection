@@ -87,7 +87,7 @@ This work presents a detailed survey on generation and detection tasks about fac
 |2024|arXiv|Difussion|[Face Swap via Diffusion Model](https://arxiv.org/abs/2403.01108)|-|
 |2024|arXiv|Difussion|[Towards a Simultaneous and Granular Identity-Expression Control in Personalized Face Generation](https://arxiv.org/abs/2401.01207)|[Code](https://diffsfsr.github.io/)|
 |2024|arXiv|GANs|[E4S: Fine-grained Face Swapping via Editing With Regional GAN Inversion](https://arxiv.org/abs/2310.15081)|[Code](https://e4s2024.github.io/)|
-|2024|TPAMI|GANs|[Learning Disentangled Representation for One-Shot Progressive Face Swapping](https://ieeexplore.ieee.org/abstract/document/10536627)|[Code](https://github.com/liqi-casia/FaceSwapper)|
+|2024|T-PAMI|GANs|[Learning Disentangled Representation for One-Shot Progressive Face Swapping](https://ieeexplore.ieee.org/abstract/document/10536627)|[Code](https://github.com/liqi-casia/FaceSwapper)|
 |2024|ICIP|Graphic|[RID-TWIN: An end-to-end pipeline for automatic face de-identification in videos](https://arxiv.org/abs/2403.10058)|[Code](https://github.com/AnirbanMukherjeeXD/RID-Twin)|
 |2024|TCSVT|VAE|[Identity-Aware Variational Autoencoder for Face Swapping](https://ieeexplore.ieee.org/abstract/document/10380597/)|-|
 |2024|ICASSP|GANs+3D|[Attribute-Aware Head Swapping Guided by 3d Modeling](https://ieeexplore.ieee.org/abstract/document/10446993)|-|
@@ -137,6 +137,7 @@ This work presents a detailed survey on generation and detection tasks about fac
 ### Face Reenactment
 |Year|Venue|Paper Title|Code|
 |:-:|:-:|-|-|
+|2024|arXiv|[VOODOO XP: Expressive One-Shot Head Reenactment for VR Telepresence](https://arxiv.org/abs/2405.16204)|-|
 |2024|arXiv|[Face Adapter for Pre-Trained Diffusion Models with Fine-Grained ID and Attribute Control](https://arxiv.org/abs/2405.12970)|[Code](https://faceadapter.github.io/face-adapter.github.io/)|
 |2024|arXiv|[3DFlowRenderer: One-shot Face Re-enactment via Dense 3D Facial Flow Estimation](https://arxiv.org/abs/2404.14667)|[Code](https://export3d.github.io/)|
 |2024|arXiv|[Export3D: Learning to Generate Conditional Tri-plane for 3D-aware Expression-Controllable Portrait Animation](https://arxiv.org/abs/2404.00636)|[Code](https://export3d.github.io/)|
@@ -224,6 +225,7 @@ This work presents a detailed survey on generation and detection tasks about fac
 |2024|CVPR|Text|[Faces that Speak: Jointly Synthesising Talking Face and Speech from Text](https://arxiv.org/pdf/2405.10272)|[Code](https://mm.kaist.ac.kr/projects/faces-that-speak)|
 |2024|CVPR|3D Model|[SyncTalk: The Devil is in the Synchronization for Talking Head Synthesis](https://arxiv.org/abs/2311.17590)|[Code](https://github.com/ZiqiaoPeng/SyncTalk)|
 |2024|CVPR|3D Model|[Learning Dynamic Tetrahedra for High-Quality Talking Head Synthesis](https://arxiv.org/abs/2402.17364)|[Code](https://github.com/zhangzc21/DynTet)|
+|2024|CVPRW|3D Model|[NeRFFaceSpeech: One-shot Audio-driven 3D Talking Head Synthesis via Generative Prior](http://arxiv.org/abs/2405.05749v2)|[Code](https://github.com/rlgnswk/NeRFFaceSpeech_Code/)|
 |2024|AAAI|3D Model|[AE-NeRF: Audio Enhanced Neural Radiance Field for Few Shot Talking Head Synthesis](https://ojs.aaai.org/index.php/AAAI/article/view/28086)|-|
 |2024|AAAI|3D Model|[Mimic: Speaking Style Disentanglement for Speech-Driven 3D Facial Animation](https://ojs.aaai.org/index.php/AAAI/article/view/27945) |[Code](https://github.com/huifu99/Mimic)|
 |2024|AAAI|Audio|[Style2Talker: High-Resolution Talking Head Generation with Emotion Style and Art Style](https://ojs.aaai.org/index.php/AAAI/article/view/28313)|-|
@@ -324,6 +326,7 @@ This work presents a detailed survey on generation and detection tasks about fac
 |2024|arXiv|Space Domain|[Band-Attention Modulated RetNet for Face Forgery Detection](https://arxiv.org/abs/2404.06022)|-|
 |2024|arXiv|Space Domain|[Diffusion Facial Forgery Detection](https://arxiv.org/abs/2401.15859)|-|
 |2024|arXiv|Space Domain|[Masked Conditional Diffusion Model for Enhancing Deepfake Detection](https://arxiv.org/abs/2402.00541)|-|
+|2024|IJCV|Frequency Domain|[WATCHER: Wavelet-Guided Texture-Content Hierarchical Relation Learning for Deepfake Detection](https://link.springer.com/article/10.1007/s11263-024-02116-5)|-|
 |2024|IJCV|Frequency Domain|[SA<sup>3</sup>WT: Adaptive Wavelet-Based Transformer with Self-Paced Auto Augmentation for Face Forgery Detection](https://link.springer.com/article/10.1007/s11263-024-02091-x)|-|
 |2024|ICME|Space Domain|[Counterfactual Explanations for Face Forgery Detection via Adversarial Removal of Artifacts](https://arxiv.org/abs/2404.08341)|[Code](https://github.com/yangli-lab/Artifact-Eraser/)|
 |2024|TPAMI|Multi-Modal|[Detecting and Grounding Multi-Modal Media Manipulation and Beyond](https://ieeexplore.ieee.org/abstract/document/10440475/)|[Code](https://github.com/rshaojimmy/MultiModal-DeepFake)|
