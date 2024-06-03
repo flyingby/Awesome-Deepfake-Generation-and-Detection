@@ -24,7 +24,7 @@
     <a href="https://scholar.google.com.hk/citations?user=RwlJNLcAAAAJ&hl=zh-CN&oi=ao"><strong>Dacheng Tao</strong><sup>6</sup></a>
 </p>
 <p align="center">
-    <sup>1</sup>East China Normal University</strong>  &nbsp;&nbsp;&nbsp; <sup>2</sup>Youtu Lab, Tencent</strong> &nbsp;&nbsp;&nbsp; <sup>3</sup>Nanjing University &nbsp;&nbsp;&nbsp; <sup>4</sup>Shanghai Jiao Tong University</strong>
+    <sup>1</sup>East China Normal University</strong>  &nbsp;&nbsp;&nbsp; <sup>2</sup>Youtu Lab, Tencent</strong> &nbsp;&nbsp;&nbsp; <sup>3</sup>Nanjing University,Suzhou &nbsp;&nbsp;&nbsp; <sup>4</sup>Shanghai Jiao Tong University</strong>
     <br>
     <sup>5</sup>Zhejiang University   &nbsp;&nbsp;&nbsp; <sup>6</sup>Nanyang Technological University
     
