@@ -7,7 +7,7 @@
     .
     <a href="https://zhangzjn.github.io/"><strong>Jiangning Zhang <sup>2</sup><sup>*</sup></strong></a>
     .
-    <a href="https://scholar.google.com.hk/citations?user=8-Vo9cUAAAAJ&hl=zh-CN"><strong>Menghan Hu</strong><sup>1</sup></a>
+    <a href="https://scholar.google.com.hk/citations?user=8-Vo9cUAAAAJ&hl=zh-CN"><strong>Menghan Hu<sup>1</sup></strong></a>
     .
     <a href="https://scholar.google.com.hk/citations?hl=zh-CN&user=4daxK2AAAAAJ"><strong>Zhenyu Zhang<sup>3</sup></strong></a>
     .
