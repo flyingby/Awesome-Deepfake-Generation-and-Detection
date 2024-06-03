@@ -3,26 +3,30 @@
 <img width="765" alt="image" src="assets/title.png">
      </a>
    <p align="center">
-    <a href="https://scholar.google.com.hk/citations?user=1yhGS5sAAAAJ&hl=zh-CN"><strong>Gan Pei <sup>*</sup></strong></a>
+    <a href="https://scholar.google.com.hk/citations?user=1yhGS5sAAAAJ&hl=zh-CN"><strong>Gan Pei <sup>*</sup></strong><sup>1</sup></a>
     .
-    <a href="https://zhangzjn.github.io/"><strong>Jiangning Zhang <sup>*</strong></a>
+    <a href="https://zhangzjn.github.io/"><strong>Jiangning Zhang <sup>*</strong><sup>2</sup></a>
     .
-    <a href="https://scholar.google.com.hk/citations?user=8-Vo9cUAAAAJ&hl=zh-CN"><strong>Menghan Hu</strong></a>
+    <a href="https://scholar.google.com.hk/citations?user=8-Vo9cUAAAAJ&hl=zh-CN"><strong>Menghan Hu</strong><sup>1</sup></a>
     .
-    <a href="https://scholar.google.com.hk/citations?hl=zh-CN&user=4daxK2AAAAAJ"><strong>Zhenyu Zhang</strong></a>
+    <a href="https://scholar.google.com.hk/citations?hl=zh-CN&user=4daxK2AAAAAJ"><strong>Zhenyu Zhang</strong><sup>3</sup></a>
     .
-    <a href="https://scholar.google.com.hk/citations?hl=zh-CN&user=fqte5H4AAAAJ"><strong>Chengjie Wang</strong></a>
+    <a href="https://scholar.google.com.hk/citations?hl=zh-CN&user=fqte5H4AAAAJ"><strong>Chengjie Wang</strong><sup>2</sup></a>
     .
-    <a href="https://github.com/flyingby/Awesome-Deepfake-Generation-and-Detection"><strong>Yunsheng Wu</strong></a>.
+    <a href="https://github.com/flyingby/Awesome-Deepfake-Generation-and-Detection"><strong>Yunsheng Wu</strong><sup>2</sup></a>.
     <p align="center">
-    <a href="https://scholar.google.com.hk/citations?user=E6zbSYgAAAAJ&hl=zh-CN"><strong>Guangtao Zhai</strong></a>
+    <a href="https://scholar.google.com.hk/citations?user=E6zbSYgAAAAJ&hl=zh-CN"><strong>Guangtao Zhai</strong><sup>4</sup></a>
     .
-    <a href="https://scholar.google.com.hk/citations?hl=zh-CN&user=6CIDtZQAAAAJ"><strong>Jian Yang</strong></a>
+    <a href="https://scholar.google.com.hk/citations?hl=zh-CN&user=6CIDtZQAAAAJ"><strong>Jian Yang</strong><sup>3</sup></a>
     .
-    <a href="https://scholar.google.com.hk/citations?user=Ljk2BvIAAAAJ&hl=zh-CN&oi=ao"><strong>Chunhua Shen</strong></a> 
+    <a href="https://scholar.google.com.hk/citations?user=Ljk2BvIAAAAJ&hl=zh-CN&oi=ao"><strong>Chunhua Shen</strong><sup>5</sup></a> 
     .
-    <a href="https://scholar.google.com.hk/citations?user=RwlJNLcAAAAJ&hl=zh-CN&oi=ao"><strong>Dacheng Tao</strong></a>
+    <a href="https://scholar.google.com.hk/citations?user=RwlJNLcAAAAJ&hl=zh-CN&oi=ao"><strong>Dacheng Tao</strong><sup>6</sup></a>
 </p>
+<p align="center">
+    <sup>1</sup>East China Normal University</strong>  &nbsp;&nbsp;&nbsp; <sup>2</sup>Youtu Lab, Tencent</strong> &nbsp;&nbsp;&nbsp; <sup>3</sup>Nanjing University &nbsp;&nbsp;&nbsp; <sup>4</sup>Shanghai Jiao Tong University</strong>
+    <br>
+    <sup>5</sup>Zhejiang University   &nbsp;&nbsp;&nbsp; <sup>6</sup>Nanyang Technological University
     
 <p align="center">
     <a href='https://arxiv.org/abs/2403.17881'>
