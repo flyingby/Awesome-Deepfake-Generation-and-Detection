@@ -84,6 +84,7 @@ This work presents a detailed survey on generation and detection tasks about fac
 ### Face Swapping
 |Year|Venue|Category|Paper Title|Code|
 |:-:|:-:|:-:|-|-|
+|2024|arXiv|Other|[Rank-based No-reference Quality Assessment for Face Swapping](https://arxiv.org/abs/2406.01884)|-|
 |2024|arXiv|Diffusion|[Face Adapter for Pre-Trained Diffusion Models with Fine-Grained ID and Attribute Control](https://arxiv.org/abs/2405.12970)|[Code](https://faceadapter.github.io/face-adapter.github.io/)|
 |2024|arXiv|3DGS|[ImplicitDeepfake: Plausible Face-Swapping through Implicit Deepfake Generation using NeRF and Gaussian Splatting](https://arxiv.org/abs/2402.06390)|[Code](https://github.com/quereste/implicit-deepfake)|
 |2024|arXiv|GANs|[LatentSwap: An Efficient Latent Code Mapping Framework for Face Swapping](https://arxiv.org/abs/2402.18351)|-|
@@ -184,6 +185,7 @@ This work presents a detailed survey on generation and detection tasks about fac
 ### Talking Face Generation
 |Year|Venue|Category|Paper Title|Code|
 |:-:|:-:|:-:|-|-|
+|2024|arXiv|Audio|[Controllable Talking Face Generation by Implicit Facial Keypoints Editing](https://arxiv.org/pdf/2406.02880)|-|
 |2024|arXiv|Audio|[OpFlowTalker: Realistic and Natural Talking Face Generation via Optical Flow Guidance](https://arxiv.org/pdf/2405.14709)|-|
 |2024|arXiv|Multimodal|[Listen, Disentangle, and Control: Controllable Speech-Driven Talking Head Generation](https://arxiv.org/abs/2405.07257)|[Code](https://anonymous.4open.science/r/SPEAK-F56E)|
 |2024|arXiv|Audio|[AniTalker: Animate Vivid and Diverse Talking Faces through Identity-Decoupled Facial Motion Encoding](https://arxiv.org/abs/2405.03121)|[Code](https://github.com/X-LANCE/AniTalker)|
@@ -208,6 +210,7 @@ This work presents a detailed survey on generation and detection tasks about fac
 |2024|arXiv|Audio|[FaceChain-ImagineID: Freely Crafting High-Fidelity Diverse Talking Faces from Disentangled Audio](https://arxiv.org/abs/2403.01901)|[Code](https://github.com/modelscope/facechain)|
 |2024|arXiv|Audio|[EmoSpeaker: One-shot Fine-grained Emotion-Controlled Talking Face Generation](https://arxiv.org/abs/2402.01422)|[Code](https://peterfanfan.github.io/EmoSpeaker/)|
 |2024|arXiv|Audio|[ReliTalk: Relightable Talking Portrait Generation from a Single Video](https://link.springer.com/article/10.1007/s11263-024-02007-9)|[Code](https://github.com/arthur-qiu/ReliTalk)|
+|2024|TCSVT|Audio|[OSM-Net: One-to-Many One-shot Talking Head Generation with Spontaneous Head Motions](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10510337)|-|
 |2024|IF|3D Model|[ER-NeRF++: Efficient region-aware Neural Radiance Fields for high-fidelity talking portrait synthesis](https://www.sciencedirect.com/science/article/abs/pii/S1566253524002343)|-|
 |2024|ICLR|3D Model|[Real3D-Portrait: One-shot Realistic 3D Talking Portrait Synthesis](https://arxiv.org/abs/2401.08503)|[Code](https://real3dportrait.github.io/)|
 |2024|ICLR|Diffusion|[GAIA: ZERO-SHOT TALKING AVATAR GENERATION](https://arxiv.org/abs/2311.15230)|[Code](https://microsoft.github.io/GAIA)|
@@ -330,6 +333,7 @@ This work presents a detailed survey on generation and detection tasks about fac
 |2024|arXiv|Space Domain|[Band-Attention Modulated RetNet for Face Forgery Detection](https://arxiv.org/abs/2404.06022)|-|
 |2024|arXiv|Space Domain|[Diffusion Facial Forgery Detection](https://arxiv.org/abs/2401.15859)|-|
 |2024|arXiv|Space Domain|[Masked Conditional Diffusion Model for Enhancing Deepfake Detection](https://arxiv.org/abs/2402.00541)|-|
+|2024|CVPR|Multi-Modal|[AVFF: Audio-Visual Feature Fusion for Video Deepfake Detection](https://arxiv.org/abs/2405.00483)|-|
 |2024|IJCV|Frequency Domain|[WATCHER: Wavelet-Guided Texture-Content Hierarchical Relation Learning for Deepfake Detection](https://link.springer.com/article/10.1007/s11263-024-02116-5)|-|
 |2024|IJCV|Frequency Domain|[SA<sup>3</sup>WT: Adaptive Wavelet-Based Transformer with Self-Paced Auto Augmentation for Face Forgery Detection](https://link.springer.com/article/10.1007/s11263-024-02091-x)|-|
 |2024|ICME|Space Domain|[Counterfactual Explanations for Face Forgery Detection via Adversarial Removal of Artifacts](https://arxiv.org/abs/2404.08341)|[Code](https://github.com/yangli-lab/Artifact-Eraser/)|
