@@ -335,6 +335,8 @@ This work presents a detailed survey on generation and detection tasks about fac
 |2024|arXiv|Space Domain|[Diffusion Facial Forgery Detection](https://arxiv.org/abs/2401.15859)|-|
 |2024|arXiv|Space Domain|[Masked Conditional Diffusion Model for Enhancing Deepfake Detection](https://arxiv.org/abs/2402.00541)|-|
 |2024|CVPR|Multi-Modal|[AVFF: Audio-Visual Feature Fusion for Video Deepfake Detection](https://arxiv.org/abs/2405.00483)|-|
+|2024|CVPR|Space Domain|[LAA-Net: Localized Artifact Attention Network for Quality-Agnostic and Generalizable Deepfake Detection](https://openaccess.thecvf.com/content/CVPR2024/html/Nguyen_LAA-Net_Localized_Artifact_Attention_Network_for_Quality-Agnostic_and_Generalizable_Deepfake_CVPR_2024_paper.html)|[Code](https://github.com/10Ring/LAA-Net)|
+|2024|CVPR|Time Domain|[Temporal Surface Frame Anomalies for Deepfake Video Detection](https://openaccess.thecvf.com/content/CVPR2024W/DFAD/html/Ciamarra_Temporal_Surface_Frame_Anomalies_for_Deepfake_Video_Detection_CVPRW_2024_paper.html)|-|
 |2024|IJCV|Frequency Domain|[WATCHER: Wavelet-Guided Texture-Content Hierarchical Relation Learning for Deepfake Detection](https://link.springer.com/article/10.1007/s11263-024-02116-5)|-|
 |2024|IJCV|Frequency Domain|[SA<sup>3</sup>WT: Adaptive Wavelet-Based Transformer with Self-Paced Auto Augmentation for Face Forgery Detection](https://link.springer.com/article/10.1007/s11263-024-02091-x)|-|
 |2024|ICME|Space Domain|[Counterfactual Explanations for Face Forgery Detection via Adversarial Removal of Artifacts](https://arxiv.org/abs/2404.08341)|[Code](https://github.com/yangli-lab/Artifact-Eraser/)|
