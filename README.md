@@ -212,7 +212,7 @@ This work presents a detailed survey on generation and detection tasks about fac
 |2024|arXiv|Diffusion|[Context-aware Talking Face Video Generation](https://arxiv.org/abs/2402.18092)|-|
 |2024|arXiv|Audio|[FaceChain-ImagineID: Freely Crafting High-Fidelity Diverse Talking Faces from Disentangled Audio](https://arxiv.org/abs/2403.01901)|[Code](https://github.com/modelscope/facechain)|
 |2024|arXiv|Audio|[EmoSpeaker: One-shot Fine-grained Emotion-Controlled Talking Face Generation](https://arxiv.org/abs/2402.01422)|[Code](https://peterfanfan.github.io/EmoSpeaker/)|
-|2024|arXiv|Audio|[ReliTalk: Relightable Talking Portrait Generation from a Single Video](https://link.springer.com/article/10.1007/s11263-024-02007-9)|[Code](https://github.com/arthur-qiu/ReliTalk)|
+|2024|IJCV|Audio|[ReliTalk: Relightable Talking Portrait Generation from a Single Video](https://link.springer.com/article/10.1007/s11263-024-02007-9)|[Code](https://github.com/arthur-qiu/ReliTalk)|
 |2024|TCSVT|Audio|[Audio-Semantic Enhanced Pose-Driven Talking Head Generation](https://ieeexplore.ieee.org/abstract/document/10557736)|[Code](https://headproject0.wixsite.com/anonymity)|
 |2024|TCSVT|Audio|[OSM-Net: One-to-Many One-shot Talking Head Generation with Spontaneous Head Motions](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10510337)|-|
 |2024|IF|3D Model|[ER-NeRF++: Efficient region-aware Neural Radiance Fields for high-fidelity talking portrait synthesis](https://www.sciencedirect.com/science/article/abs/pii/S1566253524002343)|-|
