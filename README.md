@@ -186,6 +186,7 @@ This work presents a detailed survey on generation and detection tasks about fac
 ### Talking Face Generation
 |Year|Venue|Category|Paper Title|Code|
 |:-:|:-:|:-:|-|-|
+|2024|arXiv|Audio|[RealTalk: Real-time and Realistic Audio-driven Face Generation with 3D Facial Prior-guided Identity Alignment Network](https://arxiv.org/abs/2406.18284)|-|
 |2024|arXiv|3D Model|[NLDF: Neural Light Dynamic Fields for Efficient 3D Talking Head Generation](https://arxiv.org/pdf/2406.11259)|-|
 |2024|arXiv|Audio|[Emotional Conversation: Empowering Talking Faces with Cohesive Expression, Gaze and Pose Generation](https://arxiv.org/abs/2406.07895)|-|
 |2024|arXiv|Audio|[Controllable Talking Face Generation by Implicit Facial Keypoints Editing](https://arxiv.org/pdf/2406.02880)|-|
