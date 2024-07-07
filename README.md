@@ -206,12 +206,10 @@ This work presents a detailed survey on generation and detection tasks about fac
 |2024|arXiv|Audio|[VLOGGER: Multimodal Diffusion for Embodied Avatar Synthesis](https://arxiv.org/abs/2403.08764)|[Code](https://enriccorona.github.io/vlogger/)|
 |2024|arXiv|Audio|[AniPortrait: Audio-Driven Synthesis of Photorealistic Portrait Animations](https://arxiv.org/abs/2403.17694)|[Code](https://github.com/Zejun-Yang/AniPortrait)|
 |2024|arXiv|Audio|[EDTalk: Efficient Disentanglement for Emotional Talking Head Synthesis](https://arxiv.org/abs/2404.01647)|[Code](https://tanshuai0219.github.io/EDTalk/)|
-|2024|arXiv|Audio|[FlowVQTalker: High-Quality Emotional Talking Face Generation through Normalizing Flow and Quantization](https://arxiv.org/abs/2403.06375)|-|
 |2024|arXiv|Audio|[Talk3D: High-Fidelity Talking Portrait Synthesis via Personalized 3D Generative Prior](https://arxiv.org/abs/2403.20153)|[Code](https://ku-cvlab.github.io/Talk3D/)|
 |2024|arXiv|Diffusion|[MoDiTalker: Motion-Disentangled Diffusion Model for High-Fidelity Talking Head Generation](https://arxiv.org/abs/2403.19144)|-|
 |2024|arXiv|Audio|[EmoVOCA: Speech-Driven Emotional 3D Talking Heads](https://arxiv.org/abs/2403.12886)|-|
 |2024|arXiv|Diffusion|[Context-aware Talking Face Video Generation](https://arxiv.org/abs/2402.18092)|-|
-|2024|arXiv|Audio|[FaceChain-ImagineID: Freely Crafting High-Fidelity Diverse Talking Faces from Disentangled Audio](https://arxiv.org/abs/2403.01901)|[Code](https://github.com/modelscope/facechain)|
 |2024|arXiv|Audio|[EmoSpeaker: One-shot Fine-grained Emotion-Controlled Talking Face Generation](https://arxiv.org/abs/2402.01422)|[Code](https://peterfanfan.github.io/EmoSpeaker/)|
 |2024|IJCV|Audio|[ReliTalk: Relightable Talking Portrait Generation from a Single Video](https://link.springer.com/article/10.1007/s11263-024-02007-9)|[Code](https://github.com/arthur-qiu/ReliTalk)|
 |2024|TCSVT|Audio|[Audio-Semantic Enhanced Pose-Driven Talking Head Generation](https://ieeexplore.ieee.org/abstract/document/10557736)|[Code](https://headproject0.wixsite.com/anonymity)|
@@ -234,6 +232,8 @@ This work presents a detailed survey on generation and detection tasks about fac
 |2024|WACV|Audio|[DR2: Disentangled Recurrent Representation Learning for Data-Efficient Speech Video Synthesis](https://openaccess.thecvf.com/content/WACV2024/html/Zhang_DR2_Disentangled_Recurrent_Representation_Learning_for_Data-Efficient_Speech_Video_Synthesis_WACV_2024_paper.html)|-|
 |2024|WACV|Audio|[RADIO: Reference-Agnostic Dubbing Video Synthesis](https://openaccess.thecvf.com/content/WACV2024/html/Lee_RADIO_Reference-Agnostic_Dubbing_Video_Synthesis_WACV_2024_paper.html)|-|
 |2024|WACV|Audio|[Diff2Lip: Audio Conditioned Diffusion Models for Lip-Synchronization](https://openaccess.thecvf.com/content/WACV2024/html/Mukhopadhyay_Diff2Lip_Audio_Conditioned_Diffusion_Models_for_Lip-Synchronization_WACV_2024_paper.html)|[Code](https://soumik-kanad.github.io/diff2lip)|
+|2024|CVPR|Diffusion|[DiffTED: One-shot Audio-driven TED Talk Video Generation with Diffusion-based Co-speech Gestures](https://openaccess.thecvf.com/content/CVPR2024W/HuMoGen/html/Hogue_DiffTED_One-shot_Audio-driven_TED_Talk_Video_Generation_with_Diffusion-based_Co-speech_CVPRW_2024_paper.html)|-|
+|2024|CVPR|Audio|[FaceChain-ImagineID: Freely Crafting High-Fidelity Diverse Talking Faces from Disentangled Audio](https://arxiv.org/abs/2403.01901)|[Code](https://github.com/modelscope/facechain)|
 |2024|CVPR|Audio|[FlowVQTalker: High-Quality Emotional Talking Face Generation through Normalizing Flow and Quantization](https://openaccess.thecvf.com/content/CVPR2024/html/Tan_FlowVQTalker_High-Quality_Emotional_Talking_Face_Generation_through_Normalizing_Flow_and_CVPR_2024_paper.html)|-|
 |2024|CVPR|Text|[Faces that Speak: Jointly Synthesising Talking Face and Speech from Text](https://arxiv.org/pdf/2405.10272)|[Code](https://mm.kaist.ac.kr/projects/faces-that-speak)|
 |2024|CVPR|3D Model|[SyncTalk: The Devil is in the Synchronization for Talking Head Synthesis](https://arxiv.org/abs/2311.17590)|[Code](https://github.com/ZiqiaoPeng/SyncTalk)|
@@ -280,21 +280,21 @@ This work presents a detailed survey on generation and detection tasks about fac
 ### Facial Attribute Editing
 |Year|Venue|Category|Paper Title|Code|
 |:-:|:-:|:-:|-|-|
+|2024|arXiv|Diffusion|[Zero-shot Image Editing with Reference Imitation](https://arxiv.org/abs/2406.07547)|[Code](https://xavierchen34.github.io/MimicBrush-Page)|
 |2024|arXiv|Diffusion|[Face2Face: Label-driven Facial Retouching Restoration](https://arxiv.org/abs/2404.14177)|-|
 |2024|arXiv|Diffusion|[FlashFace: Human Image Personalization with High-fidelity Identity Preservation](https://arxiv.org/abs/2403.17008)|[Code](https://jshilong.github.io/flashface-page)|
 |2024|arXiv|NeRF|[Fast Text-to-3D-Aware Face Generation and Manipulation via Direct Cross-modal Mapping and Geometric Regularization](https://arxiv.org/abs/2403.06702)|[Code](https://github.com/Aria-Zhangjl/E3-FaceNet)|
 |2024|arXiv|GANs|[GANTASTIC: GAN-based Transfer of Interpretable Directions for Disentangled Image Editing in Text-to-Image Diffusion Models](https://arxiv.org/abs/2403.19645)|[Code](https://gantastic.github.io/)|
-|2024|arXiv|Diffusion|[DreamSalon: A Staged Diffusion Framework for Preserving Identity-Context in Editable Face Generation](https://arxiv.org/abs/2403.19235)|-|
 |2024|arXiv|GANs|[S3Editor: A Sparse Semantic-Disentangled Self-Training Framework for Face Video Editing](https://arxiv.org/abs/2404.08111)|-|
 |2024|arXiv|GANs|[Reference-Based 3D-Aware Image Editing with Triplane](https://ui.adsabs.harvard.edu/abs/2024arXiv240403632B/abstract)|[Code](https://three-bee.github.io/triplane_edit)|
 |2024|arXiv|GANs|[3D-aware Image Generation and Editing with Multi-modal Conditions](https://arxiv.org/abs/2403.06470)|-|
 |2024|arXiv|3DGS|[View-Consistent 3D Editing with Gaussian Splatting](https://arxiv.org/abs/2403.11868)|-|
 |2024|arXiv|GANs|[Reference-Based 3D-Aware Image Editing with Triplane](https://ui.adsabs.harvard.edu/abs/2024arXiv240403632B/abstract)|-|
 |2024|arXiv|GANs|[SeFFeC: Semantic Facial Feature Control for Fine-grained Face Editing](https://arxiv.org/abs/2403.13972)|-|
-|2024|arXiv|NeRF|[GeneAvatar: Generic Expression-Aware Volumetric Head Avatar Editing from a Single Image](https://arxiv.org/abs/2404.02152)|[Code](https://zju3dv.github.io/geneavatar/)|
-|2024|arXiv|GANs|[Skull-to-Face: Anatomy-Guided 3D Facial Reconstruction and Editing](https://arxiv.org/abs/2403.16207)|[Code](https://xmlyqing00.github.io/skull-to-face-page/)|
 |2024|arXiv|Diffusion|[DiffFAE: Advancing High-fidelity One-shot Facial Appearance Editing with Space-sensitive Customization and Semantic Preservation](https://arxiv.org/abs/2403.17664)|-|
-|2024|arXiv|Diffusion|[DreamSalon: A Staged Diffusion Framework for Preserving Identity-Context in Editable Face Generation](https://arxiv.org/abs/2403.19235)|-|
+|2024|arXiv|GANs|[Skull-to-Face: Anatomy-Guided 3D Facial Reconstruction and Editing](https://arxiv.org/abs/2403.16207)|[Code](https://xmlyqing00.github.io/skull-to-face-page/)|
+|2024|CVPR|NeRF|[GeneAvatar: Generic Expression-Aware Volumetric Head Avatar Editing from a Single Image](https://arxiv.org/abs/2404.02152)|[Code](https://zju3dv.github.io/geneavatar/)|
+|2024|CVPR|Diffusion|[DreamSalon: A Staged Diffusion Framework for Preserving Identity-Context in Editable Face Generation](https://arxiv.org/abs/2403.19235)|-|
 |2024|T-CSVT|GANs|[Interactive Generative Adversarial Networks with High-Frequency Compensation for Facial Attribute Editing](https://ieeexplore.ieee.org/abstract/document/10505299/)|-|
 |2024|ICIGP|GANs|[A novel method for facial attribute editing by integrating semantic segmentation and color rendering](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/13089/130890A/A-novel-method-for-facial-attribute-editing-by-integrating-semantic/10.1117/12.3021236.short)|-|
 |2024|Information Sciences|GANs|[ICGNet: An intensity-controllable generation network based on covering learning for face attribute synthesis](https://www.sciencedirect.com/science/article/pii/S0020025524000434)|[Code](https://github.com/kllaodong/-ICGNet)|
@@ -420,8 +420,8 @@ This work presents a detailed survey on generation and detection tasks about fac
 |:-:|:-:|-|-|
 |2024|arXiv|[Towards Real-world Video Face Restoration: A New Benchmark](https://arxiv.org/abs/2404.19500)|[Code](https://ziyannchen.github.io/projects/VFRxBenchmark/)|
 |2024|arXiv|[Efficient Diffusion Model for Image Restoration by Residual Shifting](https://arxiv.org/abs/2403.07319)|[Code](https://github.com/zsyOAOA/ResShift)|
-|2024|arXiv|[PFStorer: Personalized Face Restoration and Super-Resolution](https://arxiv.org/abs/2403.08436)|-|
 |2024|arXiv|[DiffBIR: Towards Blind Image Restoration with Generative Diffusion Prior](https://arxiv.org/abs/2308.15070)|[Code](https://github.com/XPixelGroup/DiffBIR)|
+|2024|CVPR|[PFStorer: Personalized Face Restoration and Super-Resolution](https://arxiv.org/abs/2403.08436)|-|
 |2024|AAAI|[ResDiff: Combining CNN and Diffusion Model for Image Super-Resolution](https://ojs.aaai.org/index.php/AAAI/article/view/28746)|[Code](https://github.com/LYL1015/ResDiff)|
 |2024|AAAI|[Low-Light Face Super-resolution via Illumination, Structure, and Texture Associated Representation](https://ojs.aaai.org/index.php/AAAI/article/view/28339)|[Code](https://github.com/wcy-cs/IC-FSRDENet)|
 |2024|AAAI|[SkipDiff: Adaptive Skip Diffusion Model for High-Fidelity Perceptual Image Super-resolution](https://ojs.aaai.org/index.php/AAAI/article/view/28195)|-|
