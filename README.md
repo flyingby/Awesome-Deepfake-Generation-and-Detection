@@ -186,6 +186,7 @@ This work presents a detailed survey on generation and detection tasks about fac
 ### Talking Face Generation
 |Year|Venue|Category|Paper Title|Code|
 |:-:|:-:|:-:|-|-|
+|2024|arXiv|Audio|[Audio-driven High-resolution Seamless Talking Head Video Editing via StyleGAN](https://arxiv.org/abs/2407.05577)|-|
 |2024|arXiv|Audio|[RealTalk: Real-time and Realistic Audio-driven Face Generation with 3D Facial Prior-guided Identity Alignment Network](https://arxiv.org/abs/2406.18284)|-|
 |2024|arXiv|3D Model|[NLDF: Neural Light Dynamic Fields for Efficient 3D Talking Head Generation](https://arxiv.org/pdf/2406.11259)|-|
 |2024|arXiv|Audio|[Emotional Conversation: Empowering Talking Faces with Cohesive Expression, Gaze and Pose Generation](https://arxiv.org/abs/2406.07895)|-|
@@ -205,12 +206,12 @@ This work presents a detailed survey on generation and detection tasks about fac
 |2024|arXiv|Audio|[Emote Portrait Alive: Generating Expressive Portrait Videos with Audio2Video Diffusion Model under Weak Conditions](https://arxiv.org/abs/2402.17485)|[Code](https://github.com/HumanAIGC/EMO)|
 |2024|arXiv|Audio|[VLOGGER: Multimodal Diffusion for Embodied Avatar Synthesis](https://arxiv.org/abs/2403.08764)|[Code](https://enriccorona.github.io/vlogger/)|
 |2024|arXiv|Audio|[AniPortrait: Audio-Driven Synthesis of Photorealistic Portrait Animations](https://arxiv.org/abs/2403.17694)|[Code](https://github.com/Zejun-Yang/AniPortrait)|
-|2024|arXiv|Audio|[EDTalk: Efficient Disentanglement for Emotional Talking Head Synthesis](https://arxiv.org/abs/2404.01647)|[Code](https://tanshuai0219.github.io/EDTalk/)|
 |2024|arXiv|Audio|[Talk3D: High-Fidelity Talking Portrait Synthesis via Personalized 3D Generative Prior](https://arxiv.org/abs/2403.20153)|[Code](https://ku-cvlab.github.io/Talk3D/)|
 |2024|arXiv|Diffusion|[MoDiTalker: Motion-Disentangled Diffusion Model for High-Fidelity Talking Head Generation](https://arxiv.org/abs/2403.19144)|-|
 |2024|arXiv|Audio|[EmoVOCA: Speech-Driven Emotional 3D Talking Heads](https://arxiv.org/abs/2403.12886)|-|
 |2024|arXiv|Diffusion|[Context-aware Talking Face Video Generation](https://arxiv.org/abs/2402.18092)|-|
 |2024|arXiv|Audio|[EmoSpeaker: One-shot Fine-grained Emotion-Controlled Talking Face Generation](https://arxiv.org/abs/2402.01422)|[Code](https://peterfanfan.github.io/EmoSpeaker/)|
+|2024|ECCV|Audio|[EDTalk: Efficient Disentanglement for Emotional Talking Head Synthesis](https://arxiv.org/abs/2404.01647)|[Code](https://tanshuai0219.github.io/EDTalk/)|
 |2024|IJCV|Audio|[ReliTalk: Relightable Talking Portrait Generation from a Single Video](https://link.springer.com/article/10.1007/s11263-024-02007-9)|[Code](https://github.com/arthur-qiu/ReliTalk)|
 |2024|TCSVT|Audio|[Audio-Semantic Enhanced Pose-Driven Talking Head Generation](https://ieeexplore.ieee.org/abstract/document/10557736)|[Code](https://headproject0.wixsite.com/anonymity)|
 |2024|TCSVT|Audio|[OSM-Net: One-to-Many One-shot Talking Head Generation with Spontaneous Head Motions](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10510337)|-|
@@ -232,6 +233,8 @@ This work presents a detailed survey on generation and detection tasks about fac
 |2024|WACV|Audio|[DR2: Disentangled Recurrent Representation Learning for Data-Efficient Speech Video Synthesis](https://openaccess.thecvf.com/content/WACV2024/html/Zhang_DR2_Disentangled_Recurrent_Representation_Learning_for_Data-Efficient_Speech_Video_Synthesis_WACV_2024_paper.html)|-|
 |2024|WACV|Audio|[RADIO: Reference-Agnostic Dubbing Video Synthesis](https://openaccess.thecvf.com/content/WACV2024/html/Lee_RADIO_Reference-Agnostic_Dubbing_Video_Synthesis_WACV_2024_paper.html)|-|
 |2024|WACV|Audio|[Diff2Lip: Audio Conditioned Diffusion Models for Lip-Synchronization](https://openaccess.thecvf.com/content/WACV2024/html/Mukhopadhyay_Diff2Lip_Audio_Conditioned_Diffusion_Models_for_Lip-Synchronization_WACV_2024_paper.html)|[Code](https://soumik-kanad.github.io/diff2lip)|
+|2024|CVPR|Text|[FaceTalk: Audio-Driven Motion Diffusion for Neural Parametric Head Models](https://openaccess.thecvf.com/content/CVPR2024/html/Aneja_FaceTalk_Audio-Driven_Motion_Diffusion_for_Neural_Parametric_Head_Models_CVPR_2024_paper.html)|[Code](https://shivangi-aneja.github.io/projects/facetalk/)|
+|2024|CVPR|Text|[Faces that Speak: Jointly Synthesising Talking Face and Speech from Text](https://openaccess.thecvf.com/content/CVPR2024/html/Jang_Faces_that_Speak_Jointly_Synthesising_Talking_Face_and_Speech_from_CVPR_2024_paper.html)|[Code](https://mm.kaist.ac.kr/projects/faces-that-speak)|
 |2024|CVPR|Diffusion|[DiffTED: One-shot Audio-driven TED Talk Video Generation with Diffusion-based Co-speech Gestures](https://openaccess.thecvf.com/content/CVPR2024W/HuMoGen/html/Hogue_DiffTED_One-shot_Audio-driven_TED_Talk_Video_Generation_with_Diffusion-based_Co-speech_CVPRW_2024_paper.html)|-|
 |2024|CVPR|Audio|[FaceChain-ImagineID: Freely Crafting High-Fidelity Diverse Talking Faces from Disentangled Audio](https://arxiv.org/abs/2403.01901)|[Code](https://github.com/modelscope/facechain)|
 |2024|CVPR|Audio|[FlowVQTalker: High-Quality Emotional Talking Face Generation through Normalizing Flow and Quantization](https://openaccess.thecvf.com/content/CVPR2024/html/Tan_FlowVQTalker_High-Quality_Emotional_Talking_Face_Generation_through_Normalizing_Flow_and_CVPR_2024_paper.html)|-|
