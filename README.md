@@ -143,12 +143,12 @@ This work presents a detailed survey on generation and detection tasks about fac
 |Year|Venue|Paper Title|Code|
 |:-:|:-:|-|-|
 |2024|arXiv|[VOODOO XP: Expressive One-Shot Head Reenactment for VR Telepresence](https://arxiv.org/abs/2405.16204)|-|
-|2024|arXiv|[Face Adapter for Pre-Trained Diffusion Models with Fine-Grained ID and Attribute Control](https://arxiv.org/abs/2405.12970)|[Code](https://faceadapter.github.io/face-adapter.github.io/)|
 |2024|arXiv|[3DFlowRenderer: One-shot Face Re-enactment via Dense 3D Facial Flow Estimation](https://arxiv.org/abs/2404.14667)|[Code](https://export3d.github.io/)|
 |2024|arXiv|[Export3D: Learning to Generate Conditional Tri-plane for 3D-aware Expression-Controllable Portrait Animation](https://arxiv.org/abs/2404.00636)|[Code](https://export3d.github.io/)|
 |2024|arXiv|[Learning to Generate Conditional Tri-plane for 3D-aware Expression Controllable Portrait Animation](https://arxiv.org/abs/2404.00636)|[Code](https://export3d.github.io/)|
 |2024|arXiv|[Superior and Pragmatic Talking Face Generation with Teacher-Student Framework](https://scholar.google.com.hk/scholar?hl=zh-CN&as_sdt=0%2C5&q=Superior+and+Pragmatic+Talking+Face+Generation+with+Teacher-Student+Framework&btnG=)|[Code](https://superfacelink.github.io/)|
 |2024|arXiv|[DiffusionAct: Controllable Diffusion Autoencoder for One-shot Face Reenactment](https://arxiv.org/abs/2403.17217)|[Code](https://stelabou.github.io/diffusionact/)|
+|2024|ECCV|[Face Adapter for Pre-Trained Diffusion Models with Fine-Grained ID and Attribute Control](https://arxiv.org/abs/2405.12970)|[Code](https://faceadapter.github.io/face-adapter.github.io/)|
 |2024|WACV|[CVTHead: One-shot Controllable Head Avatar with Vertex-feature Transformer](https://openaccess.thecvf.com/content/WACV2024/html/Ma_CVTHead_One-Shot_Controllable_Head_Avatar_With_Vertex-Feature_Transformer_WACV_2024_paper.html)|[Code](https://github.com/HowieMa/CVTHead)|
 |2024|CVPR|[Pose Adapted Shape Learning for Large-Pose Face Reenactment](https://openaccess.thecvf.com/content/CVPR2024/html/Hsu_Pose_Adapted_Shape_Learning_for_Large-Pose_Face_Reenactment_CVPR_2024_paper.html)|[Code](https://github.com/AvLab-CV/PASL)|
 |2024|CVPR|[FSRT: Facial Scene Representation Transformer for Face Reenactment from Factorized Appearance, Head-pose, and Facial Expression Features](https://arxiv.org/abs/2404.09736)|[Code](https://andrerochow.github.io/fsrt)|
