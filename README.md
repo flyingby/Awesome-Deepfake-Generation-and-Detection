@@ -201,7 +201,6 @@ This work presents a detailed survey on generation and detection tasks about fac
 |2024|arXiv|3D Model|[Embedded Representation Learning Network for Animating Styled Video Portrait](https://arxiv.org/abs/2404.19038)|-|
 |2024|arXiv|3D Model|[GaussianTalker: Real-Time High-Fidelity Talking Head Synthesis with Audio-Driven 3D Gaussian Splatting](https://arxiv.org/abs/2404.16012)|[Code](https://ku-cvlab.github.io/GaussianTalker)|
 |2024|arXiv|3D Model|[Learn2Talk: 3D Talking Face Learns from 2D Talking Face](https://arxiv.org/abs/2404.12888)|[Code](https://lkjkjoiuiu.github.io/Learn2Talk/)|
-|2024|arXiv|3D Model|[TalkingGaussian: Structure-Persistent 3D Talking Head Synthesis via Gaussian Splatting](https://arxiv.org/abs/2404.15264)|[Code](https://github.com/Fictionarry/TalkingGaussian)|
 |2024|arXiv|3D Model|[GaussianTalker: Speaker-specific Talking Head Synthesis via 3D Gaussian Splatting](https://arxiv.org/abs/2404.14037)|[Code](https://yuhongyun777.github.io/GaussianTalker/)|
 |2024|arXiv|Audio|[VASA-1: Lifelike Audio-Driven Talking Faces Generated in Real Time](https://arxiv.org/abs/2404.10667)|[Code](https://www.microsoft.com/en-us/research/project/vasa-1/)|
 |2024|arXiv|Audio|[Emote Portrait Alive: Generating Expressive Portrait Videos with Audio2Video Diffusion Model under Weak Conditions](https://arxiv.org/abs/2402.17485)|[Code](https://github.com/HumanAIGC/EMO)|
@@ -213,6 +212,7 @@ This work presents a detailed survey on generation and detection tasks about fac
 |2024|arXiv|Diffusion|[Context-aware Talking Face Video Generation](https://arxiv.org/abs/2402.18092)|-|
 |2024|arXiv|Audio|[EmoSpeaker: One-shot Fine-grained Emotion-Controlled Talking Face Generation](https://arxiv.org/abs/2402.01422)|[Code](https://peterfanfan.github.io/EmoSpeaker/)|
 |2024|VR|Audio|[EmoFace: Audio-driven Emotional 3D Face Animation](https://ieeexplore.ieee.org/abstract/document/10494180)|[Code](https://github.com/SJTU-Lucy/EmoFace)|
+|2024|ECCV|3D Model|[TalkingGaussian: Structure-Persistent 3D Talking Head Synthesis via Gaussian Splatting](https://arxiv.org/abs/2404.15264)|[Code](https://github.com/Fictionarry/TalkingGaussian)|
 |2024|ECCV|Audio|[EDTalk: Efficient Disentanglement for Emotional Talking Head Synthesis](https://arxiv.org/abs/2404.01647)|[Code](https://tanshuai0219.github.io/EDTalk/)|
 |2024|IJCV|Audio|[ReliTalk: Relightable Talking Portrait Generation from a Single Video](https://link.springer.com/article/10.1007/s11263-024-02007-9)|[Code](https://github.com/arthur-qiu/ReliTalk)|
 |2024|TCSVT|Audio|[Audio-Semantic Enhanced Pose-Driven Talking Head Generation](https://ieeexplore.ieee.org/abstract/document/10557736)|[Code](https://headproject0.wixsite.com/anonymity)|
