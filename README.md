@@ -285,7 +285,7 @@ This work presents a detailed survey on generation and detection tasks about fac
 ### Facial Attribute Editing
 |Year|Venue|Category|Paper Title|Code|
 |:-:|:-:|:-:|-|-|
-|2024|arXiv|Diffusion|[-LASIK: Consistent Glasses-Removal from Videos Using Synthetic Data](https://arxiv.org/abs/2406.14510)|[Code](https://v-lasik.github.io/)|
+|2024|arXiv|Diffusion|[V-LASIK: Consistent Glasses-Removal from Videos Using Synthetic Data](https://arxiv.org/abs/2406.14510)|[Code](https://v-lasik.github.io/)|
 |2024|arXiv|GANs|[Efficient 3D-Aware Facial Image Editing via Attribute-Specific Prompt Learning](https://arxiv.org/abs/2406.04413)|[Code](https://github.com/VIROBO-15/Efficient-3D-Aware-Facial-Image-Editing)|
 |2024|arXiv|Diffusion|[Zero-shot Image Editing with Reference Imitation](https://arxiv.org/abs/2406.07547)|[Code](https://xavierchen34.github.io/MimicBrush-Page)|
 |2024|arXiv|Diffusion|[Face2Face: Label-driven Facial Retouching Restoration](https://arxiv.org/abs/2404.14177)|-|
