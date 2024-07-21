@@ -295,11 +295,11 @@ This work presents a detailed survey on generation and detection tasks about fac
 |2024|arXiv|GANs|[S3Editor: A Sparse Semantic-Disentangled Self-Training Framework for Face Video Editing](https://arxiv.org/abs/2404.08111)|-|
 |2024|arXiv|GANs|[Reference-Based 3D-Aware Image Editing with Triplane](https://ui.adsabs.harvard.edu/abs/2024arXiv240403632B/abstract)|[Code](https://three-bee.github.io/triplane_edit)|
 |2024|arXiv|GANs|[3D-aware Image Generation and Editing with Multi-modal Conditions](https://arxiv.org/abs/2403.06470)|-|
-|2024|arXiv|3DGS|[View-Consistent 3D Editing with Gaussian Splatting](https://arxiv.org/abs/2403.11868)|-|
 |2024|arXiv|GANs|[Reference-Based 3D-Aware Image Editing with Triplane](https://ui.adsabs.harvard.edu/abs/2024arXiv240403632B/abstract)|-|
 |2024|arXiv|GANs|[SeFFeC: Semantic Facial Feature Control for Fine-grained Face Editing](https://arxiv.org/abs/2403.13972)|-|
 |2024|arXiv|Diffusion|[DiffFAE: Advancing High-fidelity One-shot Facial Appearance Editing with Space-sensitive Customization and Semantic Preservation](https://arxiv.org/abs/2403.17664)|-|
 |2024|arXiv|GANs|[Skull-to-Face: Anatomy-Guided 3D Facial Reconstruction and Editing](https://arxiv.org/abs/2403.16207)|[Code](https://xmlyqing00.github.io/skull-to-face-page/)|
+|2024|ECCV|3DGS|[View-Consistent 3D Editing with Gaussian Splatting](https://arxiv.org/abs/2403.11868)|[Code](http://yuxuanw.me/vcedit/)|
 |2024|ESWA|GANs|[ISFB-GAN: Interpretable semantic face beautification with generative adversarial network](https://www.sciencedirect.com/science/article/pii/S0957417423016330)|-|
 |2024|IJCV|GANs|[ManiCLIP: Multi-attribute Face Manipulation from Text](https://link.springer.com/article/10.1007/s11263-024-02088-6)|[Code](https://github.com/hwang1996/ManiCLIP)|
 |2024|CVPR|NeRF|[GeneAvatar: Generic Expression-Aware Volumetric Head Avatar Editing from a Single Image](https://arxiv.org/abs/2404.02152)|[Code](https://zju3dv.github.io/geneavatar/)|
