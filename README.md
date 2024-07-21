@@ -142,6 +142,7 @@ This work presents a detailed survey on generation and detection tasks about fac
 ### Face Reenactment
 |Year|Venue|Paper Title|Code|
 |:-:|:-:|-|-|
+|2024|arXiv|[Learning Online Scale Transformation for Talking Head Video Generation](https://arxiv.org/abs/2407.09965)|-|
 |2024|arXiv|[VOODOO XP: Expressive One-Shot Head Reenactment for VR Telepresence](https://arxiv.org/abs/2405.16204)|-|
 |2024|arXiv|[3DFlowRenderer: One-shot Face Re-enactment via Dense 3D Facial Flow Estimation](https://arxiv.org/abs/2404.14667)|[Code](https://export3d.github.io/)|
 |2024|arXiv|[Export3D: Learning to Generate Conditional Tri-plane for 3D-aware Expression-Controllable Portrait Animation](https://arxiv.org/abs/2404.00636)|[Code](https://export3d.github.io/)|
@@ -211,6 +212,7 @@ This work presents a detailed survey on generation and detection tasks about fac
 |2024|arXiv|Audio|[EmoVOCA: Speech-Driven Emotional 3D Talking Heads](https://arxiv.org/abs/2403.12886)|-|
 |2024|arXiv|Diffusion|[Context-aware Talking Face Video Generation](https://arxiv.org/abs/2402.18092)|-|
 |2024|arXiv|Audio|[EmoSpeaker: One-shot Fine-grained Emotion-Controlled Talking Face Generation](https://arxiv.org/abs/2402.01422)|[Code](https://peterfanfan.github.io/EmoSpeaker/)|
+|2024|VR|Audio|[EmoFace: Audio-driven Emotional 3D Face Animation](https://ieeexplore.ieee.org/abstract/document/10494180)|[Code](https://github.com/SJTU-Lucy/EmoFace)|
 |2024|ECCV|Audio|[EDTalk: Efficient Disentanglement for Emotional Talking Head Synthesis](https://arxiv.org/abs/2404.01647)|[Code](https://tanshuai0219.github.io/EDTalk/)|
 |2024|IJCV|Audio|[ReliTalk: Relightable Talking Portrait Generation from a Single Video](https://link.springer.com/article/10.1007/s11263-024-02007-9)|[Code](https://github.com/arthur-qiu/ReliTalk)|
 |2024|TCSVT|Audio|[Audio-Semantic Enhanced Pose-Driven Talking Head Generation](https://ieeexplore.ieee.org/abstract/document/10557736)|[Code](https://headproject0.wixsite.com/anonymity)|
@@ -283,6 +285,8 @@ This work presents a detailed survey on generation and detection tasks about fac
 ### Facial Attribute Editing
 |Year|Venue|Category|Paper Title|Code|
 |:-:|:-:|:-:|-|-|
+|2024|arXiv|Diffusion|[-LASIK: Consistent Glasses-Removal from Videos Using Synthetic Data](https://arxiv.org/abs/2406.14510)|[Code](https://v-lasik.github.io/)|
+|2024|arXiv|GANs|[Efficient 3D-Aware Facial Image Editing via Attribute-Specific Prompt Learning](https://arxiv.org/abs/2406.04413)|[Code](https://github.com/VIROBO-15/Efficient-3D-Aware-Facial-Image-Editing)|
 |2024|arXiv|Diffusion|[Zero-shot Image Editing with Reference Imitation](https://arxiv.org/abs/2406.07547)|[Code](https://xavierchen34.github.io/MimicBrush-Page)|
 |2024|arXiv|Diffusion|[Face2Face: Label-driven Facial Retouching Restoration](https://arxiv.org/abs/2404.14177)|-|
 |2024|arXiv|Diffusion|[FlashFace: Human Image Personalization with High-fidelity Identity Preservation](https://arxiv.org/abs/2403.17008)|[Code](https://jshilong.github.io/flashface-page)|
@@ -296,6 +300,8 @@ This work presents a detailed survey on generation and detection tasks about fac
 |2024|arXiv|GANs|[SeFFeC: Semantic Facial Feature Control for Fine-grained Face Editing](https://arxiv.org/abs/2403.13972)|-|
 |2024|arXiv|Diffusion|[DiffFAE: Advancing High-fidelity One-shot Facial Appearance Editing with Space-sensitive Customization and Semantic Preservation](https://arxiv.org/abs/2403.17664)|-|
 |2024|arXiv|GANs|[Skull-to-Face: Anatomy-Guided 3D Facial Reconstruction and Editing](https://arxiv.org/abs/2403.16207)|[Code](https://xmlyqing00.github.io/skull-to-face-page/)|
+|2024|ESWA|GANs|[ISFB-GAN: Interpretable semantic face beautification with generative adversarial network](https://www.sciencedirect.com/science/article/pii/S0957417423016330)|-|
+|2024|IJCV|GANs|[ManiCLIP: Multi-attribute Face Manipulation from Text](https://link.springer.com/article/10.1007/s11263-024-02088-6)|[Code](https://github.com/hwang1996/ManiCLIP)|
 |2024|CVPR|NeRF|[GeneAvatar: Generic Expression-Aware Volumetric Head Avatar Editing from a Single Image](https://arxiv.org/abs/2404.02152)|[Code](https://zju3dv.github.io/geneavatar/)|
 |2024|CVPR|Diffusion|[DreamSalon: A Staged Diffusion Framework for Preserving Identity-Context in Editable Face Generation](https://arxiv.org/abs/2403.19235)|-|
 |2024|T-CSVT|GANs|[Interactive Generative Adversarial Networks with High-Frequency Compensation for Facial Attribute Editing](https://ieeexplore.ieee.org/abstract/document/10505299/)|-|
@@ -343,6 +349,7 @@ This work presents a detailed survey on generation and detection tasks about fac
 |2024|arXiv|Space Domain|[Band-Attention Modulated RetNet for Face Forgery Detection](https://arxiv.org/abs/2404.06022)|-|
 |2024|arXiv|Space Domain|[Diffusion Facial Forgery Detection](https://arxiv.org/abs/2401.15859)|-|
 |2024|arXiv|Space Domain|[Masked Conditional Diffusion Model for Enhancing Deepfake Detection](https://arxiv.org/abs/2402.00541)|-|
+|2024|CVPR|Space Domain|[Faster Than Lies: Real-time Deepfake Detection using Binary Neural Networks](https://openaccess.thecvf.com/content/CVPR2024W/DFAD/html/Lanzino_Faster_Than_Lies_Real-time_Deepfake_Detection_using_Binary_Neural_Networks_CVPRW_2024_paper.html)|[Code](https://github.com/fedeloper/binary_deepfake_detection)|
 |2024|CVPR|Space Domain|[Exploiting Style Latent Flows for Generalizing Deepfake Video Detection](https://openaccess.thecvf.com/content/CVPR2024/html/Choi_Exploiting_Style_Latent_Flows_for_Generalizing_Deepfake_Video_Detection_CVPR_2024_paper.html)|-|
 |2024|CVPR|Multi-Modal|[AVFF: Audio-Visual Feature Fusion for Video Deepfake Detection](https://arxiv.org/abs/2405.00483)|-|
 |2024|CVPR|Space Domain|[LAA-Net: Localized Artifact Attention Network for Quality-Agnostic and Generalizable Deepfake Detection](https://openaccess.thecvf.com/content/CVPR2024/html/Nguyen_LAA-Net_Localized_Artifact_Attention_Network_for_Quality-Agnostic_and_Generalizable_Deepfake_CVPR_2024_paper.html)|[Code](https://github.com/10Ring/LAA-Net)|
