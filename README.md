@@ -142,6 +142,7 @@ This work presents a detailed survey on generation and detection tasks about fac
 ### Face Reenactment
 |Year|Venue|Paper Title|Code|
 |:-:|:-:|-|-|
+|2024|arXiv|[Anchored Diffusion for Video Face Reenactment](https://arxiv.org/pdf/2407.15153)|-|
 |2024|arXiv|[Learning Online Scale Transformation for Talking Head Video Generation](https://arxiv.org/abs/2407.09965)|-|
 |2024|arXiv|[VOODOO XP: Expressive One-Shot Head Reenactment for VR Telepresence](https://arxiv.org/abs/2405.16204)|-|
 |2024|arXiv|[3DFlowRenderer: One-shot Face Re-enactment via Dense 3D Facial Flow Estimation](https://arxiv.org/abs/2404.14667)|[Code](https://export3d.github.io/)|
@@ -187,6 +188,7 @@ This work presents a detailed survey on generation and detection tasks about fac
 ### Talking Face Generation
 |Year|Venue|Category|Paper Title|Code|
 |:-:|:-:|:-:|-|-|
+|2024|arXiv|Diffusion|[Text-based Talking Video Editing with Cascaded Conditional Diffusion](https://arxiv.org/abs/2407.14841)|-|
 |2024|arXiv|Audio|[Audio-driven High-resolution Seamless Talking Head Video Editing via StyleGAN](https://arxiv.org/abs/2407.05577)|-|
 |2024|arXiv|Audio|[RealTalk: Real-time and Realistic Audio-driven Face Generation with 3D Facial Prior-guided Identity Alignment Network](https://arxiv.org/abs/2406.18284)|-|
 |2024|arXiv|3D Model|[NLDF: Neural Light Dynamic Fields for Efficient 3D Talking Head Generation](https://arxiv.org/pdf/2406.11259)|-|
@@ -339,6 +341,8 @@ This work presents a detailed survey on generation and detection tasks about fac
 ### Forgery Detection
 |Year|Venue|Category|Paper Title|Code|
 |:-:|:-:|:-:|-|-|
+|2024|arXiv|Space Domain|[UniForensics: Face Forgery Detection via General Facial Representation](https://arxiv.org/abs/2407.19079)|-|
+|2024|arXiv|Benchmark|[DF40: Toward Next-Generation Deepfake Detection](https://arxiv.org/abs/2406.13495)|-|
 |2024|arXiv|Space Domain|[Adversarial Magnification to Deceive Deepfake Detection through Super Resolution](https://arxiv.org/pdf/2407.02670)|[Code](https://github.com/davide-coccomini/Adversarial-Magnification-to-Deceive-Deepfake-Detection-through-Super-Resolution)|
 |2024|arXiv|Space Domain|[In Anticipation of Perfect Deepfake: Identity-anchored Artifact-agnostic Detection under Rebalanced Deepfake Detection Protocol](https://arxiv.org/abs/2405.00483)|[Code](https://github.com/AaronComo/LipFD)|
 |2024|arXiv|Time Domain|[Lips Are Lying: Spotting the Temporal Inconsistency between Audio and Visual in Lip-Syncing DeepFakes](https://arxiv.org/abs/2401.15668)|[Code](https://github.com/AaronComo/LipFD)|
