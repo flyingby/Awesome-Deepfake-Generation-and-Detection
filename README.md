@@ -90,6 +90,7 @@ This work presents a detailed survey on generation and detection tasks about fac
 |2024|arXiv|VAEs|[SelfSwapper: Self-Supervised Face Swapping via Shape Agnostic Masked AutoEncoder](https://arxiv.org/abs/2402.07370)|-|
 |2024|arXiv|Difussion|[Face Swap via Diffusion Model](https://arxiv.org/abs/2403.01108)|[Code](https://github.com/somuchtome/faceswap)|
 |2024|arXiv|GANs|[E4S: Fine-grained Face Swapping via Editing With Regional GAN Inversion](https://arxiv.org/abs/2310.15081)|[Code](https://e4s2024.github.io/)|
+|2024|ESWA|GANs|[Face swapping with adaptive exploration-fusion mechanism and dual en-decoding tactic](https://www.sciencedirect.com/science/article/pii/S0957417424016890)|[Code]-|
 |2024|ECCV|Diffusion|[Face Adapter for Pre-Trained Diffusion Models with Fine-Grained ID and Attribute Control](https://arxiv.org/abs/2405.12970)|[Code](https://faceadapter.github.io/face-adapter.github.io/)|
 |2024|T-PAMI|GANs|[Learning Disentangled Representation for One-Shot Progressive Face Swapping](https://ieeexplore.ieee.org/abstract/document/10536627)|[Code](https://github.com/liqi-casia/FaceSwapper)|
 |2024|CVPR|Difussion|[Towards a Simultaneous and Granular Identity-Expression Control in Personalized Face Generation](https://openaccess.thecvf.com/content/CVPR2024/html/Liu_Towards_a_Simultaneous_and_Granular_Identity-Expression_Control_in_Personalized_Face_CVPR_2024_paper.html)|[Code](https://diffsfsr.github.io/)|
@@ -142,6 +143,7 @@ This work presents a detailed survey on generation and detection tasks about fac
 ### Face Reenactment
 |Year|Venue|Paper Title|Code|
 |:-:|:-:|-|-|
+|2024|arXiv|[AniFaceDiff: High-Fidelity Face Reenactment via Facial Parametric Conditioned Diffusion Models](https://arxiv.org/abs/2406.13272)|-|
 |2024|arXiv|[Anchored Diffusion for Video Face Reenactment](https://arxiv.org/pdf/2407.15153)|-|
 |2024|arXiv|[Learning Online Scale Transformation for Talking Head Video Generation](https://arxiv.org/abs/2407.09965)|-|
 |2024|arXiv|[VOODOO XP: Expressive One-Shot Head Reenactment for VR Telepresence](https://arxiv.org/abs/2405.16204)|-|
@@ -158,7 +160,7 @@ This work presents a detailed survey on generation and detection tasks about fac
 |2024|AAAI|[Learning Dense Correspondence for NeRF-Based Face Reenactment](https://ojs.aaai.org/index.php/AAAI/article/view/28473)|-|
 |2024|AAAI|[FG-EmoTalk: Talking Head Video Generation with Fine-Grained Controllable Facial Expressions](https://ojs.aaai.org/index.php/AAAI/article/view/28309)|-|
 |2024|IJCV|[One-shot Neural Face Reenactment via Finding Directions in GAN's Latent Space](https://link.springer.com/article/10.1007/s11263-024-02018-6)|-|
-|2023|arXiv|[MaskRenderer: 3D-Infused Multi-Mask Realistic Face Reenactment](https://arxiv.org/abs/2309.05095)|-|
+|2024|PR|[MaskRenderer: 3D-Infused Multi-Mask Realistic Face Reenactment](https://arxiv.org/abs/2309.05095)|-|
 |2023|T-PAMI|[Free-headgan: Neural talking head synthesis with explicit gaze control](https://ieeexplore.ieee.org/abstract/document/10061572/)|-|
 |2023|CVPR|[High-Fidelity and Freely Controllable Talking Head Video Generation](http://openaccess.thecvf.com/content/CVPR2023/html/Gao_High-Fidelity_and_Freely_Controllable_Talking_Head_Video_Generation_CVPR_2023_paper.html)|[Code](https://yuegao.me/PECHead)|
 |2023|NeurIPS|[Learning Motion Refinement for Unsupervised Face Animation](https://proceedings.neurips.cc/paper_files/paper/2023/hash/df2df463f98abc4de7734dbd0b0dc49d-Abstract-Conference.html)|[Code](https://github.com/JialeTao/MRFA/)|
