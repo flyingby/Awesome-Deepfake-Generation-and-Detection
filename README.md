@@ -188,6 +188,10 @@ This work presents a detailed survey on generation and detection tasks about fac
 ### Talking Face Generation
 |Year|Venue|Category|Paper Title|Code|
 |:-:|:-:|:-:|-|-|
+|2024|arXiv|VQ-VAE|[GLDiTalker: Speech-Driven 3D Facial Animation with Graph Latent Diffusion Transformer](https://arxiv.org/abs/2408.01826v1)|-|
+|2024|arXiv|VQ-VAE|[DEEPTalk: Dynamic Emotion Embedding for Probabilistic Speech-Driven 3D Face Animation](https://arxiv.org/abs/2408.06010)|-|
+|2024|arXiv|Diffusion|[High-fidelity and Lip-synced Talking Face Synthesis via Landmark-based Diffusion Model](https://arxiv.org/abs/2408.05416)|-|
+|2024|arXiv|Diffusion|[Style-Preserving Lip Sync via Audio-Aware Style Reference](https://arxiv.org/abs/2408.05412)|-|
 |2024|arXiv|Diffusion|[Text-based Talking Video Editing with Cascaded Conditional Diffusion](https://arxiv.org/abs/2407.14841)|-|
 |2024|arXiv|Audio|[Audio-driven High-resolution Seamless Talking Head Video Editing via StyleGAN](https://arxiv.org/abs/2407.05577)|-|
 |2024|arXiv|Audio|[RealTalk: Real-time and Realistic Audio-driven Face Generation with 3D Facial Prior-guided Identity Alignment Network](https://arxiv.org/abs/2406.18284)|-|
