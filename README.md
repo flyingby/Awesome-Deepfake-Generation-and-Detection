@@ -152,6 +152,7 @@ This work presents a detailed survey on generation and detection tasks about fac
 |2024|arXiv|[Learning to Generate Conditional Tri-plane for 3D-aware Expression Controllable Portrait Animation](https://arxiv.org/abs/2404.00636)|[Code](https://export3d.github.io/)|
 |2024|arXiv|[Superior and Pragmatic Talking Face Generation with Teacher-Student Framework](https://scholar.google.com.hk/scholar?hl=zh-CN&as_sdt=0%2C5&q=Superior+and+Pragmatic+Talking+Face+Generation+with+Teacher-Student+Framework&btnG=)|[Code](https://superfacelink.github.io/)|
 |2024|arXiv|[DiffusionAct: Controllable Diffusion Autoencoder for One-shot Face Reenactment](https://arxiv.org/abs/2403.17217)|[Code](https://stelabou.github.io/diffusionact/)|
+|2024|BMVC|Audio|[G3FA: Geometry-guided GAN for Face Animation](http://arxiv.org/abs/2408.13049v1) |[Code](https://github.com/dfki-av/G3FA)|
 |2024|ECCV|[Face Adapter for Pre-Trained Diffusion Models with Fine-Grained ID and Attribute Control](https://arxiv.org/abs/2405.12970)|[Code](https://faceadapter.github.io/face-adapter.github.io/)|
 |2024|WACV|[CVTHead: One-shot Controllable Head Avatar with Vertex-feature Transformer](https://openaccess.thecvf.com/content/WACV2024/html/Ma_CVTHead_One-Shot_Controllable_Head_Avatar_With_Vertex-Feature_Transformer_WACV_2024_paper.html)|[Code](https://github.com/HowieMa/CVTHead)|
 |2024|CVPR|[Pose Adapted Shape Learning for Large-Pose Face Reenactment](https://openaccess.thecvf.com/content/CVPR2024/html/Hsu_Pose_Adapted_Shape_Learning_for_Large-Pose_Face_Reenactment_CVPR_2024_paper.html)|[Code](https://github.com/AvLab-CV/PASL)|
@@ -190,6 +191,8 @@ This work presents a detailed survey on generation and detection tasks about fac
 ### Talking Face Generation
 |Year|Venue|Category|Paper Title|Code|
 |:-:|:-:|:-:|-|-|
+|2024|arXiv|Audio|[EmoFace: Emotion-Content Disentangled Speech-Driven 3D Talking Face with Mesh Attention](https://arxiv.org/abs/2408.11518)|-|
+|2024|arXiv|Audio|[Meta-Learning Empowered Meta-Face: Personalized Speaking Style Adaptation for Audio-Driven 3D Talking Face Animation](https://arxiv.org/abs/2408.09357)|-|
 |2024|arXiv|VQ-VAE|[GLDiTalker: Speech-Driven 3D Facial Animation with Graph Latent Diffusion Transformer](https://arxiv.org/abs/2408.01826v1)|-|
 |2024|arXiv|VQ-VAE|[DEEPTalk: Dynamic Emotion Embedding for Probabilistic Speech-Driven 3D Face Animation](https://arxiv.org/abs/2408.06010)|-|
 |2024|arXiv|Diffusion|[High-fidelity and Lip-synced Talking Face Synthesis via Landmark-based Diffusion Model](https://arxiv.org/abs/2408.05416)|-|
@@ -218,7 +221,9 @@ This work presents a detailed survey on generation and detection tasks about fac
 |2024|arXiv|Diffusion|[MoDiTalker: Motion-Disentangled Diffusion Model for High-Fidelity Talking Head Generation](https://arxiv.org/abs/2403.19144)|-|
 |2024|arXiv|Audio|[EmoVOCA: Speech-Driven Emotional 3D Talking Heads](https://arxiv.org/abs/2403.12886)|-|
 |2024|arXiv|Diffusion|[Context-aware Talking Face Video Generation](https://arxiv.org/abs/2402.18092)|-|
-|2024|arXiv|Audio|[EmoSpeaker: One-shot Fine-grained Emotion-Controlled Talking Face Generation](https://arxiv.org/abs/2402.01422)|[Code](https://peterfanfan.github.io/EmoSpeaker/)|
+|2024|arXiv|Audio|[EmoSpeaker: One-shot Fine-grained Emotion-Controlled Talking Face Generation](https://arxiv.org/abs/2402.01422)|-|
+|2024|ACM MM|Diffusion|[FD2Talk: Towards Generalized Talking Head Generation with Facial Decoupled Diffusion Model](https://arxiv.org/abs/2408.09384)|[Code](https://peterfanfan.github.io/EmoSpeaker/)|
+|2024|ACM MM|Multimodal|[SyncTalklip: Highly Synchronized Lip-Readable Speaker Generation with Multi-Task Learning](https://openreview.net/forum?id=Hr5cO79Ajw)|[Code](https://sync-talklip.github.io/)|
 |2024|VR|Audio|[EmoFace: Audio-driven Emotional 3D Face Animation](https://ieeexplore.ieee.org/abstract/document/10494180)|[Code](https://github.com/SJTU-Lucy/EmoFace)|
 |2024|ECCV|3D Model|[TalkingGaussian: Structure-Persistent 3D Talking Head Synthesis via Gaussian Splatting](https://arxiv.org/abs/2404.15264)|[Code](https://github.com/Fictionarry/TalkingGaussian)|
 |2024|ECCV|Audio|[EDTalk: Efficient Disentanglement for Emotional Talking Head Synthesis](https://arxiv.org/abs/2404.01647)|[Code](https://tanshuai0219.github.io/EDTalk/)|
@@ -347,6 +352,7 @@ This work presents a detailed survey on generation and detection tasks about fac
 ### Forgery Detection
 |Year|Venue|Category|Paper Title|Code|
 |:-:|:-:|:-:|-|-|
+|2024|arXiv|Space Domain|[Open-Set Deepfake Detection: A Parameter-Efficient Adaptation Method with Forgery Style Mixture](https://arxiv.org/abs/2408.12791)|-|
 |2024|arXiv|Space Domain|[UniForensics: Face Forgery Detection via General Facial Representation](https://arxiv.org/abs/2407.19079)|-|
 |2024|arXiv|Benchmark|[DF40: Toward Next-Generation Deepfake Detection](https://arxiv.org/abs/2406.13495)|-|
 |2024|arXiv|Space Domain|[Adversarial Magnification to Deceive Deepfake Detection through Super Resolution](https://arxiv.org/pdf/2407.02670)|[Code](https://github.com/davide-coccomini/Adversarial-Magnification-to-Deceive-Deepfake-Detection-through-Super-Resolution)|
