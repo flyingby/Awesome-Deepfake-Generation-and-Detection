@@ -352,6 +352,7 @@ This work presents a detailed survey on generation and detection tasks about fac
 ### Forgery Detection
 |Year|Venue|Category|Paper Title|Code|
 |:-:|:-:|:-:|-|-|
+|2024|arXiv|Data Driven|[Standing on the Shoulders of Giants: Reprogramming Visual-Language Model for General Deepfake Detection](https://arxiv.org/abs/2409.02664)|-|
 |2024|arXiv|Multi-Modal|[Semantics-Oriented Multitask Learning for DeepFake Detection: A Joint Embedding Approach](https://arxiv.org/abs/2408.16305)|-|
 |2024|arXiv|Space Domain|[Open-Set Deepfake Detection: A Parameter-Efficient Adaptation Method with Forgery Style Mixture](https://arxiv.org/abs/2408.12791)|-|
 |2024|arXiv|Space Domain|[UniForensics: Face Forgery Detection via General Facial Representation](https://arxiv.org/abs/2407.19079)|-|
@@ -366,6 +367,7 @@ This work presents a detailed survey on generation and detection tasks about fac
 |2024|arXiv|Space Domain|[Band-Attention Modulated RetNet for Face Forgery Detection](https://arxiv.org/abs/2404.06022)|-|
 |2024|arXiv|Space Domain|[Diffusion Facial Forgery Detection](https://arxiv.org/abs/2401.15859)|-|
 |2024|arXiv|Space Domain|[Masked Conditional Diffusion Model for Enhancing Deepfake Detection](https://arxiv.org/abs/2402.00541)|-|
+|2024|CVPR|Space Domain|[Rethinking the Up-Sampling Operations in CNN-based Generative Network for Generalizable Deepfake Detection](https://openaccess.thecvf.com/content/CVPR2024/html/Tan_Rethinking_the_Up-Sampling_Operations_in_CNN-based_Generative_Network_for_Generalizable_CVPR_2024_paper.html)|[Code](https://github.com/chuangchuangtan/NPR-DeepfakeDetection)|
 |2024|CVPR|Space Domain|[PUDD: Towards Robust Multi-modal Prototype-based Deepfake Detection](https://openaccess.thecvf.com/content/CVPR2024W/DFAD/html/Pellicer_PUDD_Towards_Robust_Multi-modal_Prototype-based_Deepfake_Detection_CVPRW_2024_paper.html)|-|
 |2024|CVPR|Space Domain|[Faster Than Lies: Real-time Deepfake Detection using Binary Neural Networks](https://openaccess.thecvf.com/content/CVPR2024W/DFAD/html/Lanzino_Faster_Than_Lies_Real-time_Deepfake_Detection_using_Binary_Neural_Networks_CVPRW_2024_paper.html)|[Code](https://github.com/fedeloper/binary_deepfake_detection)|
 |2024|CVPR|Space Domain|[Exploiting Style Latent Flows for Generalizing Deepfake Video Detection](https://openaccess.thecvf.com/content/CVPR2024/html/Choi_Exploiting_Style_Latent_Flows_for_Generalizing_Deepfake_Video_Detection_CVPR_2024_paper.html)|-|
