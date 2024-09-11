@@ -229,7 +229,7 @@ This work presents a detailed survey on generation and detection tasks about fac
 |2024|arXiv|Audio|[EmoVOCA: Speech-Driven Emotional 3D Talking Heads](https://arxiv.org/abs/2403.12886)|-|
 |2024|arXiv|Diffusion|[Context-aware Talking Face Video Generation](https://arxiv.org/abs/2402.18092)|-|
 |2024|arXiv|Audio|[EmoSpeaker: One-shot Fine-grained Emotion-Controlled Talking Face Generation](https://arxiv.org/abs/2402.01422)|-|
-|2024|ACM MM|Audio|[SegTalker: Segmentation-based Talking Face Generation with Mask-guided Local Editing](https://openreview.net/forum?id=z0OEHZbT71)|[-|
+|2024|ACM MM|Audio|[SegTalker: Segmentation-based Talking Face Generation with Mask-guided Local Editing](https://openreview.net/forum?id=z0OEHZbT71)|-|
 |2024|ACM MM|Diffusion|[FD2Talk: Towards Generalized Talking Head Generation with Facial Decoupled Diffusion Model](https://arxiv.org/abs/2408.09384)|[Code](https://peterfanfan.github.io/EmoSpeaker/)|
 |2024|ACM MM|Multimodal|[SyncTalklip: Highly Synchronized Lip-Readable Speaker Generation with Multi-Task Learning](https://openreview.net/forum?id=Hr5cO79Ajw)|[Code](https://sync-talklip.github.io/)|
 |2024|VR|Audio|[EmoFace: Audio-driven Emotional 3D Face Animation](https://ieeexplore.ieee.org/abstract/document/10494180)|[Code](https://github.com/SJTU-Lucy/EmoFace)|
