@@ -389,7 +389,7 @@ This work presents a detailed survey on generation and detection tasks about fac
 |2024|IJCV|Frequency Domain|[SA<sup>3</sup>WT: Adaptive Wavelet-Based Transformer with Self-Paced Auto Augmentation for Face Forgery Detection](https://link.springer.com/article/10.1007/s11263-024-02091-x)|-|
 |2024|ICME|Space Domain|[Counterfactual Explanations for Face Forgery Detection via Adversarial Removal of Artifacts](https://arxiv.org/abs/2404.08341)|[Code](https://github.com/yangli-lab/Artifact-Eraser/)|
 |2024|TPAMI|Multi-Modal|[Detecting and Grounding Multi-Modal Media Manipulation and Beyond](https://ieeexplore.ieee.org/abstract/document/10440475/)|[Code](https://github.com/rshaojimmy/MultiModal-DeepFake)|
-|2024|TMM|Space Domain|[IEIRNet: Inconsistency Exploiting Based Identity Rectification for Face Forgery Detection](https://ieeexplore.ieee.org/abstract/document/10663249)|[-|
+|2024|TMM|Space Domain|[IEIRNet: Inconsistency Exploiting Based Identity Rectification for Face Forgery Detection](https://ieeexplore.ieee.org/abstract/document/10663249)|-|
 |2024|ICASSP|Multi-Modal|[Exploiting Modality-Specific Features for Multi-Modal Manipulation Detection and Grounding](https://ieeexplore.ieee.org/abstract/document/10448385/)|-|
 |2024|ICASSP|Space Domain|[Selective Domain-Invariant Feature for Generalizable Deepfake Detection](https://ieeexplore.ieee.org/abstract/document/10447889/)|-|
 |2024|ICASSP|Data Driven|[Adapter-Based Incremental Learning for Face Forgery Detection](https://ieeexplore.ieee.org/abstract/document/10446543/)|-|
