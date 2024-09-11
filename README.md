@@ -193,6 +193,10 @@ This work presents a detailed survey on generation and detection tasks about fac
 ### Talking Face Generation
 |Year|Venue|Category|Paper Title|Code|
 |:-:|:-:|:-:|-|-|
+|2024|arXiv|KAN|[KAN-Based Fusion of Dual-Domain for Audio-Driven Facial Landmarks Generation](https://arxiv.org/abs/2409.05330)|-|
+|2024|arXiv|GANs|[SegTalker: Segmentation-based Talking Face Generation with Mask-guided Local Editing](https://arxiv.org/abs/2409.03605)|-|
+|2024|arXiv|Diffusion|[SVP: Style-Enhanced Vivid Portrait Talking Head Diffusion Model](https://arxiv.org/abs/2409.03270)|-|
+|2024|arXiv|Diffusion|[PoseTalk: Text-and-Audio-based Pose Control and Motion Refinement for One-Shot Talking Head Generation](https://arxiv.org/abs/2409.02657)|[Code](https://junleen.github.io/projects/posetalk)|
 |2024|arXiv|Audio|[JambaTalk: Speech-Driven 3D Talking Head Generation Based on Hybrid Transformer-Mamba Model](https://arxiv.org/abs/2408.01627)|-|
 |2024|arXiv|Audio|[EmoFace: Emotion-Content Disentangled Speech-Driven 3D Talking Face with Mesh Attention](https://arxiv.org/abs/2408.11518)|-|
 |2024|arXiv|Audio|[Meta-Learning Empowered Meta-Face: Personalized Speaking Style Adaptation for Audio-Driven 3D Talking Face Animation](https://arxiv.org/abs/2408.09357)|-|
@@ -229,6 +233,7 @@ This work presents a detailed survey on generation and detection tasks about fac
 |2024|ACM MM|Diffusion|[FD2Talk: Towards Generalized Talking Head Generation with Facial Decoupled Diffusion Model](https://arxiv.org/abs/2408.09384)|[Code](https://peterfanfan.github.io/EmoSpeaker/)|
 |2024|ACM MM|Multimodal|[SyncTalklip: Highly Synchronized Lip-Readable Speaker Generation with Multi-Task Learning](https://openreview.net/forum?id=Hr5cO79Ajw)|[Code](https://sync-talklip.github.io/)|
 |2024|VR|Audio|[EmoFace: Audio-driven Emotional 3D Face Animation](https://ieeexplore.ieee.org/abstract/document/10494180)|[Code](https://github.com/SJTU-Lucy/EmoFace)|
+|2024|ECCV|3D Model|[S^3D-NeRF: Single-Shot Speech-Driven Neural Radiance Field for High Fidelity Talking Head Synthesis](https://arxiv.org/abs/2408.09347)|-|
 |2024|ECCV|Audio|[KMTalk: Speech-Driven 3D Facial Animation with Key Motion Embedding](https://arxiv.org/abs/2409.01113)|[Code](https://github.com/ffxzh/KMTalk)|
 |2024|ECCV|3D Model|[TalkingGaussian: Structure-Persistent 3D Talking Head Synthesis via Gaussian Splatting](https://arxiv.org/abs/2404.15264)|[Code](https://github.com/Fictionarry/TalkingGaussian)|
 |2024|ECCV|Audio|[EDTalk: Efficient Disentanglement for Emotional Talking Head Synthesis](https://arxiv.org/abs/2404.01647)|[Code](https://tanshuai0219.github.io/EDTalk/)|
@@ -384,6 +389,7 @@ This work presents a detailed survey on generation and detection tasks about fac
 |2024|IJCV|Frequency Domain|[SA<sup>3</sup>WT: Adaptive Wavelet-Based Transformer with Self-Paced Auto Augmentation for Face Forgery Detection](https://link.springer.com/article/10.1007/s11263-024-02091-x)|-|
 |2024|ICME|Space Domain|[Counterfactual Explanations for Face Forgery Detection via Adversarial Removal of Artifacts](https://arxiv.org/abs/2404.08341)|[Code](https://github.com/yangli-lab/Artifact-Eraser/)|
 |2024|TPAMI|Multi-Modal|[Detecting and Grounding Multi-Modal Media Manipulation and Beyond](https://ieeexplore.ieee.org/abstract/document/10440475/)|[Code](https://github.com/rshaojimmy/MultiModal-DeepFake)|
+|2024|TMM|Space Domain|[IEIRNet: Inconsistency Exploiting Based Identity Rectification for Face Forgery Detection](https://ieeexplore.ieee.org/abstract/document/10663249)|[-|
 |2024|ICASSP|Multi-Modal|[Exploiting Modality-Specific Features for Multi-Modal Manipulation Detection and Grounding](https://ieeexplore.ieee.org/abstract/document/10448385/)|-|
 |2024|ICASSP|Space Domain|[Selective Domain-Invariant Feature for Generalizable Deepfake Detection](https://ieeexplore.ieee.org/abstract/document/10447889/)|-|
 |2024|ICASSP|Data Driven|[Adapter-Based Incremental Learning for Face Forgery Detection](https://ieeexplore.ieee.org/abstract/document/10446543/)|-|
