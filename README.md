@@ -84,12 +84,14 @@ This work presents a detailed survey on generation and detection tasks about fac
 ### Face Swapping
 |Year|Venue|Category|Paper Title|Code|
 |:-:|:-:|:-:|-|-|
+|2025|WACV|Difussion|[Realistic and Efficient Face Swapping: A Unified Approach with Diffusion Models](https://arxiv.org/abs/2409.07269)|[Code](https://github.com/Sanoojan/REFace)|
 |2024|arXiv|Other|[Rank-based No-reference Quality Assessment for Face Swapping](https://arxiv.org/abs/2406.01884)|-|
 |2024|arXiv|3DGS|[ImplicitDeepfake: Plausible Face-Swapping through Implicit Deepfake Generation using NeRF and Gaussian Splatting](https://arxiv.org/abs/2402.06390)|[Code](https://github.com/quereste/implicit-deepfake)|
 |2024|arXiv|GANs|[LatentSwap: An Efficient Latent Code Mapping Framework for Face Swapping](https://arxiv.org/abs/2402.18351)|-|
 |2024|arXiv|VAEs|[SelfSwapper: Self-Supervised Face Swapping via Shape Agnostic Masked AutoEncoder](https://arxiv.org/abs/2402.07370)|-|
 |2024|arXiv|Difussion|[Face Swap via Diffusion Model](https://arxiv.org/abs/2403.01108)|[Code](https://github.com/somuchtome/faceswap)|
 |2024|arXiv|GANs|[E4S: Fine-grained Face Swapping via Editing With Regional GAN Inversion](https://arxiv.org/abs/2310.15081)|[Code](https://e4s2024.github.io/)|
+|2024|ACM MM|VAEs|[CodeSwap: Symmetrically Face Swapping Based on Prior Codebook](https://openreview.net/forum?id=TYbuVVM3iR)|[Code](https://github.com/ICTMCG/CSCS)|
 |2024|ACM TOG|GANs|[Identity-Preserving Face Swapping via Dual Surrogate Generative Models](https://dl.acm.org/doi/abs/10.1145/3676165?casa_token=ftkZx-RX6tsAAAAA:TKCR4gcHy9tWrY3UqJ6I6CV1dTQmCBXbjqk17I1Pz6ibgU45yF3F0i586RjdFkjhwTqxUoIvV9aJ)|[Code](https://github.com/ICTMCG/CSCS)|
 |2024|ESWA|GANs|[Face swapping with adaptive exploration-fusion mechanism and dual en-decoding tactic](https://www.sciencedirect.com/science/article/pii/S0957417424016890)|-|
 |2024|ECCV|Diffusion|[Face Adapter for Pre-Trained Diffusion Models with Fine-Grained ID and Attribute Control](https://arxiv.org/abs/2405.12970)|[Code](https://faceadapter.github.io/face-adapter.github.io/)|
@@ -193,6 +195,7 @@ This work presents a detailed survey on generation and detection tasks about fac
 ### Talking Face Generation
 |Year|Venue|Category|Paper Title|Code|
 |:-:|:-:|:-:|-|-|
+|2024|arXiv|Diffusion|[DreamHead: Learning Spatial-Temporal Correspondence via Hierarchical Diffusion for Audio-driven Talking Head Synthesis](https://arxiv.org/abs/2409.10281)|-|
 |2024|arXiv|KAN|[KAN-Based Fusion of Dual-Domain for Audio-Driven Facial Landmarks Generation](https://arxiv.org/abs/2409.05330)|-|
 |2024|arXiv|GANs|[SegTalker: Segmentation-based Talking Face Generation with Mask-guided Local Editing](https://arxiv.org/abs/2409.03605)|-|
 |2024|arXiv|Diffusion|[SVP: Style-Enhanced Vivid Portrait Talking Head Diffusion Model](https://arxiv.org/abs/2409.03270)|-|
@@ -229,6 +232,7 @@ This work presents a detailed survey on generation and detection tasks about fac
 |2024|arXiv|Audio|[EmoVOCA: Speech-Driven Emotional 3D Talking Heads](https://arxiv.org/abs/2403.12886)|-|
 |2024|arXiv|Diffusion|[Context-aware Talking Face Video Generation](https://arxiv.org/abs/2402.18092)|-|
 |2024|arXiv|Audio|[EmoSpeaker: One-shot Fine-grained Emotion-Controlled Talking Face Generation](https://arxiv.org/abs/2402.01422)|-|
+|2024|BMVC|3D Model|[JEAN: Joint Expression and Audio-guided NeRF-based Talking Face Generation](https://arxiv.org/abs/2409.12156)|[Code](https://starc52.github.io/publications/2024-07-19-JEAN)|
 |2024|ACM MM|Audio|[SegTalker: Segmentation-based Talking Face Generation with Mask-guided Local Editing](https://openreview.net/forum?id=z0OEHZbT71)|-|
 |2024|ACM MM|Diffusion|[FD2Talk: Towards Generalized Talking Head Generation with Facial Decoupled Diffusion Model](https://arxiv.org/abs/2408.09384)|[Code](https://peterfanfan.github.io/EmoSpeaker/)|
 |2024|ACM MM|Multimodal|[SyncTalklip: Highly Synchronized Lip-Readable Speaker Generation with Multi-Task Learning](https://openreview.net/forum?id=Hr5cO79Ajw)|[Code](https://sync-talklip.github.io/)|
@@ -308,6 +312,7 @@ This work presents a detailed survey on generation and detection tasks about fac
 ### Facial Attribute Editing
 |Year|Venue|Category|Paper Title|Code|
 |:-:|:-:|:-:|-|-|
+|2024|arXiv|GANs|[UP-FacE: User-predictable Fine-grained Face Shape Editing](https://arxiv.org/abs/2403.13972)|-|
 |2024|arXiv|Diffusion|[V-LASIK: Consistent Glasses-Removal from Videos Using Synthetic Data](https://arxiv.org/abs/2406.14510)|[Code](https://v-lasik.github.io/)|
 |2024|arXiv|GANs|[Efficient 3D-Aware Facial Image Editing via Attribute-Specific Prompt Learning](https://arxiv.org/abs/2406.04413)|[Code](https://github.com/VIROBO-15/Efficient-3D-Aware-Facial-Image-Editing)|
 |2024|arXiv|Diffusion|[Zero-shot Image Editing with Reference Imitation](https://arxiv.org/abs/2406.07547)|[Code](https://xavierchen34.github.io/MimicBrush-Page)|
@@ -322,8 +327,11 @@ This work presents a detailed survey on generation and detection tasks about fac
 |2024|arXiv|GANs|[SeFFeC: Semantic Facial Feature Control for Fine-grained Face Editing](https://arxiv.org/abs/2403.13972)|-|
 |2024|arXiv|Diffusion|[DiffFAE: Advancing High-fidelity One-shot Facial Appearance Editing with Space-sensitive Customization and Semantic Preservation](https://arxiv.org/abs/2403.17664)|-|
 |2024|arXiv|GANs|[Skull-to-Face: Anatomy-Guided 3D Facial Reconstruction and Editing](https://arxiv.org/abs/2403.16207)|[Code](https://xmlyqing00.github.io/skull-to-face-page/)|
+|2024|ECCV|GANs|[Efficient 3D-Aware Facial Image Editing via Attribute-Specific Prompt Learning](https://arxiv.org/abs/2406.04413)|[Code](https://awaisrauf.github.io/3d_face_editing)|
+|2024|ECCV|Diffusion|[COMPOSE: Comprehensive Portrait Shadow Editing](https://arxiv.org/abs/2408.13922)|-|
 |2024|ECCV|3DGS|[View-Consistent 3D Editing with Gaussian Splatting](https://arxiv.org/abs/2403.11868)|[Code](http://yuxuanw.me/vcedit/)|
 |2024|ESWA|GANs|[ISFB-GAN: Interpretable semantic face beautification with generative adversarial network](https://www.sciencedirect.com/science/article/pii/S0957417423016330)|-|
+|2024|IS|GANs|[ICGNet: An intensity-controllable generation network based on covering learning for face attribute synthesis](https://www.sciencedirect.com/science/article/abs/pii/S0020025524000434)|[Code](https://github.com/kllaodong/-ICGNet)|
 |2024|IJCV|GANs|[ManiCLIP: Multi-attribute Face Manipulation from Text](https://link.springer.com/article/10.1007/s11263-024-02088-6)|[Code](https://github.com/hwang1996/ManiCLIP)|
 |2024|CVPR|NeRF|[GeneAvatar: Generic Expression-Aware Volumetric Head Avatar Editing from a Single Image](https://arxiv.org/abs/2404.02152)|[Code](https://zju3dv.github.io/geneavatar/)|
 |2024|CVPR|Diffusion|[DreamSalon: A Staged Diffusion Framework for Preserving Identity-Context in Editable Face Generation](https://arxiv.org/abs/2403.19235)|-|
@@ -362,6 +370,7 @@ This work presents a detailed survey on generation and detection tasks about fac
 ### Forgery Detection
 |Year|Venue|Category|Paper Title|Code|
 |:-:|:-:|:-:|-|-|
+|2024|arXiv|Space Domain|[Shaking the Fake: Detecting Deepfake Videos in Real Time via Active Probes](https://arxiv.org/abs/2409.10889)|-|
 |2024|arXiv|Data Driven|[Standing on the Shoulders of Giants: Reprogramming Visual-Language Model for General Deepfake Detection](https://arxiv.org/abs/2409.02664)|-|
 |2024|arXiv|Multi-Modal|[Semantics-Oriented Multitask Learning for DeepFake Detection: A Joint Embedding Approach](https://arxiv.org/abs/2408.16305)|-|
 |2024|arXiv|Space Domain|[Open-Set Deepfake Detection: A Parameter-Efficient Adaptation Method with Forgery Style Mixture](https://arxiv.org/abs/2408.12791)|-|
@@ -377,6 +386,7 @@ This work presents a detailed survey on generation and detection tasks about fac
 |2024|arXiv|Space Domain|[Band-Attention Modulated RetNet for Face Forgery Detection](https://arxiv.org/abs/2404.06022)|-|
 |2024|arXiv|Space Domain|[Diffusion Facial Forgery Detection](https://arxiv.org/abs/2401.15859)|-|
 |2024|arXiv|Space Domain|[Masked Conditional Diffusion Model for Enhancing Deepfake Detection](https://arxiv.org/abs/2402.00541)|-|
+|2024|CVPR|Data Driven|[Transcending Forgery Specificity with Latent Space Augmentation for Generalizable Deepfake Detection](https://openaccess.thecvf.com/content/CVPR2024/html/Yan_Transcending_Forgery_Specificity_with_Latent_Space_Augmentation_for_Generalizable_Deepfake_CVPR_2024_paper.html)|-|
 |2024|CVPR|Space Domain|[Rethinking the Up-Sampling Operations in CNN-based Generative Network for Generalizable Deepfake Detection](https://openaccess.thecvf.com/content/CVPR2024/html/Tan_Rethinking_the_Up-Sampling_Operations_in_CNN-based_Generative_Network_for_Generalizable_CVPR_2024_paper.html)|[Code](https://github.com/chuangchuangtan/NPR-DeepfakeDetection)|
 |2024|CVPR|Space Domain|[PUDD: Towards Robust Multi-modal Prototype-based Deepfake Detection](https://openaccess.thecvf.com/content/CVPR2024W/DFAD/html/Pellicer_PUDD_Towards_Robust_Multi-modal_Prototype-based_Deepfake_Detection_CVPRW_2024_paper.html)|-|
 |2024|CVPR|Space Domain|[Faster Than Lies: Real-time Deepfake Detection using Binary Neural Networks](https://openaccess.thecvf.com/content/CVPR2024W/DFAD/html/Lanzino_Faster_Than_Lies_Real-time_Deepfake_Detection_using_Binary_Neural_Networks_CVPRW_2024_paper.html)|[Code](https://github.com/fedeloper/binary_deepfake_detection)|
