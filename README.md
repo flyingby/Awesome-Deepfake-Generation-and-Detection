@@ -146,6 +146,7 @@ This work presents a detailed survey on generation and detection tasks about fac
 ### Face Reenactment
 |Year|Venue|Paper Title|Code|
 |:-:|:-:|-|-|
+|2024|arXiv|[MIMAFace: Face Animation via Motion-Identity Modulated Appearance Feature Learning](https://arxiv.org/abs/2409.15179)|[Code](https://mimaface2024.github.io/mimaface.github.io)|
 |2024|arXiv|[LivePortrait: Efficient Portrait Animation with Stitching and Retargeting Control](https://arxiv.org/pdf/2407.03168)|[Code](https://liveportrait.github.io/)|
 |2024|arXiv|[AniFaceDiff: High-Fidelity Face Reenactment via Facial Parametric Conditioned Diffusion Models](https://arxiv.org/abs/2406.13272)|-|
 |2024|arXiv|[Anchored Diffusion for Video Face Reenactment](https://arxiv.org/pdf/2407.15153)|-|
@@ -232,11 +233,17 @@ This work presents a detailed survey on generation and detection tasks about fac
 |2024|arXiv|Audio|[EmoVOCA: Speech-Driven Emotional 3D Talking Heads](https://arxiv.org/abs/2403.12886)|-|
 |2024|arXiv|Diffusion|[Context-aware Talking Face Video Generation](https://arxiv.org/abs/2402.18092)|-|
 |2024|arXiv|Audio|[EmoSpeaker: One-shot Fine-grained Emotion-Controlled Talking Face Generation](https://arxiv.org/abs/2402.01422)|-|
+|2024|arXiv|Diffusion|[EMOdiffhead: Continuously Emotional Control in Talking Head Generation via](https://arxiv.org/pdf/2409.07255)|-|
+|2024|ICIP|Audio|[Personatalk: Preserving Personalized Dynamic Speech Style In Talking Face Generation](https://ieeexplore.ieee.org/abstract/document/10647689)|-|
+|2024|NIPS|3D Model|[MimicTalk: Mimicking a personalized and expressive 3D talking face in minutes](https://arxiv.org/pdf/2410.06734)|[Code](https://mimictalk.github.io/)|
+|2024|SIGGRAPH|Audio|[ProbTalk3D: Non-Deterministic Emotion Controllable Speech-Driven 3D Facial Animation Synthesis Using VQ-VAE](https://arxiv.org/pdf/2409.07966)|[Code](https://github.com/uuembodiedsocialai/ProbTalk3D/)|
 |2024|BMVC|3D Model|[JEAN: Joint Expression and Audio-guided NeRF-based Talking Face Generation](https://arxiv.org/abs/2409.12156)|[Code](https://starc52.github.io/publications/2024-07-19-JEAN)|
 |2024|ACM MM|Audio|[SegTalker: Segmentation-based Talking Face Generation with Mask-guided Local Editing](https://openreview.net/forum?id=z0OEHZbT71)|-|
 |2024|ACM MM|Diffusion|[FD2Talk: Towards Generalized Talking Head Generation with Facial Decoupled Diffusion Model](https://arxiv.org/abs/2408.09384)|[Code](https://peterfanfan.github.io/EmoSpeaker/)|
 |2024|ACM MM|Multimodal|[SyncTalklip: Highly Synchronized Lip-Readable Speaker Generation with Multi-Task Learning](https://openreview.net/forum?id=Hr5cO79Ajw)|[Code](https://sync-talklip.github.io/)|
 |2024|VR|Audio|[EmoFace: Audio-driven Emotional 3D Face Animation](https://ieeexplore.ieee.org/abstract/document/10494180)|[Code](https://github.com/SJTU-Lucy/EmoFace)|
+|2024|ECCV|Audio|[Audio-driven Talking Face Generation with Stabilized Synchronization Loss](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/02950.pdf)|[Code]()|
+|2024|ECCV|Diffusion|[Stable Video Portraits](https://arxiv.org/abs/2409.18083)|[Code](https://svp.is.tue.mpg.de/)|
 |2024|ECCV|3D Model|[S^3D-NeRF: Single-Shot Speech-Driven Neural Radiance Field for High Fidelity Talking Head Synthesis](https://arxiv.org/abs/2408.09347)|-|
 |2024|ECCV|Audio|[KMTalk: Speech-Driven 3D Facial Animation with Key Motion Embedding](https://arxiv.org/abs/2409.01113)|[Code](https://github.com/ffxzh/KMTalk)|
 |2024|ECCV|3D Model|[TalkingGaussian: Structure-Persistent 3D Talking Head Synthesis via Gaussian Splatting](https://arxiv.org/abs/2404.15264)|[Code](https://github.com/Fictionarry/TalkingGaussian)|
@@ -370,6 +377,8 @@ This work presents a detailed survey on generation and detection tasks about fac
 ### Forgery Detection
 |Year|Venue|Category|Paper Title|Code|
 |:-:|:-:|:-:|-|-|
+|2024|arXiv|Multi-Modal|[Harnessing Wavelet Transformations for Generalizable Deepfake Forgery Detection](https://arxiv.org/abs/2409.18301)|[Code](https://github.com/lalithbharadwajbaru/Wavelet-CLIP)|
+|2024|arXiv|Space Domain|[Herd Mentality in Augmentation - Not a Good Idea! A Robust Multi-stage Approach towards Deepfake Detection](https://arxiv.org/pdf/2410.05466)|[Code](https://github.com/Monu-Khicher-1/multi-stage-learning)|
 |2024|arXiv|Space Domain|[Shaking the Fake: Detecting Deepfake Videos in Real Time via Active Probes](https://arxiv.org/abs/2409.10889)|-|
 |2024|arXiv|Data Driven|[Standing on the Shoulders of Giants: Reprogramming Visual-Language Model for General Deepfake Detection](https://arxiv.org/abs/2409.02664)|-|
 |2024|arXiv|Multi-Modal|[Semantics-Oriented Multitask Learning for DeepFake Detection: A Joint Embedding Approach](https://arxiv.org/abs/2408.16305)|-|
@@ -386,6 +395,9 @@ This work presents a detailed survey on generation and detection tasks about fac
 |2024|arXiv|Space Domain|[Band-Attention Modulated RetNet for Face Forgery Detection](https://arxiv.org/abs/2404.06022)|-|
 |2024|arXiv|Space Domain|[Diffusion Facial Forgery Detection](https://arxiv.org/abs/2401.15859)|-|
 |2024|arXiv|Space Domain|[Masked Conditional Diffusion Model for Enhancing Deepfake Detection](https://arxiv.org/abs/2402.00541)|-|
+|2024|NIPS|Other|[A Hitchhikers Guide to Fine-Grained Face Forgery Detection Using Common Sense Reasoning](https://arxiv.org/abs/2410.00485)|[Code](https://nickyfot.github.io/hitchhickersguide.github.io/)|
+|2024|ICIP|Space Domain|[Deepfake Detection Via Separable Self-Consistency Learning](https://ieeexplore.ieee.org/abstract/document/10647481)|-|
+|2024|ICIP|Space Domain|[Deepfake Detection With Combined Unsupervised-Supervised Contrastive Learning](https://ieeexplore.ieee.org/abstract/document/10647603)|-|
 |2024|CVPR|Data Driven|[Transcending Forgery Specificity with Latent Space Augmentation for Generalizable Deepfake Detection](https://openaccess.thecvf.com/content/CVPR2024/html/Yan_Transcending_Forgery_Specificity_with_Latent_Space_Augmentation_for_Generalizable_Deepfake_CVPR_2024_paper.html)|-|
 |2024|CVPR|Space Domain|[Rethinking the Up-Sampling Operations in CNN-based Generative Network for Generalizable Deepfake Detection](https://openaccess.thecvf.com/content/CVPR2024/html/Tan_Rethinking_the_Up-Sampling_Operations_in_CNN-based_Generative_Network_for_Generalizable_CVPR_2024_paper.html)|[Code](https://github.com/chuangchuangtan/NPR-DeepfakeDetection)|
 |2024|CVPR|Space Domain|[PUDD: Towards Robust Multi-modal Prototype-based Deepfake Detection](https://openaccess.thecvf.com/content/CVPR2024W/DFAD/html/Pellicer_PUDD_Towards_Robust_Multi-modal_Prototype-based_Deepfake_Detection_CVPRW_2024_paper.html)|-|
