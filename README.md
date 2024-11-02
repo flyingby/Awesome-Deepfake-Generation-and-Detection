@@ -226,7 +226,6 @@ This work presents a detailed survey on generation and detection tasks about fac
 |2024|arXiv|Audio|[SwapTalk: Audio-Driven Talking Face Generation with One-Shot Customization in Latent Space](https://arxiv.org/abs/2405.05636)|[Code](http://swaptalk.cc/)|
 |2024|arXiv|3D Model|[GSTalker: Real-time Audio-Driven Talking Face Generation via Deformable Gaussian Splatting](https://arxiv.org/abs/2404.19040)|-|
 |2024|arXiv|3D Model|[Embedded Representation Learning Network for Animating Styled Video Portrait](https://arxiv.org/abs/2404.19038)|-|
-|2024|arXiv|3D Model|[GaussianTalker: Real-Time High-Fidelity Talking Head Synthesis with Audio-Driven 3D Gaussian Splatting](https://arxiv.org/abs/2404.16012)|[Code](https://ku-cvlab.github.io/GaussianTalker)|
 |2024|arXiv|3D Model|[Learn2Talk: 3D Talking Face Learns from 2D Talking Face](https://arxiv.org/abs/2404.12888)|[Code](https://lkjkjoiuiu.github.io/Learn2Talk/)|
 |2024|arXiv|3D Model|[GaussianTalker: Speaker-specific Talking Head Synthesis via 3D Gaussian Splatting](https://arxiv.org/abs/2404.14037)|[Code](https://yuhongyun777.github.io/GaussianTalker/)|
 |2024|arXiv|Audio|[Emote Portrait Alive: Generating Expressive Portrait Videos with Audio2Video Diffusion Model under Weak Conditions](https://arxiv.org/abs/2402.17485)|[Code](https://github.com/HumanAIGC/EMO)|
@@ -244,6 +243,7 @@ This work presents a detailed survey on generation and detection tasks about fac
 |2024|SIGGRAPH|Multimodal|[Media2Face: Co-speech Facial Animation Generation With Multi-Modality Guidance](https://dl.acm.org/doi/abs/10.1145/3641519.3657413)|-|
 |2024|SIGGRAPH|Audio|[ProbTalk3D: Non-Deterministic Emotion Controllable Speech-Driven 3D Facial Animation Synthesis Using VQ-VAE](https://arxiv.org/pdf/2409.07966)|[Code](https://github.com/uuembodiedsocialai/ProbTalk3D/)|
 |2024|BMVC|3D Model|[JEAN: Joint Expression and Audio-guided NeRF-based Talking Face Generation](https://arxiv.org/abs/2409.12156)|[Code](https://starc52.github.io/publications/2024-07-19-JEAN)|
+|2024|ACM MM|3D Model|[GaussianTalker: Real-Time High-Fidelity Talking Head Synthesis with Audio-Driven 3D Gaussian Splatting](https://arxiv.org/abs/2404.16012)|[Code](https://ku-cvlab.github.io/GaussianTalker)|
 |2024|ACM MM|Diffusion|[ConsistentAvatar: Learning to Diffuse Fully Consistent Talking Head Avatar with Temporal Guidance](https://openreview.net/pdf?id=ZyKdUtuUjZ)|-|
 |2024|ACM MM|Audio|[SegTalker: Segmentation-based Talking Face Generation with Mask-guided Local Editing](https://openreview.net/forum?id=z0OEHZbT71)|-|
 |2024|ACM MM|Diffusion|[FD2Talk: Towards Generalized Talking Head Generation with Facial Decoupled Diffusion Model](https://arxiv.org/abs/2408.09384)|[Code](https://peterfanfan.github.io/EmoSpeaker/)|
