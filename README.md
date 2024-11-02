@@ -244,6 +244,7 @@ This work presents a detailed survey on generation and detection tasks about fac
 |2024|SIGGRAPH|Multimodal|[Media2Face: Co-speech Facial Animation Generation With Multi-Modality Guidance](https://dl.acm.org/doi/abs/10.1145/3641519.3657413)|-|
 |2024|SIGGRAPH|Audio|[ProbTalk3D: Non-Deterministic Emotion Controllable Speech-Driven 3D Facial Animation Synthesis Using VQ-VAE](https://arxiv.org/pdf/2409.07966)|[Code](https://github.com/uuembodiedsocialai/ProbTalk3D/)|
 |2024|BMVC|3D Model|[JEAN: Joint Expression and Audio-guided NeRF-based Talking Face Generation](https://arxiv.org/abs/2409.12156)|[Code](https://starc52.github.io/publications/2024-07-19-JEAN)|
+|2024|ACM MM|Diffusion|[ConsistentAvatar: Learning to Diffuse Fully Consistent Talking Head Avatar with Temporal Guidance](https://openreview.net/pdf?id=ZyKdUtuUjZ)|-|
 |2024|ACM MM|Audio|[SegTalker: Segmentation-based Talking Face Generation with Mask-guided Local Editing](https://openreview.net/forum?id=z0OEHZbT71)|-|
 |2024|ACM MM|Diffusion|[FD2Talk: Towards Generalized Talking Head Generation with Facial Decoupled Diffusion Model](https://arxiv.org/abs/2408.09384)|[Code](https://peterfanfan.github.io/EmoSpeaker/)|
 |2024|ACM MM|Multimodal|[SyncTalklip: Highly Synchronized Lip-Readable Speaker Generation with Multi-Task Learning](https://openreview.net/forum?id=Hr5cO79Ajw)|[Code](https://sync-talklip.github.io/)|
