@@ -198,6 +198,7 @@ This work presents a detailed survey on generation and detection tasks about fac
 ### Talking Face Generation
 |Year|Venue|Category|Paper Title|Code|
 |:-:|:-:|:-:|-|-|
+|2024|arXiv|Audio|[DAWN: Dynamic Frame Avatar with Non-autoregressive Diffusion Framework for Talking Head Video Generation](https://arxiv.org/abs/2410.13726)|[Code](https://github.com/Hanbo-Cheng/DAWN-pytorch)|
 |2024|arXiv|Audio|[MuseTalk: Real-Time High Quality Lip Synchronization with Latent Space Inpainting](https://arxiv.org/abs/2410.10122)|-|
 |2024|arXiv|Audio|[LaDTalk: Latent Denoising for Synthesizing Talking Head Videos with High Frequency Details](http://arxiv.org/abs/2410.00990v1)|-|
 |2024|arXiv|Diffusion|[DreamHead: Learning Spatial-Temporal Correspondence via Hierarchical Diffusion for Audio-driven Talking Head Synthesis](https://arxiv.org/abs/2409.10281)|-|
@@ -324,6 +325,8 @@ This work presents a detailed survey on generation and detection tasks about fac
 ### Facial Attribute Editing
 |Year|Venue|Category|Paper Title|Code|
 |:-:|:-:|:-:|-|-|
+|2024|arXiv|GANs|[Revealing Directions for Text-guided 3D Face Editing](https://arxiv.org/abs/2410.04965)|-|
+|2024|arXiv|Diffusion|[HairDiffusion: Vivid Multi-Colored Hair Editing via Latent Diffusion](https://arxiv.org/abs/2410.21789)|-|
 |2024|arXiv|GANs|[UP-FacE: User-predictable Fine-grained Face Shape Editing](https://arxiv.org/abs/2403.13972)|-|
 |2024|arXiv|Diffusion|[V-LASIK: Consistent Glasses-Removal from Videos Using Synthetic Data](https://arxiv.org/abs/2406.14510)|[Code](https://v-lasik.github.io/)|
 |2024|arXiv|GANs|[Efficient 3D-Aware Facial Image Editing via Attribute-Specific Prompt Learning](https://arxiv.org/abs/2406.04413)|[Code](https://github.com/VIROBO-15/Efficient-3D-Aware-Facial-Image-Editing)|
@@ -339,6 +342,7 @@ This work presents a detailed survey on generation and detection tasks about fac
 |2024|arXiv|GANs|[SeFFeC: Semantic Facial Feature Control for Fine-grained Face Editing](https://arxiv.org/abs/2403.13972)|-|
 |2024|arXiv|Diffusion|[DiffFAE: Advancing High-fidelity One-shot Facial Appearance Editing with Space-sensitive Customization and Semantic Preservation](https://arxiv.org/abs/2403.17664)|-|
 |2024|arXiv|GANs|[Skull-to-Face: Anatomy-Guided 3D Facial Reconstruction and Editing](https://arxiv.org/abs/2403.16207)|[Code](https://xmlyqing00.github.io/skull-to-face-page/)|
+|2024|ECCVW|GANs|[MM2Latent: Text-to-facial image generation and editing in GANs with multimodal assistance](https://arxiv.org/abs/2409.11010)|[Code](https://github.com/Open-Debin/MM2Latent)|
 |2024|ECCV|GANs|[Efficient 3D-Aware Facial Image Editing via Attribute-Specific Prompt Learning](https://arxiv.org/abs/2406.04413)|[Code](https://awaisrauf.github.io/3d_face_editing)|
 |2024|ECCV|Diffusion|[COMPOSE: Comprehensive Portrait Shadow Editing](https://arxiv.org/abs/2408.13922)|-|
 |2024|ECCV|3DGS|[View-Consistent 3D Editing with Gaussian Splatting](https://arxiv.org/abs/2403.11868)|[Code](http://yuxuanw.me/vcedit/)|
@@ -383,6 +387,7 @@ This work presents a detailed survey on generation and detection tasks about fac
 ### Forgery Detection
 |Year|Venue|Category|Paper Title|Code|
 |:-:|:-:|:-:|-|-|
+|2024|arXiv|Space Domain|[Capture Artifacts via Progressive Disentangling and Purifying Blended Identities for Deepfake Detection](https://arxiv.org/abs/2410.10244)|-|
 |2024|arXiv|Multi-Modal|[Harnessing Wavelet Transformations for Generalizable Deepfake Forgery Detection](https://arxiv.org/abs/2409.18301)|[Code](https://github.com/lalithbharadwajbaru/Wavelet-CLIP)|
 |2024|arXiv|Space Domain|[Herd Mentality in Augmentation - Not a Good Idea! A Robust Multi-stage Approach towards Deepfake Detection](https://arxiv.org/pdf/2410.05466)|[Code](https://github.com/Monu-Khicher-1/multi-stage-learning)|
 |2024|arXiv|Space Domain|[Shaking the Fake: Detecting Deepfake Videos in Real Time via Active Probes](https://arxiv.org/abs/2409.10889)|-|
@@ -402,6 +407,9 @@ This work presents a detailed survey on generation and detection tasks about fac
 |2024|arXiv|Space Domain|[Diffusion Facial Forgery Detection](https://arxiv.org/abs/2401.15859)|-|
 |2024|arXiv|Space Domain|[Masked Conditional Diffusion Model for Enhancing Deepfake Detection](https://arxiv.org/abs/2402.00541)|-|
 |2024|arXiv|Data Driven|[Towards General Deepfake Detection with Dynamic Curriculum](https://arxiv.org/abs/2410.11162)|-|
+|2024|ACM MM|Other|[LampMark: Proactive Deepfake Detection via Training-Free Landmark Perceptual Watermarks](https://dl.acm.org/doi/abs/10.1145/3664647.3680869)|-|
+|2024|ACM MM|Multi-Modal|[Vigo: Audiovisual Fake Detection and Segment Localization](https://dl.acm.org/doi/abs/10.1145/3664647.3688983)|-|
+|2024|ACM MM|Multi-Modal|[Building Robust Video-Level Deepfake Detection via Audio-Visual Local-Global Interactions](https://dl.acm.org/doi/abs/10.1145/3664647.3688985)|-|
 |2024|NIPS|Data Driven|[DiffusionFake: Enhancing Generalization in Deepfake Detection via Guided Stable Diffusion](https://arxiv.org/pdf/2410.04372)|[Code](https://github.com/skJack/DiffusionFake.git)|
 |2024|NIPS|Other|[A Hitchhikers Guide to Fine-Grained Face Forgery Detection Using Common Sense Reasoning](https://arxiv.org/abs/2410.00485)|[Code](https://nickyfot.github.io/hitchhickersguide.github.io/)|
 |2024|ICIP|Space Domain|[Deepfake Detection Via Separable Self-Consistency Learning](https://ieeexplore.ieee.org/abstract/document/10647481)|-|
