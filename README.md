@@ -85,6 +85,7 @@ This work presents a detailed survey on generation and detection tasks about fac
 |Year|Venue|Category|Paper Title|Code|
 |:-:|:-:|:-:|-|-|
 |2025|WACV|Difussion|[Realistic and Efficient Face Swapping: A Unified Approach with Diffusion Models](https://arxiv.org/abs/2409.07269)|[Code](https://github.com/Sanoojan/REFace)|
+|2024|arXiv|Diffusion|[FuseAnyPart: Diffusion-Driven Facial Parts Swapping via Multiple Reference Images](https://arxiv.org/abs/2410.22771)|[Code](https://github.com/Thomas-wyh/FuseAnyPart)|
 |2024|arXiv|GANs|[Active Fake: DeepFake Camouflage](https://arxiv.org/abs/2409.03200)|-|
 |2024|arXiv|Other|[Rank-based No-reference Quality Assessment for Face Swapping](https://arxiv.org/abs/2406.01884)|-|
 |2024|arXiv|3DGS|[ImplicitDeepfake: Plausible Face-Swapping through Implicit Deepfake Generation using NeRF and Gaussian Splatting](https://arxiv.org/abs/2402.06390)|[Code](https://github.com/quereste/implicit-deepfake)|
@@ -198,6 +199,10 @@ This work presents a detailed survey on generation and detection tasks about fac
 ### Talking Face Generation
 |Year|Venue|Category|Paper Title|Code|
 |:-:|:-:|:-:|-|-|
+|2024|arXiv|3D Model|[LES-Talker: Fine-Grained Emotion Editing for Talking Head Generation in Linear Emotion Space](https://arxiv.org/abs/2411.09268)|-|
+|2024|arXiv|3D Model|[3D-GS Talker: 3D Gaussian Based Audio-Driven Real-Time Talking Head Generation](https://www.researchsquare.com/article/rs-4558717/v1)|-|
+|2024|arXiv|Diffusion|[JoyVASA: Portrait and Animal Image Animation with Diffusion-Based Audio-Driven Facial Dynamics and Head Motion Generation](http://arxiv.org/abs/2411.09209v1)|[Code](https://github.com/jdh-algo/JoyVASA)|
+|2024|arXiv|Audio|[SPEAK: Speech-Driven Pose and Emotion-Adjustable Talking Head Generation](https://arxiv.org/abs/2405.07257)|[Code](https://anonymous.4open.science/r/SPEAK-8A22)|
 |2024|arXiv|Audio|[DAWN: Dynamic Frame Avatar with Non-autoregressive Diffusion Framework for Talking Head Video Generation](https://arxiv.org/abs/2410.13726)|[Code](https://github.com/Hanbo-Cheng/DAWN-pytorch)|
 |2024|arXiv|Audio|[MuseTalk: Real-Time High Quality Lip Synchronization with Latent Space Inpainting](https://arxiv.org/abs/2410.10122)|-|
 |2024|arXiv|Audio|[LaDTalk: Latent Denoising for Synthesizing Talking Head Videos with High Frequency Details](http://arxiv.org/abs/2410.00990v1)|-|
@@ -218,7 +223,7 @@ This work presents a detailed survey on generation and detection tasks about fac
 |2024|arXiv|Audio|[RealTalk: Real-time and Realistic Audio-driven Face Generation with 3D Facial Prior-guided Identity Alignment Network](https://arxiv.org/abs/2406.18284)|-|
 |2024|arXiv|3D Model|[NLDF: Neural Light Dynamic Fields for Efficient 3D Talking Head Generation](https://arxiv.org/pdf/2406.11259)|-|
 |2024|arXiv|Audio|[Emotional Conversation: Empowering Talking Faces with Cohesive Expression, Gaze and Pose Generation](https://arxiv.org/abs/2406.07895)|-|
-|2024|arXiv|Audio|[Controllable Talking Face Generation by Implicit Facial Keypoints Editing](https://arxiv.org/pdf/2406.02880)|-|
+|2024|arXiv|Audio|[Controllable Talking Face Generation by Implicit Facial Keypoints Editing](https://arxiv.org/pdf/2406.02880)|[Code](https://github.com/NetEase-Media/ControlTalk)|
 |2024|arXiv|Audio|[OpFlowTalker: Realistic and Natural Talking Face Generation via Optical Flow Guidance](https://arxiv.org/pdf/2405.14709)|-|
 |2024|arXiv|Multimodal|[Listen, Disentangle, and Control: Controllable Speech-Driven Talking Head Generation](https://arxiv.org/abs/2405.07257)|[Code](https://anonymous.4open.science/r/SPEAK-F56E)|
 |2024|arXiv|Audio|[AniTalker: Animate Vivid and Diverse Talking Faces through Identity-Decoupled Facial Motion Encoding](https://arxiv.org/abs/2405.03121)|[Code](https://github.com/X-LANCE/AniTalker)|
@@ -237,6 +242,7 @@ This work presents a detailed survey on generation and detection tasks about fac
 |2024|arXiv|Diffusion|[Context-aware Talking Face Video Generation](https://arxiv.org/abs/2402.18092)|-|
 |2024|arXiv|Audio|[EmoSpeaker: One-shot Fine-grained Emotion-Controlled Talking Face Generation](https://arxiv.org/abs/2402.01422)|-|
 |2024|arXiv|Diffusion|[EMOdiffhead: Continuously Emotional Control in Talking Head Generation via](https://arxiv.org/pdf/2409.07255)|-|
+|2024|TVCG|3D Model|[High-Fidelity and High-Efficiency Talking Portrait Synthesis With Detail-Aware Neural Radiance Fields](https://ieeexplore.ieee.org/abstract/document/10740602)|[Code](https://github.com/muyuWang/HHNeRF)|
 |2024|ICIP|Audio|[Personatalk: Preserving Personalized Dynamic Speech Style In Talking Face Generation](https://ieeexplore.ieee.org/abstract/document/10647689)|-|
 |2024|NIPS oral|Audio|[VASA-1: Lifelike Audio-Driven Talking Faces Generated in Real Time](https://arxiv.org/abs/2404.10667)|[Code](https://www.microsoft.com/en-us/research/project/vasa-1/)|
 |2024|NIPS|3D Model|[MimicTalk: Mimicking a personalized and expressive 3D talking face in minutes](https://arxiv.org/pdf/2410.06734)|[Code](https://mimictalk.github.io/)|
@@ -249,7 +255,8 @@ This work presents a detailed survey on generation and detection tasks about fac
 |2024|ACM MM|Diffusion|[FD2Talk: Towards Generalized Talking Head Generation with Facial Decoupled Diffusion Model](https://arxiv.org/abs/2408.09384)|[Code](https://peterfanfan.github.io/EmoSpeaker/)|
 |2024|ACM MM|Multimodal|[SyncTalklip: Highly Synchronized Lip-Readable Speaker Generation with Multi-Task Learning](https://openreview.net/forum?id=Hr5cO79Ajw)|[Code](https://sync-talklip.github.io/)|
 |2024|VR|Audio|[EmoFace: Audio-driven Emotional 3D Face Animation](https://ieeexplore.ieee.org/abstract/document/10494180)|[Code](https://github.com/SJTU-Lucy/EmoFace)|
-|2024|ECCV|Audio|[Audio-driven Talking Face Generation with Stabilized Synchronization Loss](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/02950.pdf)|[Code]()|
+|2024|ECCV|Diffusion|[EMO: Emote Portrait Alive Generating Expressive Portrait Videos with Audio2Video Diffusion Model Under Weak Conditions](https://link.springer.com/chapter/10.1007/978-3-031-73010-8_15)|-|
+|2024|ECCV|Audio|[Audio-driven Talking Face Generation with Stabilized Synchronization Loss](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/02950.pdf)|-|
 |2024|ECCV|Diffusion|[Stable Video Portraits](https://arxiv.org/abs/2409.18083)|[Code](https://svp.is.tue.mpg.de/)|
 |2024|ECCV|3D Model|[S^3D-NeRF: Single-Shot Speech-Driven Neural Radiance Field for High Fidelity Talking Head Synthesis](https://arxiv.org/abs/2408.09347)|-|
 |2024|ECCV|Audio|[KMTalk: Speech-Driven 3D Facial Animation with Key Motion Embedding](https://arxiv.org/abs/2409.01113)|[Code](https://github.com/ffxzh/KMTalk)|
@@ -408,6 +415,8 @@ This work presents a detailed survey on generation and detection tasks about fac
 |2024|arXiv|Space Domain|[Diffusion Facial Forgery Detection](https://arxiv.org/abs/2401.15859)|-|
 |2024|arXiv|Space Domain|[Masked Conditional Diffusion Model for Enhancing Deepfake Detection](https://arxiv.org/abs/2402.00541)|-|
 |2024|arXiv|Data Driven|[Towards General Deepfake Detection with Dynamic Curriculum](https://arxiv.org/abs/2410.11162)|-|
+|2024|IJIS|Multi-Modal|[Deepfake Detection Based on the Adaptive Fusion of Spatial-Frequency Features](https://onlinelibrary.wiley.com/doi/full/10.1155/2024/7578036)|-|
+|2024|NN|Space Domain|[Towards generalizable face forgery detection via mitigating spurious correlation](https://www.sciencedirect.com/science/article/pii/S0893608024008384)|-|
 |2024|ACM MM|Other|[LampMark: Proactive Deepfake Detection via Training-Free Landmark Perceptual Watermarks](https://dl.acm.org/doi/abs/10.1145/3664647.3680869)|-|
 |2024|ACM MM|Multi-Modal|[Vigo: Audiovisual Fake Detection and Segment Localization](https://dl.acm.org/doi/abs/10.1145/3664647.3688983)|-|
 |2024|ACM MM|Multi-Modal|[Building Robust Video-Level Deepfake Detection via Audio-Visual Local-Global Interactions](https://dl.acm.org/doi/abs/10.1145/3664647.3688985)|-|
