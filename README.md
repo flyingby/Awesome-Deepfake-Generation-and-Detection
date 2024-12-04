@@ -85,6 +85,7 @@ This work presents a detailed survey on generation and detection tasks about fac
 |Year|Venue|Category|Paper Title|Code|
 |:-:|:-:|:-:|-|-|
 |2025|WACV|Difussion|[Realistic and Efficient Face Swapping: A Unified Approach with Diffusion Models](https://arxiv.org/abs/2409.07269)|[Code](https://github.com/Sanoojan/REFace)|
+|2024|arXiv|Diffusion|[HiFiVFS: High Fidelity Video Face Swapping](https://arxiv.org/abs/2411.18293)|-|
 |2024|arXiv|Diffusion|[FuseAnyPart: Diffusion-Driven Facial Parts Swapping via Multiple Reference Images](https://arxiv.org/abs/2410.22771)|[Code](https://github.com/Thomas-wyh/FuseAnyPart)|
 |2024|arXiv|GANs|[Active Fake: DeepFake Camouflage](https://arxiv.org/abs/2409.03200)|-|
 |2024|arXiv|Other|[Rank-based No-reference Quality Assessment for Face Swapping](https://arxiv.org/abs/2406.01884)|-|
@@ -199,6 +200,11 @@ This work presents a detailed survey on generation and detection tasks about fac
 ### Talking Face Generation
 |Year|Venue|Category|Paper Title|Code|
 |:-:|:-:|:-:|-|-|
+|2024|arXiv|Audio|[FLOAT: Generative Motion Latent Flow Matching for Audio-driven Talking Portrait](https://arxiv.org/abs/2412.01064)|[Code](https://deepbrainai-research.github.io/float/)|
+|2024|arXiv|3D Model|[Audio-Driven Emotional 3D Talking-Head Generation](https://arxiv.org/abs/2410.17262)|-|
+|2024|arXiv|3D Model|[Diverse Code Query Learning for Speech-Driven Facial Animation](https://arxiv.org/abs/2409.19143)|-|
+|2024|arXiv|3D Model|[JambaTalk: Speech-Driven 3D Talking Head Generation Based on Hybrid Transformer-Mamba Model](https://arxiv.org/abs/2408.01627)|-|
+|2024|arXiv|Diffusion|[EmotiveTalk: Expressive Talking Head Generation through Audio Information Decoupling and Emotional Video Diffusion](https://arxiv.org/abs/2411.16726)|-|
 |2024|arXiv|3D Model|[LES-Talker: Fine-Grained Emotion Editing for Talking Head Generation in Linear Emotion Space](https://arxiv.org/abs/2411.09268)|-|
 |2024|arXiv|3D Model|[3D-GS Talker: 3D Gaussian Based Audio-Driven Real-Time Talking Head Generation](https://www.researchsquare.com/article/rs-4558717/v1)|-|
 |2024|arXiv|Diffusion|[JoyVASA: Portrait and Animal Image Animation with Diffusion-Based Audio-Driven Facial Dynamics and Head Motion Generation](http://arxiv.org/abs/2411.09209v1)|[Code](https://github.com/jdh-algo/JoyVASA)|
@@ -334,6 +340,7 @@ This work presents a detailed survey on generation and detection tasks about fac
 |Year|Venue|Category|Paper Title|Code|
 |:-:|:-:|:-:|-|-|
 |2024|arXiv|GANs|[Revealing Directions for Text-guided 3D Face Editing](https://arxiv.org/abs/2410.04965)|-|
+|2024|arXiv|GANs|[Revealing Directions for Text-guided 3D Face Editing](https://arxiv.org/abs/2410.04965)|-|
 |2024|arXiv|Diffusion|[HairDiffusion: Vivid Multi-Colored Hair Editing via Latent Diffusion](https://arxiv.org/abs/2410.21789)|-|
 |2024|arXiv|GANs|[UP-FacE: User-predictable Fine-grained Face Shape Editing](https://arxiv.org/abs/2403.13972)|-|
 |2024|arXiv|Diffusion|[V-LASIK: Consistent Glasses-Removal from Videos Using Synthetic Data](https://arxiv.org/abs/2406.14510)|[Code](https://v-lasik.github.io/)|
@@ -395,6 +402,7 @@ This work presents a detailed survey on generation and detection tasks about fac
 ### Forgery Detection
 |Year|Venue|Category|Paper Title|Code|
 |:-:|:-:|:-:|-|-|
+|2024|arXiv|Other|[Facial Features Matter: a Dynamic Watermark based Proactive Deepfake Detection Approach](https://arxiv.org/abs/2411.14798)|-|
 |2024|arXiv|Space Domain|[Capture Artifacts via Progressive Disentangling and Purifying Blended Identities for Deepfake Detection](https://arxiv.org/abs/2410.10244)|-|
 |2024|arXiv|Multi-Modal|[Harnessing Wavelet Transformations for Generalizable Deepfake Forgery Detection](https://arxiv.org/abs/2409.18301)|[Code](https://github.com/lalithbharadwajbaru/Wavelet-CLIP)|
 |2024|arXiv|Space Domain|[Herd Mentality in Augmentation - Not a Good Idea! A Robust Multi-stage Approach towards Deepfake Detection](https://arxiv.org/pdf/2410.05466)|[Code](https://github.com/Monu-Khicher-1/multi-stage-learning)|
