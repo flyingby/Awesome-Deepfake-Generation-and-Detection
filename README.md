@@ -150,6 +150,7 @@ This work presents a detailed survey on generation and detection tasks about fac
 |Year|Venue|Paper Title|Code|
 |:-:|:-:|-|-|
 |2024|arXiv|[MIMAFace: Face Animation via Motion-Identity Modulated Appearance Feature Learning](https://arxiv.org/abs/2409.15179)|[Code](https://mimaface2024.github.io/mimaface.github.io)|
+|2024|arXiv|[Follow-Your-Emoji: Fine-Controllable and Expressive Freestyle Portrait Animation](https://arxiv.org/abs/2406.01900)|[Code](https://follow-your-emoji.github.io/)|
 |2024|arXiv|[LivePortrait: Efficient Portrait Animation with Stitching and Retargeting Control](https://arxiv.org/pdf/2407.03168)|[Code](https://liveportrait.github.io/)|
 |2024|arXiv|[AniFaceDiff: High-Fidelity Face Reenactment via Facial Parametric Conditioned Diffusion Models](https://arxiv.org/abs/2406.13272)|-|
 |2024|arXiv|[Anchored Diffusion for Video Face Reenactment](https://arxiv.org/pdf/2407.15153)|-|
@@ -161,6 +162,7 @@ This work presents a detailed survey on generation and detection tasks about fac
 |2024|arXiv|[Learning to Generate Conditional Tri-plane for 3D-aware Expression Controllable Portrait Animation](https://arxiv.org/abs/2404.00636)|[Code](https://export3d.github.io/)|
 |2024|arXiv|[Superior and Pragmatic Talking Face Generation with Teacher-Student Framework](https://scholar.google.com.hk/scholar?hl=zh-CN&as_sdt=0%2C5&q=Superior+and+Pragmatic+Talking+Face+Generation+with+Teacher-Student+Framework&btnG=)|[Code](https://superfacelink.github.io/)|
 |2024|arXiv|[DiffusionAct: Controllable Diffusion Autoencoder for One-shot Face Reenactment](https://arxiv.org/abs/2403.17217)|[Code](https://stelabou.github.io/diffusionact/)|
+|2024|SIGGRAPH|[X-portrait: Expressive portrait animation with hierarchical motion attention](https://dl.acm.org/doi/abs/10.1145/3641519.3657459)|-|
 |2024|BMVC|[G3FA: Geometry-guided GAN for Face Animation](http://arxiv.org/abs/2408.13049v1) |[Code](https://github.com/dfki-av/G3FA)|
 |2024|ECCV|[Face Adapter for Pre-Trained Diffusion Models with Fine-Grained ID and Attribute Control](https://arxiv.org/abs/2405.12970)|[Code](https://faceadapter.github.io/face-adapter.github.io/)|
 |2024|WACV|[CVTHead: One-shot Controllable Head Avatar with Vertex-feature Transformer](https://openaccess.thecvf.com/content/WACV2024/html/Ma_CVTHead_One-Shot_Controllable_Head_Avatar_With_Vertex-Feature_Transformer_WACV_2024_paper.html)|[Code](https://github.com/HowieMa/CVTHead)|
