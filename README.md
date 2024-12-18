@@ -201,6 +201,9 @@ This work presents a detailed survey on generation and detection tasks about fac
 ### Talking Face Generation
 |Year|Venue|Category|Paper Title|Code|
 |:-:|:-:|:-:|-|-|
+|2025|AAAI|VQ-VAE|[DEEPTalk: Dynamic Emotion Embedding for Probabilistic Speech-Driven 3D Face Animation](https://arxiv.org/abs/2408.06010)|-|
+|2025|AAAI|Diffusion|[GoHD: Gaze-oriented and Highly Disentangled Portrait Animation with Rhythmic Poses and Realistic Expression](http://arxiv.org/abs/2412.09296v1)|[Code](https://github.com/Jia1018/GoHD)|
+|2024|arXiv|Diffusion|[LatentSync: Audio Conditioned Latent Diffusion Models for Lip Sync](http://arxiv.org/abs/2412.09262v1)|-|
 |2024|arXiv|Audio|[FLOAT: Generative Motion Latent Flow Matching for Audio-driven Talking Portrait](https://arxiv.org/abs/2412.01064)|[Code](https://deepbrainai-research.github.io/float/)|
 |2024|arXiv|3D Model|[Audio-Driven Emotional 3D Talking-Head Generation](https://arxiv.org/abs/2410.17262)|-|
 |2024|arXiv|3D Model|[Diverse Code Query Learning for Speech-Driven Facial Animation](https://arxiv.org/abs/2409.19143)|-|
@@ -222,7 +225,6 @@ This work presents a detailed survey on generation and detection tasks about fac
 |2024|arXiv|Audio|[EmoFace: Emotion-Content Disentangled Speech-Driven 3D Talking Face with Mesh Attention](https://arxiv.org/abs/2408.11518)|-|
 |2024|arXiv|Audio|[Meta-Learning Empowered Meta-Face: Personalized Speaking Style Adaptation for Audio-Driven 3D Talking Face Animation](https://arxiv.org/abs/2408.09357)|-|
 |2024|arXiv|VQ-VAE|[GLDiTalker: Speech-Driven 3D Facial Animation with Graph Latent Diffusion Transformer](https://arxiv.org/abs/2408.01826v1)|-|
-|2024|arXiv|VQ-VAE|[DEEPTalk: Dynamic Emotion Embedding for Probabilistic Speech-Driven 3D Face Animation](https://arxiv.org/abs/2408.06010)|-|
 |2024|arXiv|Diffusion|[High-fidelity and Lip-synced Talking Face Synthesis via Landmark-based Diffusion Model](https://arxiv.org/abs/2408.05416)|-|
 |2024|arXiv|Diffusion|[Style-Preserving Lip Sync via Audio-Aware Style Reference](https://arxiv.org/abs/2408.05412)|-|
 |2024|arXiv|Diffusion|[Text-based Talking Video Editing with Cascaded Conditional Diffusion](https://arxiv.org/abs/2407.14841)|-|
