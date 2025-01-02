@@ -251,6 +251,8 @@ This work presents a detailed survey on generation and detection tasks about fac
 |2024|arXiv|Diffusion|[Context-aware Talking Face Video Generation](https://arxiv.org/abs/2402.18092)|-|
 |2024|arXiv|Audio|[EmoSpeaker: One-shot Fine-grained Emotion-Controlled Talking Face Generation](https://arxiv.org/abs/2402.01422)|-|
 |2024|arXiv|Diffusion|[EMOdiffhead: Continuously Emotional Control in Talking Head Generation via](https://arxiv.org/pdf/2409.07255)|-|
+|2024|TCSVT|Multimodal|[Multimodal Emotional Talking Face Generation based on Action Units](https://ieeexplore.ieee.org/abstract/document/10816597)|-|
+|2024|TVCG|Audio|[Pose-aware 3D talking face synthesis using geometry-guided audio-vertices attention](https://ieeexplore.ieee.org/abstract/document/10452856)|[Code](https://github.com/sharlingw/PATFS)|
 |2024|TVCG|3D Model|[High-Fidelity and High-Efficiency Talking Portrait Synthesis With Detail-Aware Neural Radiance Fields](https://ieeexplore.ieee.org/abstract/document/10740602)|[Code](https://github.com/muyuWang/HHNeRF)|
 |2024|ICIP|Audio|[Personatalk: Preserving Personalized Dynamic Speech Style In Talking Face Generation](https://ieeexplore.ieee.org/abstract/document/10647689)|-|
 |2024|NIPS oral|Audio|[VASA-1: Lifelike Audio-Driven Talking Faces Generated in Real Time](https://arxiv.org/abs/2404.10667)|[Code](https://www.microsoft.com/en-us/research/project/vasa-1/)|
