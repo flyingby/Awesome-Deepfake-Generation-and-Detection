@@ -84,7 +84,10 @@ This work presents a detailed survey on generation and detection tasks about fac
 ### Face Swapping
 |Year|Venue|Category|Paper Title|Code|
 |:-:|:-:|:-:|-|-|
+|2025|arXiv|Difussion|[Hallo3: Highly Dynamic and Realistic Portrait Image Animation with Video Diffusion Transformer](https://arxiv.org/abs/2412.00733)|[Code](https://fudan-generative-vision.github.io/hallo3/)|
+|2025|arXiv|Difussion|[High-Fidelity Diffusion Face Swapping with ID-Constrained Facial Conditioning](https://arxiv.org/abs/2503.22179)|-|
 |2025|arXiv|Difussion|[DynamicFace: High-Quality and Consistent Video Face Swapping using Composable 3D Facial Priors](https://arxiv.org/abs/2501.08553)|[Code](https://dynamic-face.github.io/)|
+|2025|PR|Difussion|[DiffFace: Diffusion-based Face Swapping with Facial Guidance](https://www.sciencedirect.com/science/article/pii/S0031320325001116)|[Code](https://hxngiee.github.io/DiffFace/)|
 |2025|ESWA|Difussion|[Ueco: Unified editing chain for efficient appearance transfer with multimodality-guided diffusion](http://sciencedirect.com/science/article/pii/S0957417425001320)|-|
 |2025|WACV|Difussion|[Realistic and Efficient Face Swapping: A Unified Approach with Diffusion Models](https://arxiv.org/abs/2409.07269)|[Code](https://github.com/Sanoojan/REFace)|
 |2024|arXiv|Diffusion|[HiFiVFS: High Fidelity Video Face Swapping](https://arxiv.org/abs/2411.18293)|-|
@@ -127,7 +130,6 @@ This work presents a detailed survey on generation and detection tasks about fac
 |2023|ACM MM|GANs+3D|[High Fidelity Face Swapping via Semantics Disentanglement and Structure Enhancement](https://dl.acm.org/doi/abs/10.1145/3581783.3612215)|-|
 |2023|FG|Transformers|[TransFS: Face Swapping Using Transformer](https://ieeexplore.ieee.org/abstract/document/10042556)|-|
 |2023|CVPR|Difussion|[DiffSwap: High-Fidelity and Controllable Face Swapping via 3D-Aware Masked Diffusion](https://openaccess.thecvf.com/content/CVPR2023/html/Zhao_DiffSwap_High-Fidelity_and_Controllable_Face_Swapping_via_3D-Aware_Masked_Diffusion_CVPR_2023_paper.html)|[Code](https://github.com/wl-zhao/DiffSwap)|
-|2022|arXiv|Difussion|[DiffFace: Diffusion-based Face Swapping with Facial Guidance](https://arxiv.org/abs/2212.13344)|[Code](https://hxngiee.github.io/DiffFace/)|
 |2022|AAAI|GANs|[MobileFaceSwap: A Lightweight Framework for Video Face Swapping](https://ojs.aaai.org/index.php/AAAI/article/view/20203)|[Code](https://github.com/Seanseattle/MobileFaceSwap)|
 |2022|T-PAMI|GANs|[FSGANv2: Improved Subject Agnostic Face Swapping and Reenactment](https://ieeexplore.ieee.org/abstract/document/9763438)|[Code](https://github.com/YuvalNirkin/fsgan)|
 |2022|ICME|GANs|[Migrating face swap to mobile devices: a lightweight framework and a supervised training solution](https://ieeexplore.ieee.org/abstract/document/9859806)|[Code](https://github.com/HoiM/MobileFSGAN)|
@@ -153,6 +155,11 @@ This work presents a detailed survey on generation and detection tasks about fac
 |Year|Venue|Paper Title|Code|
 |:-:|:-:|-|-|
 |2025|arXiv|[SkyReels-A1: Expressive Portrait Animation in Video Diffusion Transformers](https://arxiv.org/pdf/2502.10841)|[Code](https://skyworkai.github.io/skyreels-a1.github.io/)|
+|2025|arXiv|[Learning Semantic Facial Descriptors for Accurate Face Animation](https://arxiv.org/abs/2501.17718)|-|
+|2025|arXiv|[GHOST 2.0: Generative High-fidelity One Shot Transfer of Heads](https://arxiv.org/abs/2502.18417)|[Code](https://github.com/ai-forever/ghost-2.0)|
+|2025|arXiv|[Audio-visual Controlled Video Diffusion with Masked Selective State Spaces Modeling for Natural Talking Head Generation](https://arxiv.org/abs/2504.02542)|[Code](https://harlanhong.github.io/publications/actalker/index.html)|
+|2025|ICASSP|[SmartNet: One-shot Talking Head Synthesis via Subtle Motion and Appearance Compensation](https://ieeexplore.ieee.org/abstract/document/10887604?casa_token=gfAd9wy2LtEAAAAA:dkJI9pQheYrAf3qicul4EPP4ZTt-gAr3wLqmROw-QrL24YC46WP9uaTA8Rj9jBmi53gJ0ujUi-c)|-|
+|2025|IJCV|[UniFace++: Revisiting a Unified Framework for Face Reenactment and Swapping via 3D Priors](https://link.springer.com/article/10.1007/s11263-025-02395-6)|-|
 |2025|PR|[Maskrenderer: 3D-infused multi-mask realistic face reenactment](https://www.sciencedirect.com/science/article/pii/S0031320324006423#fig2)|-|
 |2024|arXiv|[MIMAFace: Face Animation via Motion-Identity Modulated Appearance Feature Learning](https://arxiv.org/abs/2409.15179)|[Code](https://mimaface2024.github.io/mimaface.github.io)|
 |2024|arXiv|[Follow-Your-Emoji: Fine-Controllable and Expressive Freestyle Portrait Animation](https://arxiv.org/abs/2406.01900)|[Code](https://follow-your-emoji.github.io/)|
@@ -206,10 +213,23 @@ This work presents a detailed survey on generation and detection tasks about fac
 ### Talking Face Generation
 |Year|Venue|Category|Paper Title|Code|
 |:-:|:-:|:-:|-|-|
+|2025|arXiv|Audio|[MoEE: Mixture of Emotion Experts for Audio-Driven Portrait Animation](https://arxiv.org/abs/2501.01808)|-|
+|2025|arXiv|Audio|[FREAK: Frequency-modulated High-fidelity and Real-time Audio-driven Talking Portrait Synthesis](https://arxiv.org/abs/2503.04067v1)|-|
+|2025|arXiv|Multimodal|[MagicInfinite: Generating Infinite Talking Videos with Your Words and Voice](https://arxiv.org/abs/2503.05978v1)|[Code](https://www.hedra.com/)|
+|2025|arXiv|Audio|[StyleSpeaker: Audio-Enhanced Fine-Grained Style Modeling for Speech-Driven 3D Facial Animation](https://arxiv.org/abs/2503.09852v1)|-|
+|2025|arXiv|Diffusion|[Unlock Pose Diversity: Accurate and Efficient Implicit Keypoint-based Spatiotemporal Diffusion for Audio-driven Talking Portrait](http://arxiv.org/abs/2503.12963)|[Code](https://github.com/chaolongy/KDTalker)|
+|2025|arXiv|Diffusion|[DisentTalk: Cross-lingual Talking Face Generation via Semantic Disentangled Diffusion Model](https://arxiv.org/abs/2503.19001)|[Code](https://kangweiiliu.github.io/DisentTalk)|
 |2025|arXiv|Diffusion|[EMO2: End-Effector Guided Audio-Driven Avatar Video Generation](https://arxiv.org/abs/2501.10687)|-|
 |2025|arXiv|Diffusion|[Long-Term TalkingFace Generation via Motion-Prior Conditional Diffusion Model](https://arxiv.org/abs/2502.09533)|-|
 |2025|arXiv|3D Model|[EmoTalkingGaussian: Continuous Emotion-conditioned Talking Head Synthesis](https://arxiv.org/abs/2502.00654v1)|-|
 |2025|arXiv|3D Model|[SyncAnimation: A Real-Time End-to-End Framework for Audio-Driven Human Pose and Talking Head Animation](https://arxiv.org/abs/2501.14646)|[Code](https://syncanimation.github.io/)|
+|2025|arXiv|3D Model|[PC-Talk: Precise Facial Animation Control for Audio-Driven Talking Face Generation](https://arxiv.org/abs/2503.14295)|-|
+|2025|ICPR|Audio|[StableTalk: Advancing Audio-to-Talking Face Generation with Stable Diffusion and Vision Transformer](https://link.springer.com/chapter/10.1007/978-3-031-78172-8_18)|-|
+|2025|TMM|Multimodal|[AdaMesh: Personalized Facial Expressions and Head Poses for Adaptive Speech-Driven 3D Facial Animation](https://arxiv.org/abs/2310.07236v4)|[Code](https://adamesh.github.io/)|
+|2025|CVPR|3D Model|[InsTaG: Learning Personalized 3D Talking Head from Few-Second Video](https://arxiv.org/abs/2502.20387)|[Code](https://fictionarry.github.io/InsTaG/)|
+|2025|CVPR|Audio|[Towards High-fidelity 3D Talking Avatar with Personalized Dynamic Texture](https://arxiv.org/abs/2503.00495v1)|[Code](https://xuanchenli.github.io/TexTalk/)|
+|2025|CVPR|Audio|[KeyFace: Expressive Audio-Driven Facial Animation for Long Sequences via KeyFrame Interpolation](https://arxiv.org/abs/2503.01715v1)|-|
+|2025|ICME|Diffusion|[DiffusionTalker: Efficient and Compact Speech-Driven 3D Talking Head via Personalizer-Guided Distillation](https://github.com/ChenVoid/DiffusionTalker)|[Code](https://github.com/ChenVoid/DiffusionTalker)|
 |2025|NIPS|3D Model|[MimicTalk: Mimicking a personalized and expressive 3D talking face in minutes](https://proceedings.neurips.cc/paper_files/paper/2024/hash/034cd49870f1cc253fc08686049ae7eb-Abstract-Conference.html)|[Code](https://mimictalk.github.io/)|
 |2025|ICASSP|Audio|[Identity-Preserving Video Dubbing Using Motion Warping](https://arxiv.org/abs/2501.04586)|-|
 |2025|ICASSP|3D Model|[DEGSTalk: Decomposed Per-Embedding Gaussian Fields for Hair-Preserving Talking Face Synthesis](https://arxiv.org/abs/2412.20148v1)|[Code](https://github.com/CVI-SZU/DEGSTalk)|
@@ -358,6 +378,7 @@ This work presents a detailed survey on generation and detection tasks about fac
 ### Facial Attribute Editing
 |Year|Venue|Category|Paper Title|Code|
 |:-:|:-:|:-:|-|-|
+|2025|arXiv|Diffusion|[EmojiDiff: Advanced Facial Expression Control with High Identity Preservation in Portrait Generation](https://arxiv.org/abs/2412.01254)|-|
 |2025|arXiv|Diffusion|[Towards Consistent and Controllable Image Synthesis for Face Editing](https://arxiv.org/abs/2502.02465)|[Code](https://github.com/weimengting/RigFace)|
 |2025|arXiv|GANs|[SelfAge: Personalized Facial Age Transformation Using Self-reference Images](https://arxiv.org/abs/2502.13987)|[Code](https://github.com/shiiiijp/SelfAge)|
 |2025|arXiv|Diffusion|[MagicFace: High-Fidelity Facial Expression Editing with Action-Unit Control](https://arxiv.org/abs/2501.02260)|[Code](https://github.com/weimengting/MagicFace)|
@@ -424,10 +445,15 @@ This work presents a detailed survey on generation and detection tasks about fac
 ### Forgery Detection
 |Year|Venue|Category|Paper Title|Code|
 |:-:|:-:|:-:|-|-|
+|2025|arXiv|Multi-Modal|[Unlocking the Hidden Potential of CLIP in Generalizable Deepfake Detection](https://arxiv.org/abs/2503.19683)|[Code](https://github.com/yermandy/deepfake-detection)|
+|2025|arXiv|Space Domain|[From Specificity to Generality: Revisiting Generalizable Artifacts in Detecting Face Deepfakes](https://arxiv.org/abs/2504.04827)|-|
+|2025|arXiv|Space Domain|[Rethinking Vision-Language Model in Face Forensics: Multi-Modal Interpretable Forged Face Detector](https://arxiv.org/abs/2503.20188)|-|
+|2025|arXiv|Space Domain|[Unmasking the Unknown: Facial Deepfake Detection in the Open-Set Paradigm](https://arxiv.org/abs/2503.20188)|-|
+|2025|PR|Space Domain|[DSM: Domain Shift Modeling for general deepfake detection](https://www.sciencedirect.com/science/article/pii/S0165168424004420)|-|
 |2025|Signal Processing|Space Domain|[DSM: Domain Shift Modeling for general deepfake detection](https://www.sciencedirect.com/science/article/pii/S0165168424004420)|-|
 |2025|TCSVT|Space Domain|[LGDF-Net: Local and Global Feature Based Dual-Branch Fusion Networks for Deepfake Detection](https://ieeexplore.ieee.org/abstract/document/10843307)|-|
 |2025|Neurocomputing|Multi-Modal|[A spatio-frequency cross fusion model for deepfake detection and segmentation](https://www.sciencedirect.com/science/article/pii/S0925231225003558)|-|
-|2025|PR|Space Domain|[Real face foundation representation learning for generalized deepfake detection](https://www.sciencedirect.com/science/article/pii/S0031320324010501#fig3)|-|
+|2025|PR|Space Domain|[Real face foundation representation learning for generalized deepfake detection](https://www.sciencedirect.com/science/article/pii/S0031320324010501)|-|
 |2025|IJCV|Space Domain|[DeepFake-Adapter: Dual-Level Adapter for DeepFake Detection](https://link.springer.com/article/10.1007/s11263-024-02274-6)|-|
 |2024|arXiv|Other|[Facial Features Matter: a Dynamic Watermark based Proactive Deepfake Detection Approach](https://arxiv.org/abs/2411.14798)|-|
 |2024|arXiv|Space Domain|[Capture Artifacts via Progressive Disentangling and Purifying Blended Identities for Deepfake Detection](https://arxiv.org/abs/2410.10244)|-|
