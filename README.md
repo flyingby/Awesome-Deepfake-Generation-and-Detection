@@ -100,7 +100,7 @@ This work presents a detailed survey on generation and detection tasks about fac
 |2024|arXiv|Difussion|[Face Swap via Diffusion Model](https://arxiv.org/abs/2403.01108)|[Code](https://github.com/somuchtome/faceswap)|
 |2024|arXiv|GANs|[E4S: Fine-grained Face Swapping via Editing With Regional GAN Inversion](https://arxiv.org/abs/2310.15081)|[Code](https://e4s2024.github.io/)|
 |2024|NIPS|Diffusion|[FuseAnyPart: Diffusion-Driven Facial Parts Swapping via Multiple Reference Images](https://proceedings.neurips.cc/paper_files/paper/2024/hash/939f20cc178460749e4ab5fa28fd3b10-Abstract-Conference.html)|[Code](https://github.com/Thomas-wyh/FuseAnyPart)|
-|2024|ACM MM|VAEs|[CodeSwap: Symmetrically Face Swapping Based on Prior Codebook](https://openreview.net/forum?id=TYbuVVM3iR)|[Code](https://github.com/ICTMCG/CSCS)|
+|2024|ACM MM|VAEs|[CodeSwap: Symmetrically Face Swapping Based on Prior Codebook](https://openreview.net/forum?id=TYbuVVM3iR)|-|
 |2024|ACM TOG|GANs|[Identity-Preserving Face Swapping via Dual Surrogate Generative Models](https://dl.acm.org/doi/abs/10.1145/3676165?casa_token=ftkZx-RX6tsAAAAA:TKCR4gcHy9tWrY3UqJ6I6CV1dTQmCBXbjqk17I1Pz6ibgU45yF3F0i586RjdFkjhwTqxUoIvV9aJ)|[Code](https://github.com/ICTMCG/CSCS)|
 |2024|ESWA|GANs|[Face swapping with adaptive exploration-fusion mechanism and dual en-decoding tactic](https://www.sciencedirect.com/science/article/pii/S0957417424016890)|-|
 |2024|ECCV|Diffusion|[Face Adapter for Pre-Trained Diffusion Models with Fine-Grained ID and Attribute Control](https://arxiv.org/abs/2405.12970)|[Code](https://faceadapter.github.io/face-adapter.github.io/)|
