@@ -466,7 +466,7 @@ This work presents a detailed survey on generation and detection tasks about fac
 |2024|arXiv|Space Domain|[UniForensics: Face Forgery Detection via General Facial Representation](https://arxiv.org/abs/2407.19079)|-|
 |2024|arXiv|Benchmark|[DF40: Toward Next-Generation Deepfake Detection](https://arxiv.org/abs/2406.13495)|-|
 |2024|arXiv|Space Domain|[Adversarial Magnification to Deceive Deepfake Detection through Super Resolution](https://arxiv.org/pdf/2407.02670)|[Code](https://github.com/davide-coccomini/Adversarial-Magnification-to-Deceive-Deepfake-Detection-through-Super-Resolution)|
-|2024|arXiv|Space Domain|[In Anticipation of Perfect Deepfake: Identity-anchored Artifact-agnostic Detection under Rebalanced Deepfake Detection Protocol](https://arxiv.org/abs/2405.00483)|[Code](https://github.com/AaronComo/LipFD)|
+|2024|arXiv|Space Domain|[In Anticipation of Perfect Deepfake: Identity-anchored Artifact-agnostic Detection under Rebalanced Deepfake Detection Protocol](https://arxiv.org/abs/2405.00483)|-|
 |2024|arXiv|Time Domain|[Lips Are Lying: Spotting the Temporal Inconsistency between Audio and Visual in Lip-Syncing DeepFakes](https://arxiv.org/abs/2401.15668)|[Code](https://github.com/AaronComo/LipFD)|
 |2024|arXiv|Frequency Domain|[FreqBlender: Enhancing DeepFake Detection by Blending Frequency Knowledge](https://arxiv.org/abs/2404.13872)|-|
 |2024|arXiv|Space Domain|[MoE-FFD: Mixture of Experts for Generalized and Parameter-Efficient Face Forgery Detection](https://arxiv.org/abs/2404.08452)|-|
