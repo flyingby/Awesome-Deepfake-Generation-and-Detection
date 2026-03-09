@@ -27,7 +27,10 @@
     <strong><sup>1</sup>East China Normal University</strong> &nbsp;&nbsp;&nbsp; <strong><sup>2</sup>Tencent Youtu Lab</strong> &nbsp;&nbsp;&nbsp; <strong><sup>3</sup>Nanjing University</strong> &nbsp;&nbsp;&nbsp; <strong><sup>4</sup>Shanghai Jiao Tong University</strong>
     <br>
     <strong><sup>5</sup>Zhejiang University</strong>  &nbsp;&nbsp;&nbsp; <strong><sup>6</sup>Nanyang Technological University</strong>
-    
+
+<p align="center">
+ <strong><sup></sup>ACM Computing Surveys 2026</strong>
+      </a>
 <p align="center">
     <a href='https://arxiv.org/abs/2403.17881'>
       <img src='https://img.shields.io/badge/arXiv-PDF-green?style=flat&logo=arXiv&logoColor=green' alt='arXiv PDF'>
