@@ -694,13 +694,6 @@ doi = {10.1145/3801962},
 note = {Just Accepted},
 journal = {ACM Computing Surveys}
 }
-or
-@article{pei2024deepfake,
-  title={Deepfake Generation and Detection: A Benchmark and Survey},
-  author={Pei, Gan and Zhang, Jiangning and Hu, Menghan and Zhai, Guangtao and Wang, Chengjie and Zhang, Zhenyu and Yang, Jian and Shen, Chunhua and Tao, Dacheng},
-  journal={arXiv preprint arXiv:2403.17881},
-  year={2024}
-}
 ```
 ## Contact
 
