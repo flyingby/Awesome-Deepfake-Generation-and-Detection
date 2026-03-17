@@ -682,8 +682,21 @@ This work presents a detailed survey on generation and detection tasks about fac
 If you find our survey and repository useful for your research project, please consider citing our paper:
 
 ```bibtex
+@article{pei2026deepfake,
+author = {Pei, Gan and Zhang, Jiangning and Hu, Menghan and Zhang, Zhenyu and Wang, Chengjie and Wu, Yunsheng and Zhai, Guangtao and Yang, Jian and Tao, Dacheng},
+title = {Deepfake Generation and Detection: A Benchmark and Survey},
+year = {2026},
+publisher = {Association for Computing Machinery},
+address = {New York, NY, USA},
+issn = {0360-0300},
+url = {https://doi.org/10.1145/3801962},
+doi = {10.1145/3801962},
+note = {Just Accepted},
+journal = {ACM Computing Surveys}
+}
+or
 @article{pei2024deepfake,
-  title={Deepfake generation and detection: A benchmark and survey},
+  title={Deepfake Generation and Detection: A Benchmark and Survey},
   author={Pei, Gan and Zhang, Jiangning and Hu, Menghan and Zhai, Guangtao and Wang, Chengjie and Zhang, Zhenyu and Yang, Jian and Shen, Chunhua and Tao, Dacheng},
   journal={arXiv preprint arXiv:2403.17881},
   year={2024}
