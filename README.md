@@ -27,6 +27,7 @@
     <strong><sup>5</sup>Shanghai Jiao Tong University</strong>  &nbsp;&nbsp;&nbsp; <strong><sup>6</sup>Nanyang Technological University</strong>
 
 <p align="center">
+<a href='https://dl.acm.org/doi/abs/10.1145/3801962'>
  <strong><sup></sup>ACM Computing Surveys 2026</strong>
       </a>
 <p align="center">
