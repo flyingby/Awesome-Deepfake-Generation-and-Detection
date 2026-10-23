@@ -390,7 +390,6 @@ This work presents a detailed survey on generation and detection tasks about fac
 ### Facial Attribute Editing
 |Year|Venue|Category|Paper Title|Code|
 |:-:|:-:|:-:|-|-|
-|2026|SIGGRAPH|Diffusion|[HairPort: In-context 3D-aware Hair Import and Transfer for Images](https://arxiv.org/abs/2606.12562)|[Code](https://github.com/deepmancer/HairPort)|
 |2025|arXiv|Diffusion|[EmojiDiff: Advanced Facial Expression Control with High Identity Preservation in Portrait Generation](https://arxiv.org/abs/2412.01254)|-|
 |2025|arXiv|Diffusion|[Towards Consistent and Controllable Image Synthesis for Face Editing](https://arxiv.org/abs/2502.02465)|[Code](https://github.com/weimengting/RigFace)|
 |2025|arXiv|GANs|[SelfAge: Personalized Facial Age Transformation Using Self-reference Images](https://arxiv.org/abs/2502.13987)|[Code](https://github.com/shiiiijp/SelfAge)|
